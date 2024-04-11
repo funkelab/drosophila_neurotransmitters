@@ -1,6 +1,6 @@
 # Drosophila Neurotransmitters
 
-This repository contrains data on neurotransmitters emitted by cell type in Drosophila Melanogaster. 
+This repository contains data on neurotransmitters emitted by cell type in Drosophila Melanogaster. 
 It is stored in the form of a CSV file with version control through GitHub PRs.
 
 ## How to change data
