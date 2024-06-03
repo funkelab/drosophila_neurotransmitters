@@ -1,0 +1,152 @@
+# Load libraries
+library(fafbseg)
+library(tidyverse)
+library(readr)
+
+# Transmitters we care about
+fast.nts <- c("acetylcholine", "gaba", "glutamate",
+              "dopamine", "serotonin", "octopamine",
+              "nitric oxide", "histamine", "tyramine", "glycine")
+
+# Function to process known_nt column
+filter_words <- function(input_string, words_to_keep) {
+  words <- unlist(strsplit(input_string, ",|, |;|; "))
+  filtered_words <- words[words %in% words_to_keep]
+  paste(filtered_words, collapse = ", ")
+}
+
+# Query and organse flytable data, from midbrain and optic lobe tables
+ft <- fafbseg::flytable_query("select _id, root_id, root_630, root_783, supervoxel_id, proofread, status, pos_x, pos_y, pos_z, nucleus_id, soma_x, soma_y, soma_z, side, ito_lee_hemilineage, hartenstein_hemilineage, top_nt, flow, super_class, cell_class, cell_type, hemibrain_match, hemibrain_type, malecns_type, cb_type, root_duplicated, morphology_group, known_nt, known_nt_source, notes from info")
+ft$region = 'midbrain'
+ft.optic <- fafbseg::flytable_query("select * from optic")
+ft.optic <- ft.optic[, intersect(colnames(ft.optic),
+                                 colnames(ft))]
+ft.optic <- ft.optic[!ft.optic$root_id %in% ft$root_id,]
+ft.optic$region = 'optic_lobes'
+ft.all <- plyr::rbind.fill(ft, ft.optic)
+ft <- ft.all %>% dplyr::filter(!duplicated(root_id))
+ft$species = 'adult_drosophila_melanogaster'
+
+# Make cross typing sheet
+ft.cross <- ft %>%
+  tidyr::separate_longer_delim(hemibrain_type, delim = ", ") %>%
+  tidyr::separate_longer_delim(hemibrain_type, delim = ",") %>%
+  dplyr::mutate(cell_type = case_when(
+    !is.na(cell_type) ~ cell_type,
+    !is.na(hemibrain_type) ~ hemibrain_type,
+    !is.na(cb_type) ~ cb_type,
+    !is.na(morphology_group) ~ morphology_group,
+    !is.na(malecns_type) ~ malecns_type,
+    TRUE ~ cell_type
+  )) %>%
+  dplyr::distinct(cell_type, hemibrain_type, malecns_type, morphology_group, ito_lee_hemilineage, hartenstein_hemilineage, region) %>%
+  dplyr::mutate(in_fafb = TRUE,
+                in_hemibrain = !is.na(hemibrain_type),
+                in_banc = 'to_be_found',
+                in_mcns = 'to_be_found',
+                in_l1 = FALSE) %>%
+  dplyr::arrange(ito_lee_hemilineage)
+readr::write_csv(x = ft.cross, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/exdata/cell_type_cross_matching.csv")
+
+# Take only the entries with a known_nt column
+ft.nt <- ft %>%
+  dplyr::mutate(cell_type = case_when(
+    !is.na(cell_type) ~ cell_type,
+    !is.na(hemibrain_type) ~ hemibrain_type,
+    !is.na(cb_type) ~ cb_type,
+    !is.na(morphology_group) ~ morphology_group,
+    TRUE ~ cell_type
+  )) %>%
+  dplyr::select(cell_type, ito_lee_hemilineage, hemibrain_type, notes, known_nt, known_nt_source, species, region) %>%
+  dplyr::filter(!is.na(known_nt), !known_nt%in%c(""," ","NA","unknown")) %>%
+  tidyr::separate_longer_delim(c(known_nt, known_nt_source), delim = ";") %>%
+  dplyr::rowwise() %>%
+  dplyr::mutate(known_nt = filter_words(known_nt, fast.nts)) %>%
+  dplyr::ungroup() %>%
+  dplyr::filter(known_nt!="") %>%
+  dplyr::rowwise() %>%
+  dplyr::mutate(known_nt_evidence = gsub("\\(|\\)", "",
+                                         regmatches(known_nt_source, gregexpr("\\((.*?)\\)", known_nt_source))[[1]])) %>%
+  dplyr::ungroup() %>%
+  dplyr::mutate(known_nt_source = gsub("\\(.*?\\)", "", known_nt_source),
+                known_nt_source = gsub(" $", "", known_nt_source),
+                known_nt_source = gsub("et al |et al,", "et al., ", known_nt_source),
+                known_nt_source = gsub("^ ", "", known_nt_source)) %>%
+  tidyr::separate_longer_delim(cell_type, delim = ", ") %>%
+  # tidyr::separate_longer_delim(cell_type, delim = ",") %>%
+  dplyr::arrange(cell_type,known_nt, known_nt_source, known_nt_evidence) %>%
+  dplyr::distinct(species, region, cell_type, ito_lee_hemilineage, known_nt, known_nt_source, known_nt_evidence) %>%
+  dplyr::rename(hemilineage=ito_lee_hemilineage)
+
+# Give default confidence value for now
+ft.nt <- ft.nt %>%
+  dplyr::mutate(known_nt_confidence = case_when(
+    known_nt_evidence%in%c("immuno","immuno, MARCM","immuno, intersection","immuno, RNAi") ~ 5,
+    known_nt_evidence%in%c("TAPIN","intersection","transgenic","EASI-FISH") ~ 4,
+    known_nt_evidence%in%c("RT-PCR","scRNA-seq","immuno, tract based", "FISH") ~ 3,
+    known_nt_evidence%in%c("RNAi","MARCM", "MCFO","FACS RNA-seq") ~ 1,
+    known_nt_evidence%in%c("educated guess") ~ 0,
+    TRUE ~ 2
+  ))
+
+# Turn into a matrix
+ft.nt.m <- ft.nt %>%
+  tidyr::separate_longer_delim(known_nt, delim = ", ") %>%
+  dplyr::distinct(cell_type, known_nt, known_nt_source, .keep_all = TRUE) %>%
+  dplyr::mutate(value = 1) %>%
+  tidyr::spread(key = known_nt, value = value, fill = 0) %>%
+  as.data.frame()
+
+# Get MANC summary
+malevnc:::choose_malevnc_dataset('MANC')
+mc.find <- neuprint_search("Traced",field="status",dataset="manc:v1.0")
+mc.ids <- unique(mc.find$bodyid)
+mc.meta <- malevnc::manc_neuprint_meta(mc.ids)
+mc.meta <- subset(mc.meta, !is.na(hemilineage))
+vnc.hls <- table(mc.meta$hemilineage, mc.meta$predictedNt)
+vnc.hls <- as.matrix(vnc.hls)
+vnc.hls <- t(apply(vnc.hls, 1, function(row) row/sum(row)))
+good.vnc.hls <- t(apply(vnc.hls, 1, function(row) any(row>0.9)))
+good.hls <- rownames(vnc.hls)[good.vnc.hls]
+good.hls <- setdiff(good.hls,"NA")
+mvnc.nt <- data.frame()
+for(ghl in good.hls){
+  nt <- colnames(vnc.hls)[which.max(vnc.hls[ghl,])]
+  dat <- mc.meta %>%
+    dplyr::filter(predictedNt==nt, hemilineage == ghl) %>%
+    dplyr::rename(known_nt = predictedNt, cell_type =  type) %>%
+    dplyr::mutate(known_nt_source = 'Lacin et al. 2019',
+                  known_nt_evidence = "FISH",
+                  known_nt_confidence = 3,
+                  region = "VNC",
+                  species = "adult_drosophila_melanogaster") %>%
+    dplyr::distinct(cell_type, hemilineage, known_nt, known_nt_source, known_nt_evidence, known_nt_confidence, region, species)
+  mvnc.nt <- rbind(mvnc.nt, dat)
+}
+mvnc.nt.m <- mvnc.nt %>%
+  dplyr::filter(!is.na(cell_type), !is.na(hemilineage), !is.na(known_nt)) %>%
+  tidyr::separate_longer_delim(known_nt, delim = ", ") %>%
+  dplyr::distinct(cell_type, known_nt, known_nt_source, .keep_all = TRUE) %>%
+  dplyr::mutate(value = 1) %>%
+  tidyr::spread(key = known_nt, value = value, fill = 0)
+
+# Order the data appropriately
+gt.nt <- plyr::rbind.fill(ft.nt.m, mvnc.nt.m)
+gt.nt[is.na(gt.nt)] <- 0
+column.order <-c("species", "region", "hemilineage", "cell_type",
+                 "known_nt_source", "known_nt_evidence", "known_nt_confidence",
+                 "acetylcholine", "glutamate", "gaba", "glycine",
+                 "dopamine","serotonin", "octopamine", "tyramine", "histamine",
+                 "nitric oxide")
+gt.nt <- gt.nt[,column.order]
+
+# Save data
+readr::write_csv(x = gt.nt, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
+
+
+
+
+
+
+
+
