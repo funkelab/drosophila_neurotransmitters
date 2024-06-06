@@ -131,6 +131,7 @@ mvnc.nt.m <- mvnc.nt %>%
   tidyr::spread(key = known_nt, value = value, fill = 0)
 
 # Order the data appropriately
+gt.nt.df <- plyr::rbind.fill(ft.nt, mvnc.nt)
 gt.nt <- plyr::rbind.fill(ft.nt.m, mvnc.nt.m)
 gt.nt[is.na(gt.nt)] <- 0
 column.order <-c("species", "region", "hemilineage", "cell_type",
@@ -141,6 +142,7 @@ column.order <-c("species", "region", "hemilineage", "cell_type",
 gt.nt <- gt.nt[,column.order]
 
 # Save data
+readr::write_csv(x = gt.nt.df, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_gt_data.csv")
 readr::write_csv(x = gt.nt, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
 
 
