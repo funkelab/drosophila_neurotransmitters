@@ -99,7 +99,7 @@ ft.nt.m <- ft.nt %>%
 
 # Get MANC summary
 malevnc:::choose_malevnc_dataset('MANC')
-mc.find <- neuprint_search("Traced",field="status",dataset="manc:v1.0")
+mc.find <- neuprintr::neuprint_search("Traced",field="status",dataset="manc:v1.0")
 mc.ids <- unique(mc.find$bodyid)
 mc.meta <- malevnc::manc_neuprint_meta(mc.ids)
 mc.meta <- subset(mc.meta, !is.na(hemilineage))
