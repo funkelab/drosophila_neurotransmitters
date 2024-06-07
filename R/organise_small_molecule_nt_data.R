@@ -9,9 +9,14 @@ fast.nts <- c("acetylcholine", "gaba", "glutamate",
               "nitric oxide", "histamine", "tyramine", "glycine")
 
 # Function to process known_nt column
-filter_words <- function(input_string, words_to_keep) {
+filter_words <- function(input_string, words_to_keep, invert = FALSE){
   words <- unlist(strsplit(input_string, ",|, |;|; "))
-  filtered_words <- words[words %in% words_to_keep]
+  words <- gsub("^ | $","",words)
+  if (invert){
+    filtered_words <- words[! words %in% words_to_keep]
+  }else{
+    filtered_words <- words[words %in% words_to_keep]
+  }
   paste(filtered_words, collapse = ", ")
 }
 
@@ -50,7 +55,7 @@ readr::write_csv(x = ft.cross, file = "/Users/GD/LMBD/Papers/synister/drosophila
 
 # Take only the entries with a known_nt column
 ft.nt <- ft %>%
-  dplyr::mutate(cell_type = case_when(
+  dplyr::mutate(cell_type = dplyr::case_when(
     !is.na(cell_type) ~ cell_type,
     !is.na(hemibrain_type) ~ hemibrain_type,
     !is.na(cb_type) ~ cb_type,
@@ -80,7 +85,7 @@ ft.nt <- ft %>%
 
 # Give default confidence value for now
 ft.nt <- ft.nt %>%
-  dplyr::mutate(known_nt_confidence = case_when(
+  dplyr::mutate(known_nt_confidence = dplyr::case_when(
     known_nt_evidence%in%c("immuno","immuno, MARCM","immuno, intersection","immuno, RNAi") ~ 5,
     known_nt_evidence%in%c("TAPIN","intersection","transgenic","EASI-FISH") ~ 4,
     known_nt_evidence%in%c("RT-PCR","scRNA-seq","immuno, tract based", "FISH") ~ 3,
