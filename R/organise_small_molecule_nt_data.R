@@ -145,6 +145,7 @@ column.order <-c("species", "region", "hemilineage", "cell_type",
                  "dopamine","serotonin", "octopamine", "tyramine", "histamine",
                  "nitric oxide")
 gt.nt <- gt.nt[,column.order]
+colnames(gt.nt) <- snakecase::to_snake_case(colnames(gt.nt))
 
 # Save data
 readr::write_csv(x = gt.nt.df, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_gt_data.csv")
