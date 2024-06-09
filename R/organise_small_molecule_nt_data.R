@@ -56,7 +56,7 @@ ft.cross <- ft %>%
   dplyr::mutate(in_fafb = TRUE,
                 in_hemibrain = !is.na(hemibrain_type),
                 in_banc = 'to_be_found',
-                in_mcns = 'to_be_found',
+                in_mcns = !is.na(malecns_type),
                 in_l1 = FALSE) %>%
   dplyr::arrange(ito_lee_hemilineage)
 readr::write_csv(x = ft.cross, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/exdata/cell_type_cross_matching.csv")
