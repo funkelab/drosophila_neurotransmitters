@@ -453,6 +453,8 @@ BT; BAmd2 ven desc lat 5_left,glutamate,"Eschbach, Fushiki et al. 2020b, Winding
 Basin-1 a4l,acetylcholine,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
 Basin-1 a4r,acetylcholine,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
 Basin-3 a4l,acetylcholine,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+CSD left,serotonin,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+CSD right,serotonin,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
 ChalOLP;left,acetylcholine,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
 ChalOLP;right,acetylcholine,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
 DA_left,glutamate,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
@@ -720,6 +722,7 @@ Thermo KC A_Left   -   Mushroom Body  Right,acetylcholine,"Eschbach, Fushiki et 
 Thermo KC A_Right - Mushroom Body  Left,acetylcholine,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
 Thermo KC B_left - mbi2 - unknown,acetylcholine,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
 Thermo KC B_right - mbi2 - unknown,acetylcholine,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+Tomato Vine_right,acetylcholine,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",2,larval_drosophila_melanogaster,cns,unpublished
 U ; Convergence Sibling; DALcm12 m ant lat 12_left,gaba,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
 U ; Convergence Sibling; DALcm12 m ant lat 12_right,gaba,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
 a03d/e_a1l,acetylcholine,"Zarin, Mark et al. 2019, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
@@ -767,6 +770,7 @@ lch5-3 a1l,acetylcholine,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman
 lch5-3 a1r,acetylcholine,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
 lch5-5 a1l,acetylcholine,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
 lch5-5 a1r,acetylcholine,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+mPN iACT VUM L,octopamine,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
 nc1;left,acetylcholine,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
 nc1;right,acetylcholine,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
 nc2;left,acetylcholine,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished

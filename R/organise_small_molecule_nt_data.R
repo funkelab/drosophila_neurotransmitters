@@ -23,7 +23,7 @@ filter_words <- function(input_string, words_to_keep, invert = FALSE){
 
 # Query and organse flytable data, from midbrain and optic lobe tables
 ft <- fafbseg::flytable_query("select _id, root_id, root_630, root_783, supervoxel_id, proofread, status, pos_x, pos_y, pos_z, nucleus_id, soma_x, soma_y, soma_z, side, ito_lee_hemilineage, hartenstein_hemilineage, top_nt, flow, super_class, cell_class, cell_type, hemibrain_match, hemibrain_type, malecns_type, cb_type, root_duplicated, morphology_group, known_nt, known_nt_source, notes from info")
-ft$region = 'midbrain'
+ft$region <- 'midbrain'
 ft.optic <- fafbseg::flytable_query("select * from optic")
 ft.optic <- ft.optic[, intersect(colnames(ft.optic),
                                  colnames(ft))]
@@ -142,15 +142,16 @@ conn <- catmaid_connection(server = "https://l1em.catmaid.virtualflybrain.org/")
 # ans <- unique(al$annotations$name)
 # nt.annotations <- ans[grepl("ach|chol|gaba|ergic|npf|NPF|ser|dop|oct",ans)]
 good.ans <- c(
-  "cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic",
-  "GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL",
+  "cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic", "mALT","Rh5", "Rh6", "KC", "KCs", "Kenyopn_cell",
+  "GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL", "mlALT",
   "Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic",
   "dopamine", "mw dopaminergic","dopaminergic","Dopaminergic",
   "Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic", "CSD",
-  "tyramine", "mw octopaminergic", "octopaminergic", "Octopaminergic", "octopamine",
+  "tyramine", "mw octopaminergic", "octopaminergic", "Octopaminergic", "octopamine", "VUM",
   "mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic",
   "mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT",
-  "mw nitric oxide", "NOS", "nos", "nitric oxide")
+  "mw nitric oxide", "NOS", "nos", "nitric oxide",
+  "mw histaminergic", "histamine", 'Histamine', "histaminergic", "Histaminergic")
 good.ans <- paste0("^",good.ans,"$")
 l1.nts <- catmaid_query_by_annotation(good.ans, conn = conn)
 papers <- catmaid_query_by_annotation("papers", conn = conn)
@@ -188,15 +189,16 @@ l1.nts.df <- l1.nts.dat %>%
   dplyr::rename(cell_type = name) %>%
   dplyr::arrange(dplyr::desc(known_nt_confidence)) %>%
   dplyr::mutate(known_nt = dplyr::case_when(
-    known_nt %in% c("cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic") ~ "acetylcholine",
+    known_nt %in% c("cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic", "mALT", "Rh5", "Rh6", "KC", "KCs", "Kenyopn_cell") ~ "acetylcholine",
     known_nt %in% c("Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic") ~ "glutamate",
-    known_nt %in% c("GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL") ~ "gaba",
+    known_nt %in% c("GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL", "mlALT") ~ "gaba",
     known_nt %in% c("dopamine", "mw dopaminergic","dopaminergic","Dopaminergic") ~ "dopamine",
     known_nt %in% c("Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic", "CSD") ~ "serotonin",
-    known_nt %in% c("mw octopaminergic", "octopaminergic", "Octopaminergic","octopamine") ~ "octopamine",
+    known_nt %in% c("mw octopaminergic", "octopaminergic", "Octopaminergic","octopamine", "VUM") ~ "octopamine",
     known_nt %in% c("mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic") ~ "tyramine",
     known_nt %in% c("mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT") ~ "glycine",
     known_nt %in% c("mw nitric oxide", "NOS", "nos", "nitric oxide") ~ "nitric oxide",
+    known_nt %in% c("mw histaminergic", "histamine", 'Histamine', "histaminergic", "Histaminergic") ~ "histamine",
     TRUE ~ NA
   )) %>%
   dplyr::distinct(cell_type, known_nt, .keep_all = TRUE) %>%

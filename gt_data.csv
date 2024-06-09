@@ -382,6 +382,7 @@ adult_drosophila_melanogaster,midbrain,MBp4,KCg-s2,Aso et al. 2019,scRNA-seq,3,1
 adult_drosophila_melanogaster,midbrain,MBp4,KCg-s2,Barnstedt et al. 2016,immuno,5,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,MBp1,KCg-s3,Aso et al. 2019,scRNA-seq,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,MBp1,KCg-s3,Barnstedt et al. 2016,immuno,5,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,l-LNv,"Mao et al., 2024",transgenics,2,0,0,0,1,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VPNd2,LC10a,"Davis et al., 2020",TAPIN,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VPNd2,LC10b,"Davis et al., 2020",TAPIN,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VPNd2,LC10c,"Davis et al., 2020",TAPIN,4,1,0,0,0,0,0,0,0,0,0
@@ -785,7 +786,7 @@ adult_drosophila_melanogaster,midbrain,putative_primary,PPL101,Mao & Davis 2009,
 adult_drosophila_melanogaster,midbrain,putative_primary,PPL101,Neins et al. 2017,immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,PPL102,Mao & Davis 2009,immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,PPL102,"Neins et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
-adult_drosophila_melanogaster,midbrain,putative_primary,PPL103,Aso et al. 2019,scRNA-seq,3,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL103,Aso et al. 2019,scRNA-seq,3,0,0,0,0,1,0,0,0,0,1
 adult_drosophila_melanogaster,midbrain,putative_primary,PPL103,Mao & Davis 2009,immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,PPL103,Neins et al. 2017,immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,PPL104,Mao & Davis 2009,immuno,5,0,0,0,0,1,0,0,0,0,0
@@ -828,8 +829,10 @@ adult_drosophila_melanogaster,midbrain,PSa1,PSa1_48,"Ito et al., 2013",immuno,5,
 adult_drosophila_melanogaster,midbrain,PSa1,PSa1_49,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SMPpv2_dorsal,PV7c11,Zandawala,scRNA-seq,3,0,0,0,0,0,0,0,0,0,1
 adult_drosophila_melanogaster,midbrain,VLPd&p1_dorsal,PVLP008,ASB,educated guess,0,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,0,s-LNv_a,"Mao et al., 2024",transgenics,2,0,0,0,1,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,0,s-LNv_a,"Nern et al., 2024",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,0,s-LNv_b,Frenkel et al. 2017,RNAi,1,0,0,0,1,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,0,s-LNv_b,"Mao et al., 2024",transgenics,2,0,0,0,1,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,LALv1_dorsal,SA1,Janelia ),EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,WEDa1,SAD021_a,"Ito et al., 2014",immuno,5,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,WEDa1,SAD021_c,"Ito et al., 2014",immuno,5,0,0,1,0,0,0,0,0,0,0
@@ -917,6 +920,7 @@ adult_drosophila_melanogaster,midbrain,ALv1,Z_vPNml1,"Tanaka et al., 2012",immun
 adult_drosophila_melanogaster,midbrain,PSa1,0,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,C2,"Davis et al., 2020",TAPIN,4,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,C3,"Davis et al., 2020",TAPIN,4,0,0,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,CB3856,"Eddison et al.,",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,CT1,"Takemura et al., 2017",immuno,5,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm1,"Davis et al., 2020",TAPIN,4,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm10,"Davis et al., 2020",TAPIN,4,0,0,1,0,0,0,0,0,0,0
@@ -2544,6 +2548,8 @@ larval_drosophila_melanogaster,cns,unpublished,choosy 1 left,"Winding, Pedigo et
 larval_drosophila_melanogaster,cns,unpublished,choosy 1 right,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",0,2,0,0,1,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,choosy 2 left,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",0,2,0,0,1,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,choosy 2 right,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",0,2,0,0,1,0,0,0,0,0,0,0
+larval_drosophila_melanogaster,cns,unpublished,CSD left,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",0,2,0,0,0,0,0,1,0,0,0,0
+larval_drosophila_melanogaster,cns,unpublished,CSD right,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",0,2,0,0,0,0,0,1,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,DA_left,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",0,4,0,1,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,DA_right,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",0,4,0,1,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,dbd_a1l,Heckscher et al. 2015,0,2,1,0,0,0,0,0,0,0,0,0
@@ -2778,6 +2784,7 @@ larval_drosophila_melanogaster,cns,unpublished,MDNa_left; pair 1 left,"Winding, 
 larval_drosophila_melanogaster,cns,unpublished,MDNa_right; pair 2 right,"Winding, Pedigo et al. 2023, Carreira-Rosario, Arzan Zarin, Clark et al. 2018",0,4,1,0,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,MDNb_left; pair 2 left,"Winding, Pedigo et al. 2023, Carreira-Rosario, Arzan Zarin, Clark et al. 2018",0,4,1,0,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,MDNb_right; pair 1 right,"Winding, Pedigo et al. 2023, Carreira-Rosario, Arzan Zarin, Clark et al. 2018",0,4,1,0,0,0,0,0,0,0,0,0
+larval_drosophila_melanogaster,cns,unpublished,mPN iACT VUM L,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",0,2,0,0,0,0,0,0,1,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,N_left,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",0,4,1,0,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,N_right,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",0,4,1,0,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,NB5-2 lineage 6 (HMD X?)_a1l,"Winding, Pedigo et al. 2023, Mark et al. 2019",0,2,0,0,1,0,0,0,0,0,0,0
@@ -2856,6 +2863,7 @@ larval_drosophila_melanogaster,cns,unpublished,Thermo KC A_Left   -   Mushroom B
 larval_drosophila_melanogaster,cns,unpublished,Thermo KC A_Right - Mushroom Body  Left,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",0,2,1,0,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,Thermo KC B_left - mbi2 - unknown,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",0,2,1,0,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,Thermo KC B_right - mbi2 - unknown,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",0,2,1,0,0,0,0,0,0,0,0,0
+larval_drosophila_melanogaster,cns,unpublished,Tomato Vine_right,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",0,2,1,0,0,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,U ; Convergence Sibling; DALcm12 m ant lat 12_left,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",0,4,0,0,1,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,U ; Convergence Sibling; DALcm12 m ant lat 12_right,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",0,4,0,0,1,0,0,0,0,0,0,0
 larval_drosophila_melanogaster,cns,unpublished,v'ch a1l,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",0,4,1,0,0,0,0,0,0,0,0,0
