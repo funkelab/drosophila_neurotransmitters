@@ -11,6 +11,10 @@ gt.nt.orig <- readr::read_csv(file = "/Users/GD/LMBD/Papers/synister/drosophila_
 fast.nts <- c("acetylcholine", "gaba", "glutamate",
               "dopamine", "serotonin", "octopamine",
               "nitric oxide", "histamine", "tyramine", "glycine")
+neg.fast.nts <- c("acetylcholine-negative", "gaba-negative", "glutamate-negative",
+              "dopamine-negative", "serotonin-negative", "octopamine-negative",
+              "nitric oxide-negative", "histamine-negative", "tyramine-negative", "glycine-negative")
+all.fast.nts <- c(fast.nts, neg.fast.nts)
 
 # Function to process known_nt column
 filter_words <- function(input_string, words_to_keep, invert = FALSE){
@@ -70,7 +74,7 @@ ft.nt <- ft %>%
   dplyr::filter(!is.na(known_nt), !known_nt%in%c(""," ","NA","unknown")) %>%
   tidyr::separate_longer_delim(c(known_nt, known_nt_source), delim = ";") %>%
   dplyr::rowwise() %>%
-  dplyr::mutate(known_nt = filter_words(known_nt, fast.nts)) %>%
+  dplyr::mutate(known_nt = filter_words(known_nt, all.fast.nts)) %>%
   dplyr::ungroup() %>%
   dplyr::filter(known_nt!="") %>%
   dplyr::rowwise() %>%
@@ -86,10 +90,7 @@ ft.nt <- ft %>%
   # tidyr::separate_longer_delim(cell_type, delim = ",") %>%
   dplyr::arrange(cell_type,known_nt, known_nt_source, known_nt_evidence) %>%
   dplyr::distinct(species, region, cell_type, ito_lee_hemilineage, known_nt, known_nt_source, known_nt_evidence) %>%
-  dplyr::rename(hemilineage=ito_lee_hemilineage)
-
-# Give default confidence value for now
-ft.nt <- ft.nt %>%
+  dplyr::rename(hemilineage=ito_lee_hemilineage) %>%
   dplyr::mutate(known_nt_confidence = dplyr::case_when(
     known_nt_evidence%in%c("immuno","immuno, MARCM","immuno, intersection","immuno, RNAi") ~ 5,
     known_nt_evidence%in%c("TAPIN","intersection","transgenic","EASI-FISH") ~ 4,
@@ -99,11 +100,20 @@ ft.nt <- ft.nt %>%
     TRUE ~ 2
   ))
 
+# Add other missing data from maleCNS, not matched up yet
+malecns.extra <- readr::read_csv("gt_sources/male_cns/malecns_extra.csv")
+ft.nt <- plyr::rbind.fill(ft.nt,malecns.extra)
+
 # Turn into a matrix
 ft.nt.m <- ft.nt %>%
   tidyr::separate_longer_delim(known_nt, delim = ", ") %>%
   dplyr::distinct(cell_type, known_nt, known_nt_source, .keep_all = TRUE) %>%
-  dplyr::mutate(value = 1) %>%
+  dplyr::filter(!is.na(cell_type), !is.na(known_nt)) %>%
+  dplyr::mutate(value = dplyr::case_when(
+    grepl("negative",known_nt) ~ -1,
+    TRUE ~ 1
+  )) %>%
+  dplyr::mutate(known_nt = gsub("-.*","",known_nt)) %>%
   tidyr::spread(key = known_nt, value = value, fill = 0) %>%
   as.data.frame()
 
@@ -269,27 +279,16 @@ for(i in 1:nrow(gt.nt)){
   }
 }
 
-# Add in negative data explicitly marked in flytable
-ft.neg <- subset(ft, grepl('neg|no small-molecule transmitter',ft$known_nt))
-for(i in 1:nrow(ft.neg)){
-  dat.neg <- ft.neg[i,] %>%
-    tidyr::separate_longer_delim(c(known_nt, known_nt_source), delim = ";") %>%
-    dplyr::filter(grepl('neg|no small-molecule transmitter',known_nt))
-  for(j in 1:nrow(dat.neg)){
-    pap <- dat.neg$known_nt_source[j]
-    nct <- dat.neg$cell_type[j]
-    if(nct==){
-      gt.nt[,fast.nts] = -1
-    }else{
-
-    }
-  }
-}
-
 # Combine old and new
 gt.nt.new <- rbind(gt.nt.orig, gt.nt) %>%
   dplyr::distinct()
 # dupes <- duplicated(paste0(gt.nt.new$cell_type,gt.nt.new$known_nt_source))
+
+# Leave unknown hemilinegaes blank
+gt.nt.new$hemilineage[is.na(gt.nt.new$hemilineage)] <- ""
+gt.nt.new$known_nt_source[is.na(gt.nt.new$known_nt_source)] <- ""
+gt.nt.new$known_nt_evidence[is.na(gt.nt.new$known_nt_evidence)] <- ""
+gt.nt.new$known_nt_evidence[is.na(gt.nt.new$known_nt_confidence)] <- 0
 
 # Save data
 readr::write_csv(x = gt.nt.df,
