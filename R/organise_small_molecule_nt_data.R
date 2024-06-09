@@ -143,10 +143,10 @@ conn <- catmaid_connection(server = "https://l1em.catmaid.virtualflybrain.org/")
 # nt.annotations <- ans[grepl("ach|chol|gaba|ergic|npf|NPF|ser|dop|oct",ans)]
 good.ans <- c(
   "cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic",
-  "GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic",
+  "GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL",
   "Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic",
   "dopamine", "mw dopaminergic","dopaminergic","Dopaminergic",
-  "Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic",
+  "Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic", "CSD",
   "tyramine", "mw octopaminergic", "octopaminergic", "Octopaminergic", "octopamine",
   "mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic",
   "mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT",
@@ -190,9 +190,9 @@ l1.nts.df <- l1.nts.dat %>%
   dplyr::mutate(known_nt = dplyr::case_when(
     known_nt %in% c("cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic") ~ "acetylcholine",
     known_nt %in% c("Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic") ~ "glutamate",
-    known_nt %in% c("GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic") ~ "gaba",
+    known_nt %in% c("GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL") ~ "gaba",
     known_nt %in% c("dopamine", "mw dopaminergic","dopaminergic","Dopaminergic") ~ "dopamine",
-    known_nt %in% c("Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic") ~ "serotonin",
+    known_nt %in% c("Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic", "CSD") ~ "serotonin",
     known_nt %in% c("mw octopaminergic", "octopaminergic", "Octopaminergic","octopamine") ~ "octopamine",
     known_nt %in% c("mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic") ~ "tyramine",
     known_nt %in% c("mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT") ~ "glycine",
