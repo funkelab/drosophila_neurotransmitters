@@ -2,6 +2,7 @@
 library(fafbseg)
 library(tidyverse)
 library(readr)
+library(catmaid)
 
 # Transmitters we care about
 fast.nts <- c("acetylcholine", "gaba", "glutamate",
@@ -135,9 +136,91 @@ mvnc.nt.m <- mvnc.nt %>%
   dplyr::mutate(value = 1) %>%
   tidyr::spread(key = known_nt, value = value, fill = 0)
 
+# Get information from the larval connectome
+conn <- catmaid_connection(server = "https://l1em.catmaid.virtualflybrain.org/")
+# al <- catmaid::catmaid_get_annotationlist(conn=conn)
+# ans <- unique(al$annotations$name)
+# nt.annotations <- ans[grepl("ach|chol|gaba|ergic|npf|NPF|ser|dop|oct",ans)]
+good.ans <- c(
+  "cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic",
+  "GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic",
+  "Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic",
+  "dopamine", "mw dopaminergic","dopaminergic","Dopaminergic",
+  "Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic",
+  "tyramine", "mw octopaminergic", "octopaminergic", "Octopaminergic", "octopamine",
+  "mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic",
+  "mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT",
+  "mw nitric oxide", "NOS", "nos", "nitric oxide")
+good.ans <- paste0("^",good.ans,"$")
+l1.nts <- catmaid_query_by_annotation(good.ans, conn = conn)
+papers <- catmaid_query_by_annotation("papers", conn = conn)
+l1.nts.dat <- data.frame()
+for(i in 1:length(l1.nts)){
+  ldf <- l1.nts[[i]]
+  deepannos <- subset(ldf, type!="neuron")
+  if(nrow(deepannos)){
+    extras <- catmaid_query_by_annotation(paste0("^", deepannos$name,"$"), conn = conn)
+    extras <- do.call(rbind, extras)
+    ldf <- rbind(ldf, extras)
+  }
+  ldf <- subset(ldf, type=="neuron")
+  nt <- unique(subset(attr(l1.nts,"annotations"),id==names(l1.nts)[i])$name)
+  known_nt_confidence <- 2
+  if(grepl("^mw",nt)){
+    known_nt_confidence <- 4
+  }
+  ldf$known_nt <- nt
+  ldf$known_nt_source <- NA
+  ldf$known_nt_evidence <- NA
+  ldf$known_nt_confidence <- known_nt_confidence
+  for(ii in 1:nrow(ldf)){
+    annos <- catmaid_get_annotations_for_skeletons(ldf$skid[ii])
+    paps <- subset(annos, annos$id %in% papers$id)
+    if(!nrow(paps)){
+      paps <- "Winding et al., 2024"
+    }
+    ldf$known_nt_source[ii] <- paste(paps$annotation, collapse =", ")
+  }
+  ldf <- dplyr::distinct(ldf, name, known_nt, known_nt_source, known_nt_confidence)
+  l1.nts.dat <- rbind(l1.nts.dat, ldf)
+}
+l1.nts.df <- l1.nts.dat %>%
+  dplyr::rename(cell_type = name) %>%
+  dplyr::arrange(dplyr::desc(known_nt_confidence)) %>%
+  dplyr::mutate(known_nt = dplyr::case_when(
+    known_nt %in% c("cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic") ~ "acetylcholine",
+    known_nt %in% c("Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic") ~ "glutamate",
+    known_nt %in% c("GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic") ~ "gaba",
+    known_nt %in% c("dopamine", "mw dopaminergic","dopaminergic","Dopaminergic") ~ "dopamine",
+    known_nt %in% c("Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic") ~ "serotonin",
+    known_nt %in% c("mw octopaminergic", "octopaminergic", "Octopaminergic","octopamine") ~ "octopamine",
+    known_nt %in% c("mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic") ~ "tyramine",
+    known_nt %in% c("mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT") ~ "glycine",
+    known_nt %in% c("mw nitric oxide", "NOS", "nos", "nitric oxide") ~ "nitric oxide",
+    TRUE ~ NA
+  )) %>%
+  dplyr::distinct(cell_type, known_nt, .keep_all = TRUE) %>%
+  dplyr::arrange(cell_type, known_nt) %>%
+  dplyr::group_by(cell_type) %>%
+  dplyr::mutate(unitary = length(unique(known_nt))==1) %>%
+  dplyr::ungroup() %>%
+  dplyr::filter(unitary|grepl("picky",cell_type)) %>%
+  dplyr::select(cell_type, known_nt, known_nt_source, known_nt_confidence) %>%
+  dplyr::mutate(
+    species = "larval_drosophila_melanogaster",
+    region = "cns",
+    hemilineage = "unpublished",
+  )
+l1.nts.m <- l1.nts.df %>%
+  dplyr::filter(!is.na(cell_type), !is.na(hemilineage), !is.na(known_nt)) %>%
+  tidyr::separate_longer_delim(known_nt, delim = ", ") %>%
+  dplyr::distinct(cell_type, known_nt, known_nt_source, .keep_all = TRUE) %>%
+  dplyr::mutate(value = 1) %>%
+  tidyr::spread(key = known_nt, value = value, fill = 0)
+
 # Order the data appropriately
-gt.nt.df <- plyr::rbind.fill(ft.nt, mvnc.nt)
-gt.nt <- plyr::rbind.fill(ft.nt.m, mvnc.nt.m)
+gt.nt.df <- plyr::rbind.fill(ft.nt, mvnc.nt, l1.nts.df)
+gt.nt <- plyr::rbind.fill(ft.nt.m, mvnc.nt.m, l1.nts.m)
 gt.nt[is.na(gt.nt)] <- 0
 column.order <-c("species", "region", "hemilineage", "cell_type",
                  "known_nt_source", "known_nt_evidence", "known_nt_confidence",
@@ -148,8 +231,12 @@ gt.nt <- gt.nt[,column.order]
 colnames(gt.nt) <- snakecase::to_snake_case(colnames(gt.nt))
 
 # Save data
-readr::write_csv(x = gt.nt.df, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_gt_data.csv")
-readr::write_csv(x = gt.nt, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
+readr::write_csv(x = gt.nt.df,
+                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_gt_data.csv")
+readr::write_csv(x = gt.nt,
+                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
+readr::write_csv(x = l1.nts.df,
+                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_larval_gt_data.csv")
 
 
 
