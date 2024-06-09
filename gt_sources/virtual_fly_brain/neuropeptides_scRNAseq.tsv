@@ -1,0 +1,57 @@
+FBbt_id	FBbt_name	gene_id	gene_name	dataset
+FBbt:00058211	larval aminergic neuron	"[FBgn0063368,FBgn0044048,FBgn0036046,FBgn0287423,FBgn0011581,FBgn0028374]"	"[Gpb5,Ilp5,Ilp2,Nplp2,Ms,Hug]"	[scRNAseq_2019_Avalos]
+FBbt:00058217	larval GABAergic neuron	"[FBgn0063368,FBgn0044048,FBgn0036046,FBgn0011581,FBgn0013767,FBgn0028374]"	"[Gpb5,Ilp5,Ilp2,Ms,Crz,Hug]"	[scRNAseq_2019_Avalos]
+FBbt:00058212	larval peptidergic neuron	"[FBgn0063368,FBgn0032048,FBgn0033358,FBgn0036046,FBgn0287423,FBgn0011581,FBgn0013767]"	"[Gpb5,Dh31,spab,Ilp2,Nplp2,Ms,Crz]"	[scRNAseq_2019_Avalos]
+FBbt:00110107	adult insulin secreting cell of pars intercerebralis	"[FBgn0044050,FBgn0044048,FBgn0036046]"	"[Ilp3,Ilp5,Ilp2]"	"[scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE]"
+FBbt:00058215	larval cholinergic neuron	"[FBgn0044048,FBgn0036046,FBgn0011581]"	"[Ilp5,Ilp2,Ms]"	[scRNAseq_2019_Avalos]
+FBbt:00049568	leg muscle motor neuron	[FBgn0045038]	[Proc]	"[scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE]"
+FBbt:00003771	distal medullary amacrine neuron Dm4	"[FBgn0045038,FBgn0035092]"	"[Proc,Nplp1]"	[scRNAseq_2021_Ozel]
+FBbt:00110135	distal medullary amacrine neuron Dm10	[FBgn0045038]	[Proc]	[scRNAseq_2021_Ozel]
+FBbt:00048900	lineage 15 secondary neuron	[FBgn0045038]	[Proc]	[scRNAseq_2020_Allen]
+FBbt:00003768	distal medullary amacrine neuron Dm1	"[FBgn0045038,FBgn0035092]"	"[Proc,Nplp1]"	[scRNAseq_2021_Ozel]
+FBbt:00003741	lamina wide-field 1 neuron	[FBgn0045038]	[Proc]	[scRNAseq_2021_Ozel]
+FBbt:00047095	adult neuron	"[FBgn0032048,FBgn0036690,FBgn0287423]"	"[Dh31,Ilp8,Nplp2]"	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00051469	hemilineage 9B secondary neuron	"[FBgn0032048,FBgn0035092,FBgn0085512]"	"[Dh31,Nplp1,RYa]"	[scRNAseq_2020_Allen]
+FBbt:00003823	transmedullary Y neuron TmY5a	"[FBgn0032840,FBgn0035092]"	"[sNPF,Nplp1]"	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_FEMALE]"
+FBbt:00003779	medullary intrinsic neuron Mi4	[FBgn0032840]	[sNPF]	"[scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00067031	adult olfactory receptor neuron Or67d	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE]"
+FBbt:00049825	adult Kenyon cell	[FBgn0032840]	[sNPF]	"[scRNAseq_2021_Maker_CTRL,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2021_Mokashi_CTRL,scRNAseq_2022_FCA_MALE]"
+FBbt:00111282	proximal medullary amacrine neuron Pm4	"[FBgn0032840,FBgn0035092]"	"[sNPF,Nplp1]"	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2021_Ozel]"
+FBbt:00111285	medullary intrinsic neuron Mi15	[FBgn0032840]	[sNPF]	"[scRNAseq_2021_Ozel,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00067064	adult olfactory receptor neuron Gr21a/63a	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00100247	gamma Kenyon cell	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_MALE]"
+FBbt:00100248	alpha/beta Kenyon cell	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00067011	adult olfactory receptor neuron Or65	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00051173	adult antennal sensory neuron	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE]"
+FBbt:00111271	distal medullary amacrine neuron Dm9	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MALE]"
+FBbt:00111752	lobula columnar neuron LC17	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MIXED]"
+FBbt:00067056	adult olfactory receptor neuron Or47b	[FBgn0032840]	[sNPF]	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE]"
+FBbt:00058206	adult dopaminergic neuron	[FBgn0032840]	[sNPF]	[scRNAseq_2021_Mokashi_CTRL]
+FBbt:00048471	nociceptive neuron	"[FBgn0033358,FBgn0035023]"	"[spab,ITP]"	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE]"
+FBbt:00051420	adult mechanosensory neuron	"[FBgn0035023,FBgn0287423]"	"[ITP,Nplp2]"	[scRNAseq_2022_FCA_MALE]
+FBbt:00003835	proximal medullary amacrine neuron Pm2	[FBgn0035092]	[Nplp1]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MIXED]"
+FBbt:00110061	adult Tachykinin neuron of the central nervous system	"[FBgn0035092,FBgn0037976]"	"[Nplp1,Tk]"	"[scRNAseq_2021_Mokashi_CTRL,scRNAseq_2021_Maker_CTRL]"
+FBbt:00003784	medullary intrinsic neuron Mi9	[FBgn0035092]	[Nplp1]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED,scRNAseq_2021_Ozel]"
+FBbt:00111273	distal medullary amacrine neuron Dm12	[FBgn0035092]	[Nplp1]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_MALE]"
+FBbt:00051467	hemilineage 1B secondary neuron	[FBgn0035092]	[Nplp1]	[scRNAseq_2020_Allen]
+FBbt:00058208	adult glutamatergic neuron	[FBgn0035092]	[Nplp1]	[scRNAseq_2020_Allen]
+FBbt:00110074	transmedullary neuron Tm5c	"[FBgn0035092,FBgn0287423]"	"[Nplp1,Nplp2]"	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MIXED]"
+FBbt:00110066	proximal medullary amacrine neuron Pm3	"[FBgn0035092,FBgn0015591]"	"[Nplp1,AstA]"	[scRNAseq_2021_Ozel]
+FBbt:00051459	hemilineage 21A secondary neuron	[FBgn0035092]	[Nplp1]	[scRNAseq_2020_Allen]
+FBbt:00051475	hemilineage 12B secondary neuron	[FBgn0035092]	[Nplp1]	[scRNAseq_2020_Allen]
+FBbt:00048896	lineage 16 secondary neuron	[FBgn0035092]	[Nplp1]	[scRNAseq_2020_Allen]
+FBbt:00058218	larval glutamatergic neuron	"[FBgn0036046,FBgn0011581]"	"[Ilp2,Ms]"	[scRNAseq_2019_Avalos]
+FBbt:00004211	photoreceptor neuron	"[FBgn0036690,FBgn0039722]"	"[Ilp8,Capa]"	[scRNAseq_2022_FCA_FEMALE]
+FBbt:00003729	T2a neuron	[FBgn0037976]	[Tk]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00003792	transmedullary neuron Tm4	[FBgn0037976]	[Tk]	[scRNAseq_2021_Ozel]
+FBbt:00003789	transmedullary neuron Tm1	[FBgn0037976]	[Tk]	"[scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MIXED]"
+FBbt:00013774	distal medullary amacrine neuron Dm8	[FBgn0037976]	[Tk]	"[scRNAseq_2022_FCA_MALE,scRNAseq_2021_Ozel,scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE]"
+FBbt:00003776	medullary intrinsic neuron Mi1	[FBgn0037976]	[Tk]	"[scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_FEMALE,scRNAseq_2021_Ozel]"
+FBbt:00003730	T3 neuron	[FBgn0037976]	[Tk]	"[scRNAseq_2022_FCA_MIXED,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MALE,scRNAseq_2021_Ozel]"
+FBbt:00111276	distal medullary amacrine neuron Dm15	[FBgn0037976]	[Tk]	[scRNAseq_2021_Ozel]
+FBbt:00003791	transmedullary neuron Tm3a	[FBgn0037976]	[Tk]	[scRNAseq_2021_Ozel]
+FBbt:00003728	T2 neuron	[FBgn0037976]	[Tk]	[scRNAseq_2021_Ozel]
+FBbt:00003790	transmedullary neuron Tm2	[FBgn0037976]	[Tk]	[scRNAseq_2021_Ozel]
+FBbt:00001446	embryonic/larval neuron	[FBgn0287423]	[Nplp2]	[scRNAseq_2019_Avalos]
+FBbt:00058244	adult sensory neuron	[FBgn0287423]	[Nplp2]	"[scRNAseq_2022_FCA_MALE,scRNAseq_2022_FCA_FEMALE,scRNAseq_2022_FCA_MIXED]"
+FBbt:00003727	columnar neuron T1	[FBgn0013767]	[Crz]	[scRNAseq_2021_Ozel]
