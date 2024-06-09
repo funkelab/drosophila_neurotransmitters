@@ -4,6 +4,9 @@ library(tidyverse)
 library(readr)
 library(catmaid)
 
+# Get the data we have already built
+gt.nt.orig <- readr::read_csv(file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
+
 # Transmitters we care about
 fast.nts <- c("acetylcholine", "gaba", "glutamate",
               "dopamine", "serotonin", "octopamine",
@@ -77,7 +80,8 @@ ft.nt <- ft %>%
   dplyr::mutate(known_nt_source = gsub("\\(.*?\\)", "", known_nt_source),
                 known_nt_source = gsub(" $", "", known_nt_source),
                 known_nt_source = gsub("et al |et al,", "et al., ", known_nt_source),
-                known_nt_source = gsub("^ ", "", known_nt_source)) %>%
+                known_nt_source = gsub("^ ", "", known_nt_source),
+                known_nt_source = gsub("\\)\\)", ")", known_nt_source)) %>%
   tidyr::separate_longer_delim(cell_type, delim = ", ") %>%
   # tidyr::separate_longer_delim(cell_type, delim = ",") %>%
   dplyr::arrange(cell_type,known_nt, known_nt_source, known_nt_evidence) %>%
@@ -232,10 +236,65 @@ column.order <-c("species", "region", "hemilineage", "cell_type",
 gt.nt <- gt.nt[,column.order]
 colnames(gt.nt) <- snakecase::to_snake_case(colnames(gt.nt))
 
+# We know for certain papers, that Ach, vGlut and ChaT were all tested
+all.fast.nt.papers <- c("Dolan et al., 2019","Aso et al., 2014",
+                        "Cheong et al. 2023","Davis et al., 2020",
+                        "Eschbach, Fushiki et al. 2020",
+                        "Janelia","Lacin et al. 2019",
+                        "Nern et al., 2024",
+                        "Turner-Evans et al. 2020",
+                        "Aso et al., 2019")
+all.fast.nt.papers <- paste(all.fast.nt.papers,collapse="|")
+for(i in 1:nrow(gt.nt)){
+  pap <- gt.nt$known_nt_source[i]
+  if(grepl(all.fast.nt.papers,pap)){
+    if (any(gt.nt[i,c("acetylcholine","glutamate","gaba")]>0)){
+      gt.nt[i,c("acetylcholine","glutamate","gaba")][gt.nt[i,c("acetylcholine","glutamate","gaba")]==0]=-1
+    }
+  }
+}
+
+# In these papers, if one monoamine was tested, they all likely were
+all.moa.nt.papers <- c("Janelia",
+                      "Nern et al., 2024",
+                      "Turner-Evans et al. 2020",
+                      "Aso et al., 2019")
+all.moa.nt.papers <- paste(all.moa.nt.papers,collapse="|")
+for(i in 1:nrow(gt.nt)){
+  pap <- gt.nt$known_nt_source[i]
+  if(grepl(all.moa.nt.papers,pap)){
+    if (any(gt.nt[i,c("dopamine","serotonin","octopamine", "tyramine")]>0)){
+      gt.nt[i,c("dopamine","serotonin","octopamine", "tyramine")][gt.nt[i,c("dopamine","serotonin","octopamine", "tyramine")]==0]=-1
+    }
+  }
+}
+
+# Add in negative data explicitly marked in flytable
+ft.neg <- subset(ft, grepl('neg|no small-molecule transmitter',ft$known_nt))
+for(i in 1:nrow(ft.neg)){
+  dat.neg <- ft.neg[i,] %>%
+    tidyr::separate_longer_delim(c(known_nt, known_nt_source), delim = ";") %>%
+    dplyr::filter(grepl('neg|no small-molecule transmitter',known_nt))
+  for(j in 1:nrow(dat.neg)){
+    pap <- dat.neg$known_nt_source[j]
+    nct <- dat.neg$cell_type[j]
+    if(nct==){
+      gt.nt[,fast.nts] = -1
+    }else{
+
+    }
+  }
+}
+
+# Combine old and new
+gt.nt.new <- rbind(gt.nt.orig, gt.nt) %>%
+  dplyr::distinct()
+# dupes <- duplicated(paste0(gt.nt.new$cell_type,gt.nt.new$known_nt_source))
+
 # Save data
 readr::write_csv(x = gt.nt.df,
                  file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_gt_data.csv")
-readr::write_csv(x = gt.nt,
+readr::write_csv(x = gt.nt.new,
                  file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
 readr::write_csv(x = l1.nts.df,
                  file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_larval_gt_data.csv")
