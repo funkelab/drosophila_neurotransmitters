@@ -94,9 +94,9 @@ ft.nt <- ft %>%
   dplyr::mutate(known_nt_confidence = dplyr::case_when(
     known_nt_evidence%in%c("immuno","immuno, MARCM","immuno, intersection","immuno, RNAi") ~ 5,
     known_nt_evidence%in%c("TAPIN","intersection","transgenic","EASI-FISH") ~ 4,
-    known_nt_evidence%in%c("RT-PCR","scRNA-seq","immuno, tract based", "FISH") ~ 3,
-    known_nt_evidence%in%c("RNAi","MARCM", "MCFO","FACS RNA-seq") ~ 1,
-    known_nt_evidence%in%c("educated guess") ~ 0,
+    known_nt_evidence%in%c("RT-PCR","scRNA-seq","immuno, tract based", "FISH", "MCFO") ~ 3,
+    known_nt_evidence%in%c("RNAi","MARCM", "MCFO, unsure","FACS RNA-seq", "immuno, unsure") ~ 1,
+    known_nt_evidence%in%c("educated guess", "scRNA-seq, unsure") ~ 0,
     TRUE ~ 2
   ))
 
@@ -156,12 +156,12 @@ conn <- catmaid_connection(server = "https://l1em.catmaid.virtualflybrain.org/")
 # ans <- unique(al$annotations$name)
 # nt.annotations <- ans[grepl("ach|chol|gaba|ergic|npf|NPF|ser|dop|oct",ans)]
 good.ans <- c(
-  "cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic", "mALT","Rh5", "Rh6", "KC", "KCs", "Kenyopn_cell",
+  "cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic", "mALT","Rh5", "Rh6", "KC", "KCs", "Kenyon_cell", "KC", "Kenyon cell",
   "GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL", "mlALT",
   "Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic",
   "dopamine", "mw dopaminergic","dopaminergic","Dopaminergic",
   "Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic", "CSD",
-  "tyramine", "mw octopaminergic", "octopaminergic", "Octopaminergic", "octopamine", "VUM",
+  "mw octopaminergic", "octopaminergic", "Octopaminergic", "octopamine", "VUM", "IAL-1",
   "mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic",
   "mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT",
   "mw nitric oxide", "NOS", "nos", "nitric oxide",
@@ -203,16 +203,20 @@ l1.nts.df <- l1.nts.dat %>%
   dplyr::rename(cell_type = name) %>%
   dplyr::arrange(dplyr::desc(known_nt_confidence)) %>%
   dplyr::mutate(known_nt = dplyr::case_when(
-    known_nt %in% c("cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic", "mALT", "Rh5", "Rh6", "KC", "KCs", "Kenyopn_cell") ~ "acetylcholine",
+    known_nt %in% c("cholinergic", "acetylcholine","mw cholinergic","Cholinergic","ChaT", "mw cholinergic", "mALT", "Rh5", "Rh6", "KC", "KCs", "Kenyon_cell", "KC", "Kenyon cell") ~ "acetylcholine",
     known_nt %in% c("Glutamatergic", "glutamate", "Vglut", "mw glutamatergic", "glutamatergic") ~ "glutamate",
     known_nt %in% c("GABAergic", "gaba", "GABA", "GAD1", "mw GABAergic", "APL", "mlALT") ~ "gaba",
     known_nt %in% c("dopamine", "mw dopaminergic","dopaminergic","Dopaminergic") ~ "dopamine",
     known_nt %in% c("Serotonergic", "serotonin", "serT", "mw serotonergic", "serotonergic", "CSD") ~ "serotonin",
-    known_nt %in% c("mw octopaminergic", "octopaminergic", "Octopaminergic","octopamine", "VUM") ~ "octopamine",
+    known_nt %in% c("mw octopaminergic", "octopaminergic", "Octopaminergic","octopamine", "VUM", "IAL-1") ~ "octopamine",
     known_nt %in% c("mw tyraminergic", "Tyramine", "tyramine","Tyraminergic", "tyraminergic") ~ "tyramine",
     known_nt %in% c("mw glycinergic", "Glycine", "glycinergic","Glycinergic", "glycine", "glyT") ~ "glycine",
     known_nt %in% c("mw nitric oxide", "NOS", "nos", "nitric oxide") ~ "nitric oxide",
     known_nt %in% c("mw histaminergic", "histamine", 'Histamine', "histaminergic", "Histaminergic") ~ "histamine",
+    TRUE ~ NA
+  )) %>% # some manual fixes
+  dplyr::mutate(known_nt = dplyr::case_when(
+    grepl(cell_typem,"picky") ~ "glutamate",
     TRUE ~ NA
   )) %>%
   dplyr::distinct(cell_type, known_nt, .keep_all = TRUE) %>%
