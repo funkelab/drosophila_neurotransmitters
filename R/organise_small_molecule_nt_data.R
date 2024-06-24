@@ -215,10 +215,12 @@ l1.nts.df <- l1.nts.dat %>%
     known_nt %in% c("mw histaminergic", "histamine", 'Histamine', "histaminergic", "Histaminergic") ~ "histamine",
     TRUE ~ NA
   )) %>% # some manual fixes
+  dplyr::rowwise() %>%
   dplyr::mutate(known_nt = dplyr::case_when(
-    grepl(cell_typem,"picky") ~ "glutamate",
+    grepl(cell_type,"picky") ~ "glutamate",
     TRUE ~ NA
   )) %>%
+  dplyr::ungroup() %>%
   dplyr::distinct(cell_type, known_nt, .keep_all = TRUE) %>%
   dplyr::arrange(cell_type, known_nt) %>%
   dplyr::group_by(cell_type) %>%
