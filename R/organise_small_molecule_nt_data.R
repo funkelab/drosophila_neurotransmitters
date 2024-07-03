@@ -100,6 +100,10 @@ ft.nt <- ft %>%
     TRUE ~ 2
   ))
 
+# All flywire with known_nt
+readr::write_csv(x = ft.nt,
+                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-flywire_gt_data.csv")
+
 # Add other missing data from maleCNS, not matched up yet
 malecns.extra <- readr::read_csv("gt_sources/male_cns/malecns_extra.csv")
 ft.nt <- plyr::rbind.fill(ft.nt,malecns.extra)
@@ -303,11 +307,3 @@ readr::write_csv(x = gt.nt.new,
                  file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
 readr::write_csv(x = l1.nts.df,
                  file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_larval_gt_data.csv")
-
-
-
-
-
-
-
-
