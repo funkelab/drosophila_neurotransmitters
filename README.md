@@ -1,28 +1,62 @@
-# Drosophila neurotransmitters
+# Drosophila Neurotransmitters
 
-This repository contains data on neurotransmitters used by different cell type in *Drosophila melanogaster*. 
-It is stored in the form of a .csv file with version control through GitHub PRs, named `gt_data.csv`.
+This repository contains curated data on neurotransmitters used by different cell types (Bates et al. 2019) in *Drosophila melanogaster*. The data is stored in a version-controlled .csv file named `gt_data.csv`, with changes managed through GitHub Pull Requests.
 
-Note, this rpeository is only for fast-acting small molecule transmitters, such as acetylcholine, glutamate, gaba, glycine,dopamine,serotonin, octopamine, tyramine, histamine, nitric oxide, etc. We have another repo for neuropeptide annotation: `funkelab/drosophila_neuropeptides`.
+## Scope
 
-## How to change data (but I do not use Git)
+This repository focuses on fast-acting small molecule transmitters, including:
 
-1. Download the `gt_data.csv` file and open with your favorite spreadsheet reader.
-2. Add your data to the bottom of the `gt_data.csv` file, and save **as a CSV**.
-3. Return to this page and click on the plus sign next to `Code`. You should see a dropdown menu, choose `Upload Files`.
-4. Upload your version of the `gt_data.csv` file you modified. Make sure that it has the same name!
-5. Fill in the form below.
-    - Change `Add files via upload` to a more precise description of your changes. Keep it short and simple! 
-    - Add more detail into the `Add an optional extended description...` form field below it.
-6. Click on `Create a new branch for this commit and start a pull request`. You can keep the branch name that comes up by default.
-7. You will be brought to a `Open a pull request` page. Review your changes and click on `Create pull request` once you're done.
-8. Wait for review from one of the maintainers! You may be asked follow-up questions to make sure your added data matches with our expectations, so please be patient.
+- **Acetylcholine:** The primary excitatory neurotransmitter in the insect central nervous system, crucial for learning and memory.
+- **Glutamate:** Can be either excitatory of inhibitory in the central nervous system, depending on the downstream receptor.
+- **GABA (γ-Aminobutyric acid):** The main inhibitory neurotransmitter in the adult fly brain.
+- **Glycine:** While less common in Drosophila, it can act as an inhibitory neurotransmitter in some neurons.
+- **Dopamine**: Involved in reward, motivation, and motor control; important for learning and memory.
+- **Serotonin:** Regulates various behaviors including sleep, feeding, and aggression.
+- **Octopamine:** Often described as the insect analogue of norepinephrine, involved in arousal and aggression.
+- **Tyramine:** Precursor to octopamine, also functions as a neurotransmitter affecting various behaviors.
+- **Histamine:** Primary neurotransmitter in photoreceptors and some mechanosensory neurons.
+- **Nitric oxide:** A gaseous signaling molecule involved in various physiological processes including memory formation.
 
-## How to change data (but I know how to use Git)
+For neuropeptide annotation, please refer to our separate repository: [funkelab/drosophila_neuropeptides](https://github.com/funkelab/drosophila_neuropeptides).
 
-Clone this repository and create a new branch.
-Modify the data file, commit with a meaningful name and push.
-Create a PR for your branch once you are happy with it.
+## How to Contribute Data
+
+### For Git Novices
+
+1. Download the `gt_data.csv` file and open it with your preferred spreadsheet application.
+2. Add your data to the bottom of the file and save it as a CSV.
+3. On the repository page, click the "+" sign next to "Code" and select "Upload Files".
+4. Upload your modified `gt_data.csv` file, ensuring the filename remains unchanged.
+5. Fill in the commit form:
+   - Provide a concise description of your changes in the first field.
+   - Add more detailed information in the "Add an optional extended description..." field.
+6. Select "Create a new branch for this commit and start a pull request".
+7. Review your changes on the "Open a pull request" page and click "Create pull request".
+8. Wait for review from a maintainer. Be prepared to answer follow-up questions about your data.
+
+### For Git Users
+
+1. Clone this repository and create a new branch.
+2. Modify the `gt_data.csv` file.
+3. Commit your changes with a meaningful commit message and push to your branch.
+4. Create a Pull Request for your branch when you're satisfied with your changes.
+
+## About the Data
+
+Our goal is to collate as much data from the literature as possible, linking neurotransmitter information to neuronal cell types from connectomic datasets. Current datasets include:
+
+- FAFB-FlyWire (whole brain)
+- HemiBrain (partial midbrain)
+- FANC (ventral nerve cord)
+- MANC (ventral nerve cord)
+- optic-lobe (optic lobe)
+- maleCNS (whole nervous system)
+- BANC (whole nervous system)
+- L1 (whole larval nervous system)
+
+The `gt_data.csv` file contains one row per cell type and study, where a given study has identified one or more small molecule transmitters used by a specific cell type.
+
+We have predicted a smaller set of transmitter in MANC, FAFB-FlyWire and Hemibrain (Eckstein and Bates et al., 2024).
 
 ## About the data
 
@@ -57,7 +91,7 @@ The data columns are:
 
  *acetylcholine, glutamate, gaba, glycine,dopamine,serotonin, octopamine, tyramine, histamine, nitric oxide* - Each small molecule transmitter column contains a -1, 0 or 1. 1 = positive evidence for transmitter usage, 0 = no evidence either way for transmitter usage, -1 = negative evidence for transmitter usage. Due to the way wetlab reports are gathered and conveyed, there is relatively little negative data from the literaure but it is useful - and so we really encourage you to add it, if you have it!
 
-This project started in June 2024 with 910 cell types identified across 71 studies in adult D. melanogaster, perhaps ~1-5% of the central nervous system. The folder `gt_sources` contain some tables from a few of these studies, whih we used to help build this data. We encourage you to submit such tables to this folder as well.
+This project started in June 2024 with >900 cell types identified across 71 studies in adult D. melanogaster, perhaps ~1-5% of the central nervous system. The folder `gt_sources` contain some tables from a few of these studies, whih we used to help build this data. We encourage you to submit such tables to this folder as well.
 
 ## Data overview
 
@@ -115,3 +149,27 @@ The same, for neuron counts:
 The same, for cell type counts:
 
 ![cell_types_known_nt](https://github.com/funkelab/drosophila_neurotransmitters/blob/main/inst/images/cell_types_known_nt.png?raw=true)
+
+## Acknowledgements
+
+*As of July 20th 2024 -- repo private* 
+
+This data was collated by Alexander Bates at Harvard Medical School while in the group of Prof. Rachel Wilson. It is manageed and curated together with Diane Adjavon in the laboratory of Jan Funke at Janelia Research Campus. We thank Mark Eddison at Janelia for sharing early assignment of EASI-FISH data for central complex neurons. 
+
+If you use this collected data in your research please liaise with Alex, Diane and Jan on the appropriate ways to acknowledge this resource.
+
+## Citations
+
+1. Bates, A. S., Janssens, J., Jefferis, G. S., & Aerts, S. (2019). Neuronal cell types in the fly: single-cell anatomy meets single-cell genomics. Current Opinion in Neurobiology, 56, 125-134.
+
+2. Eckstein, N., Bates, A. S., Champion, A., Du, M., Yin, Y., Schlegel, P., ... & Funke, J. (2024). Neurotransmitter classification from electron microscopy images at synaptic sites in Drosophila melanogaster. Cell, 187(10), 2574-2594.
+
+For a complete list of references, please see our [citations.md](citations.md) file.
+
+## License
+
+[Include your chosen license information here]
+
+## Contact
+
+For questions or concerns, please open an issue in this repository or contact alexander_bates[at]hms.harvard.edu.
