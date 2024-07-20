@@ -154,7 +154,9 @@ The same, for cell type counts:
 
 *As of July 20th 2024 -- repo private* 
 
-This data was collated by Alexander Bates at Harvard Medical School while in the group of Prof. Rachel Wilson. It is manageed and curated together with Diane Adjavon in the laboratory of Jan Funke at Janelia Research Campus. We thank Mark Eddison at Janelia for sharing early assignment of EASI-FISH data for central complex neurons. 
+This data was collated by [Alexander Bates](https://as-bates.netlify.app/portfolio/) at Harvard Medical School while in the group of Prof. Rachel Wilson
+It is manageed and curated together with [Diane Adjavon](https://adjavon.github.io/) in the laboratory of [Jan Funke](https://www.hhmi.org/scientists/jan-funke) at Janelia Research Campus. 
+We thank [Mark Eddison](https://www.janelia.org/people/mark-eddison) at Janelia for sharing early assignment of EASI-FISH data for central complex neurons. 
 
 If you use this collected data in your research please liaise with Alex, Diane and Jan on the appropriate ways to acknowledge this resource.
 
