@@ -41,7 +41,7 @@ For neuropeptide annotation, please refer to our separate repository: [funkelab/
 3. Commit your changes with a meaningful commit message and push to your branch.
 4. Create a Pull Request for your branch when you're satisfied with your changes.
 
-## About the Data
+## Our Goal
 
 Our goal is to collate as much data from the literature as possible, linking neurotransmitter information to neuronal cell types from connectomic datasets. Current datasets include:
 
@@ -55,6 +55,8 @@ Our goal is to collate as much data from the literature as possible, linking neu
 - L1 (whole larval nervous system)
 
 The `gt_data.csv` file contains one row per cell type and study, where a given study has identified one or more small molecule transmitters used by a specific cell type.
+
+Cross data set cell type mapping is given in the file: `/inst/extdata/cell_type_cross_matching.csv`
 
 We have predicted a smaller set of transmitter in MANC, FAFB-FlyWire and Hemibrain (Eckstein and Bates et al., 2024).
 

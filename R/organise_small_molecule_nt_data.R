@@ -59,7 +59,7 @@ ft.cross <- ft %>%
                 in_mcns = !is.na(malecns_type),
                 in_l1 = FALSE) %>%
   dplyr::arrange(ito_lee_hemilineage)
-readr::write_csv(x = ft.cross, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/exdata/cell_type_cross_matching.csv")
+readr::write_csv(x = ft.cross, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/inst/extdata/cell_type_cross_matching.csv")
 
 # Take only the entries with a known_nt column
 ft.nt <- ft %>%
