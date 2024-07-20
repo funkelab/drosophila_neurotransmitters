@@ -1,11 +1,12 @@
 # Drosophila neurotransmitters
 
 This repository contains data on neurotransmitters used by different cell type in *Drosophila melanogaster*. 
-It is stored in the form of a .csv file with version control through GitHub PRs.
+It is stored in the form of a .csv file with version control through GitHub PRs, named `gt_data.csv`.
 
 Note, this rpeository is only for fast-acting small molecule transmitters, such as acetylcholine, glutamate, gaba, glycine,dopamine,serotonin, octopamine, tyramine, histamine, nitric oxide, etc. We have another repo for neuropeptide annotation: `funkelab/drosophila_neuropeptides`.
 
 ## How to change data (but I do not use Git)
+
 1. Download the `gt_data.csv` file and open with your favorite spreadsheet reader.
 2. Add your data to the bottom of the `gt_data.csv` file, and save **as a CSV**.
 3. Return to this page and click on the plus sign next to `Code`. You should see a dropdown menu, choose `Upload Files`.
@@ -18,11 +19,13 @@ Note, this rpeository is only for fast-acting small molecule transmitters, such 
 8. Wait for review from one of the maintainers! You may be asked follow-up questions to make sure your added data matches with our expectations, so please be patient.
 
 ## How to change data (but I know how to use Git)
+
 Clone this repository and create a new branch.
 Modify the data file, commit with a meaningful name and push.
 Create a PR for your branch once you are happy with it.
 
 ## About the data
+
 We aim to collate as much data from the literature as possible, that can be linked to a neuronal cell type from a  connectoem dataset. 
 At present, those datasets are FAFB-FlyWire (whole brain), HemiBrain (partial midbrain), FANC (ventral nerve cord), MANC (ventral nerve cord), optic-lobe (optic lobe), maleCNS (whole nervous system), BANC (whole nervous system) and the L1 (whole larval nervous system).
 
@@ -55,3 +58,60 @@ The data columns are:
  *acetylcholine, glutamate, gaba, glycine,dopamine,serotonin, octopamine, tyramine, histamine, nitric oxide* - Each small molecule transmitter column contains a -1, 0 or 1. 1 = positive evidence for transmitter usage, 0 = no evidence either way for transmitter usage, -1 = negative evidence for transmitter usage. Due to the way wetlab reports are gathered and conveyed, there is relatively little negative data from the literaure but it is useful - and so we really encourage you to add it, if you have it!
 
 This project started in June 2024 with 910 cell types identified across 71 studies in adult D. melanogaster, perhaps ~1-5% of the central nervous system. The folder `gt_sources` contain some tables from a few of these studies, whih we used to help build this data. We encourage you to submit such tables to this folder as well.
+
+## Data overview
+
+As of 20th July 2024, the data we have include, in the FAFB-783 dataset:
+
+```
+Synapses
+-------------------------------
+acetylcholine  27888474
+dopamine         695904
+gaba            7872711
+glutamate       7095890
+serotonin        320187
+tyramine         283593
+histamine       1103457
+glycine            6430
+nitric_oxide    2461618
+octopamine       295673
+
+Neurons
+-------------------------------
+acetylcholine  51559
+dopamine        1411
+gaba            8962
+glutamate      11408
+serotonin        102
+tyramine         104
+histamine      12120
+glycine            7
+nitric_oxide    4499
+octopamine        62
+
+Cell types
+-------------------------------
+acetylcholine  442
+dopamine        58
+gaba           199
+glutamate      166
+serotonin       30
+tyramine        16
+histamine        5
+glycine          1
+nitric_oxide    10
+octopamine      21
+```
+
+Here we can see the synapse counts (note log scale) by confidence bin for out different ground-truth classes. The bars are in order of increasing confidence threshold (so left-most blue is Ach with confidence >= 1 and right-most blue is Ach with confidence >=5): 
+
+![synapses_known_nt](https://github.com/funkelab/drosophila_neurotransmitters/blob/main/inst/images/synapses_known_nt.png?raw=true)
+
+The same, for neuron counts:
+
+![neurons_known_nt](https://github.com/funkelab/drosophila_neurotransmitters/blob/main/inst/images/neurons_known_nt.png?raw=true)
+
+The same, for cell type counts:
+
+![cell_types_known_nt](https://github.com/funkelab/drosophila_neurotransmitters/blob/main/inst/images/cell_types_known_nt.png?raw=true)

@@ -101,7 +101,17 @@ ft.nt <- ft %>%
   ))
 
 # All flywire with known_nt
-readr::write_csv(x = ft.nt,
+ft.nt.all <- ft %>%
+  dplyr::mutate(cell_type = dplyr::case_when(
+    !is.na(cell_type) ~ cell_type,
+    !is.na(hemibrain_type) ~ hemibrain_type,
+    !is.na(cb_type) ~ cb_type,
+    !is.na(morphology_group) ~ morphology_group,
+    TRUE ~ cell_type
+  )) %>%
+  dplyr::filter(!is.na(known_nt), !known_nt%in%c(""," ","NA","unknown")) %>%
+  dplyr::distinct(root_783, top_nt, cell_type, ito_lee_hemilineage, known_nt, known_nt_source)
+readr::write_csv(x = ft.nt.all,
                  file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-flywire_gt_data.csv")
 
 # Add other missing data from maleCNS, not matched up yet
