@@ -95,7 +95,7 @@ The data columns are:
 
  *acetylcholine, glutamate, gaba, glycine,dopamine,serotonin, octopamine, tyramine, histamine, nitric oxide* - Each small molecule transmitter column contains a -1, 0 or 1. 1 = positive evidence for transmitter usage, 0 = no evidence either way for transmitter usage, -1 = negative evidence for transmitter usage. Due to the way wetlab reports are gathered and conveyed, there is relatively little negative data from the literature but it is useful - and so we really encourage you to add it, if you have it!
 
-This project started in June 2024 with >900 cell types identified across 71 studies in adult D. melanogaster, perhaps ~1-5% of the central nervous system. The folder `gt_sources` contain some tables from a few of these studies, which we used to help build this data. We encourage you to submit such tables to this folder as well.
+This project started in June 2024 with >900 cell types identified across 71 studies in adult D. melanogaster, perhaps ~30% of the central nervous system. The folder `gt_sources` contain some tables from a few of these studies, which we used to help build this data. We encourage you to submit such tables to this folder as well.
 
 ## Data overview
 
