@@ -79,23 +79,23 @@ The data columns are:
 
 *hemilineage* - the hemilineage bundle to which the cell type belongs, in the nomenclature of Ito et al., 2013 and (midbrain), or (ventral nerve cord)
 
-*cell_type* - a cell type name relevant to one of the connectomic datasets. In general, we prefer a FAFB-FlyWire (brain) or MANC (ventrla nerve cord) name.
+*cell_type* - a cell type name relevant to one of the connectomic datasets. In general, we prefer a FAFB-FlyWire (brain) or MANC (ventral nerve cord) name.
 
-*known_nt_source* - the name of the study from which the observation this row records has originated. Note, rows are unique combinations of cell_type and known_nt_source, so each can repeat over multiple rows is many studies look at the same cell type, or information on many cell types has been reported by the same study.
+*known_nt_source* - the name of the study from which the observation this row records has originated. Note, rows are unique combinations of `cell_type` and `known_nt_source`, so each can repeat over multiple rows if many studies look at the same cell type, or information on many cell types has been reported by the same study.
    
 *known_nt_evidence* - the method used by the given study to determine transmission.
 
 *known_nt_confidence* - an expression of how confident you are that the study has correctly identified the right transmitter for the given cell type, and how well that cell type has been matched to connectome data. Scores ~indicate:
   - 5: evidence for protein expression in the given cell type, cell type specific labelling.
-  - 4: evidence for protein expression with coarser anatomical detail / reliable transcript expression usign in situ hybridisation, and ideally for which some negative data is available (different transmitter options tried per cell type) 
-  - 3: identification of RNA transcipts related ot transmitter expression,
-  - 2: Unreliable moirphological match to the EM / more bulk RNA sequecning / gross neuroanatomy based on immunohistochemistry 
+  - 4: evidence for protein expression with coarser anatomical detail / reliable transcript expression using in-situ hybridisation, and ideally for which some negative data is available (different transmitter options tried per cell type) 
+  - 3: identification of RNA transcripts related to transmitter expression,
+  - 2: Unreliable morphological match to the EM / more bulk RNA sequencing / gross neuroanatomy based on immunohistochemistry 
   - 1: Genetic knockdown, e.g. RNAi of transmitter pathways / speculative morphological matches to EM
   - 0: Educated guesses at transmission based on any of the above, but lacking anatomical precision in matching to the EM. 
 
- *acetylcholine, glutamate, gaba, glycine,dopamine,serotonin, octopamine, tyramine, histamine, nitric oxide* - Each small molecule transmitter column contains a -1, 0 or 1. 1 = positive evidence for transmitter usage, 0 = no evidence either way for transmitter usage, -1 = negative evidence for transmitter usage. Due to the way wetlab reports are gathered and conveyed, there is relatively little negative data from the literaure but it is useful - and so we really encourage you to add it, if you have it!
+ *acetylcholine, glutamate, gaba, glycine,dopamine,serotonin, octopamine, tyramine, histamine, nitric oxide* - Each small molecule transmitter column contains a -1, 0 or 1. 1 = positive evidence for transmitter usage, 0 = no evidence either way for transmitter usage, -1 = negative evidence for transmitter usage. Due to the way wetlab reports are gathered and conveyed, there is relatively little negative data from the literature but it is useful - and so we really encourage you to add it, if you have it!
 
-This project started in June 2024 with >900 cell types identified across 71 studies in adult D. melanogaster, perhaps ~1-5% of the central nervous system. The folder `gt_sources` contain some tables from a few of these studies, whih we used to help build this data. We encourage you to submit such tables to this folder as well.
+This project started in June 2024 with >900 cell types identified across 71 studies in adult D. melanogaster, perhaps ~1-5% of the central nervous system. The folder `gt_sources` contain some tables from a few of these studies, which we used to help build this data. We encourage you to submit such tables to this folder as well.
 
 ## Data overview
 
