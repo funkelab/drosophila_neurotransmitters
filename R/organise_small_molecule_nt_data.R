@@ -360,14 +360,6 @@ plot_data <- ft.plot %>%
                                  levels = rev(nt.order),
                                  ordered = TRUE))
 
-# Order cell classes by the proportion of the first neurotransmitter (acetylcholine)
-super_class_order <- plot_data %>%
-  filter(known_fast_nts == fast.nts[1]) %>%
-  arrange(desc(percentage)) %>%
-  pull(super_class)
-plot_data <- plot_data %>%
-  mutate(super_class = factor(super_class, levels = super_class_order))
-
 # Create the plot
 g <- ggplot(plot_data, aes(x = super_class, y = percentage, fill = known_fast_nts)) +
   geom_bar(stat = "identity", position = "fill") +
