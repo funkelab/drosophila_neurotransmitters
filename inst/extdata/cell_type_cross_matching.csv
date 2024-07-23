@@ -3497,7 +3497,6 @@ CB3792,NA,NA,LB19__1,LB19,LB19,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 CB3793,NA,NA,LB19__0,LB19,LB19,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 CB0126,NA,CB0126b,LB19__0,LB19,LB19,midbrain,TRUE,FALSE,to_be_found,TRUE,FALSE
 CB0601,NA,NA,LB19__0,LB19,LB19,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
-AN_multi_14,NA,NA,NA,LB19,LB19,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 CB0988,NA,CB0988b,LB23__0,LB23,LB23,midbrain,TRUE,FALSE,to_be_found,TRUE,FALSE
 DNg85,NA,NA,LB23__0,LB23,LB23,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 CB1475,NA,NA,LB23__0,LB23,LB23,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
@@ -4842,7 +4841,7 @@ SMP022b,SMP022,NA,SIPa1_ventral__0,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRU
 CB1837,SIP011,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 CB1946,NA,NA,SIPa1_ventral__0,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 CB1972,NA,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
-CB2230,NA,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
+CB2230,SIP011,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 SLP106,SLP106,NA,NA,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 CB2262,SIP012,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 SMP022a,SMP022,NA,SIPa1_ventral__0,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
@@ -4852,7 +4851,6 @@ SIP013a,SIP013,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRU
 CL018b,CL018,NA,SIPa1_ventral__0,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 CB2492,NA,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 CB2577,NA,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
-CB2230,SIP011,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 CL024b,CL024,NA,SIPa1_ventral__3,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 CB2662,SIP011,NA,SIPa1_ventral__1,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 SLP104,SLP104,NA,SIPa1_ventral__2,SIPa1_ventral,BLAd2_ventral,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
@@ -10080,6 +10078,7 @@ LHAD1h1,LHAD1h1,NA,NA,NA,NA,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 TRN_VP3b,TRN_VP3b,NA,NA,NA,NA,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 AN_FLA_SMP_1,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 AN_4_None,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
+AN_multi_14,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 CB0611,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 HRN_VP1d,HRN_VP1d,NA,NA,NA,NA,midbrain,TRUE,TRUE,to_be_found,FALSE,FALSE
 NA,NA,NA,NA,NA,BAlc_ventral,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
@@ -10690,7 +10689,6 @@ AN_GNG_129,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 AN_GNG_151,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 AN_multi_108,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 MtAHN,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
-AN_multi_14,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 AN_multi_111,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 AN_GNG_160,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE
 AN_multi_106,NA,NA,NA,NA,NA,midbrain,TRUE,FALSE,to_be_found,FALSE,FALSE

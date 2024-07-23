@@ -5,12 +5,12 @@ library(readr)
 library(catmaid)
 
 # Get the data we have already built
-gt.nt.orig <- readr::read_csv(file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
+gt.nt.orig <- readr::read_csv(file = "gt_data.csv")
 
 # Transmitters we care about
-fast.nts <- c("acetylcholine", "gaba", "glutamate",
-              "dopamine", "serotonin", "octopamine",
-              "nitric oxide", "histamine", "tyramine", "glycine")
+fast.nts <- c("acetylcholine", "glutamate",  "gaba", "glycine",
+              "dopamine", "serotonin", "octopamine", "tyramine",
+              "histamine", "nitric oxide")
 neg.fast.nts <- c("acetylcholine-negative", "gaba-negative", "glutamate-negative",
               "dopamine-negative", "serotonin-negative", "octopamine-negative",
               "nitric oxide-negative", "histamine-negative", "tyramine-negative", "glycine-negative")
@@ -59,7 +59,7 @@ ft.cross <- ft %>%
                 in_mcns = !is.na(malecns_type),
                 in_l1 = FALSE) %>%
   dplyr::arrange(ito_lee_hemilineage)
-readr::write_csv(x = ft.cross, file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/inst/extdata/cell_type_cross_matching.csv")
+readr::write_csv(x = ft.cross, file = "inst/extdata/cell_type_cross_matching.csv")
 
 # Take only the entries with a known_nt column
 ft.nt <- ft %>%
@@ -112,7 +112,7 @@ ft.nt.all <- ft %>%
   dplyr::filter(!is.na(known_nt), !known_nt%in%c(""," ","NA","unknown")) %>%
   dplyr::distinct(root_783, top_nt, cell_type, ito_lee_hemilineage, known_nt, known_nt_source)
 readr::write_csv(x = ft.nt.all,
-                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-flywire_gt_data.csv")
+                 file = "gt_sources/bates_2024/202405-flywire_gt_data.csv")
 
 # Add other missing data from maleCNS, not matched up yet
 malecns.extra <- readr::read_csv("gt_sources/male_cns/malecns_extra.csv")
@@ -312,8 +312,77 @@ gt.nt.new$known_nt_evidence[is.na(gt.nt.new$known_nt_confidence)] <- 0
 
 # Save data
 readr::write_csv(x = gt.nt.df,
-                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_gt_data.csv")
+                 file = "gt_sources/bates_2024/202405-starting_gt_data.csv")
 readr::write_csv(x = gt.nt.new,
-                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_data.csv")
+                 file = "gt_data.csv")
 readr::write_csv(x = l1.nts.df,
-                 file = "/Users/GD/LMBD/Papers/synister/drosophila_neurotransmitters/gt_sources/bates_2024/202405-starting_larval_gt_data.csv")
+                 file = "gt_sources/bates_2024/202405-starting_larval_gt_data.csv")
+
+
+#############################
+### Make plots for README ###
+#############################
+library(ggplot2)
+library(dplyr)
+library(readr)
+library(forcats)
+
+# Organise data
+ft.plot <- ft %>%
+  dplyr::mutate(known_fast_nts = gsub("; |:|, |,",", ",known_nt)) %>%
+  dplyr::rowwise() %>%
+  dplyr::mutate(known_fast_nts = paste(sort(filter_words(unique(unlist(strsplit(known_fast_nts, split=", "))),fast.nts)),
+                                       collapse = " ")) %>%
+  dplyr::ungroup() %>%
+  dplyr::mutate(known_fast_nts = ifelse(grepl(",",known_fast_nts), "co-expression",known_fast_nts)) %>%
+  dplyr::mutate(known_fast_nts = ifelse(is.na(known_fast_nts)|known_fast_nts=="", "unknown",known_fast_nts)) %>%
+  dplyr::mutate(super_class = ifelse(is.na(super_class),flow,super_class)) %>%
+  dplyr::mutate(super_class = ifelse(is.na(super_class),"other",super_class)) %>%
+  dplyr::select(region, super_class, known_fast_nts)
+
+# Read the color data from CSV
+color_data <- read_csv("settings/paper_colours.csv")
+
+# Create a named vector of colors
+color_vector <- setNames(color_data$hex, color_data$label)
+
+# Prepare the data: count, calculate percentages, and order factors
+nt.order <- c("acetylcholine", "glutamate",  "gaba", "glycine",
+              "dopamine", "serotonin", "octopamine", "tyramine",
+              "histamine", "nitric oxide", "co-expression", "unknown")
+plot_data <- ft.plot %>%
+  count(super_class, known_fast_nts) %>%
+  group_by(super_class) %>%
+  mutate(percentage = n / sum(n),
+         total_count = sum(n)) %>%
+  ungroup() %>%
+  mutate(known_fast_nts = factor(known_fast_nts,
+                                 levels = rev(nt.order),
+                                 ordered = TRUE))
+
+# Order cell classes by the proportion of the first neurotransmitter (acetylcholine)
+super_class_order <- plot_data %>%
+  filter(known_fast_nts == fast.nts[1]) %>%
+  arrange(desc(percentage)) %>%
+  pull(super_class)
+plot_data <- plot_data %>%
+  mutate(super_class = factor(super_class, levels = super_class_order))
+
+# Create the plot
+g <- ggplot(plot_data, aes(x = super_class, y = percentage, fill = known_fast_nts)) +
+  geom_bar(stat = "identity", position = "fill") +
+  geom_text(aes(y = 1.05, label = total_count, group = super_class),
+            color = "black", size = 3, fontface = "bold") +
+  scale_y_continuous(labels = scales::percent, expand = expansion(mult = c(0, .1))) +
+  scale_fill_manual(values = color_vector, drop = FALSE) +
+  labs(title = "FAFB-FlyWire 783 brain neuron distribution by super class\n and known fast-acting neurotransmitter",
+       x = "super class",
+       y = "percentage",
+       fill = "fast-acting neurotransmitter") +
+  theme_minimal() +
+  theme(axis.text.x = element_text(angle = 45, hjust = 1),
+        legend.position = "bottom") +
+  coord_flip()  # Flip coordinates for horizontal bars
+
+# Save
+ggsave(g, filename = "inst/images/fafb_783_known_nts.png")

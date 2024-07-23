@@ -1,0 +1,15 @@
+label,hex,type,colour
+acetylcholine,#EB5D25,transmitter,cerise
+glutamate,#00A67D,transmitter,green
+gaba,#2A68AE,transmitter,blue
+serotonin,#D5A848,transmitter,yellow
+dopamine,#B87969,transmitter,red
+neither,#4D4D4D,transmitter,darkgrey
+octopamine,#725C98,transmitter,purple
+tyramine,#FF1493,transmitter,fuschia
+histamine,#581845,transmitter,brown
+nitric oxide,#FFC300,transmitter,darkyellow
+glycine,#DFFF00,transmitter,chartreuse
+other,#4D4D4D,transmitter,darkgrey
+unknown,white,transmitter,white
+co-expression,black,transmitter,black

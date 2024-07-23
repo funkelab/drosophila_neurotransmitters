@@ -2,6 +2,8 @@
 
 This repository contains curated data on neurotransmitters used by different cell types (Bates et al. 2019) in *Drosophila melanogaster*. The data is stored in a version-controlled .csv file named `gt_data.csv`, with changes managed through GitHub Pull Requests.
 
+![fafb_783_known_nts](https://github.com/funkelab/drosophila_neurotransmitters/blob/main/inst/images/fafb_783_known_nts.png?raw=true)
+
 ## Scope
 
 This repository focuses on fast-acting small molecule transmitters, including:
