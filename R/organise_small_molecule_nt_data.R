@@ -38,7 +38,7 @@ ft.optic <- ft.optic[!ft.optic$root_id %in% ft$root_id,]
 ft.optic$region = 'optic_lobes'
 ft.all <- plyr::rbind.fill(ft, ft.optic)
 ft <- ft.all %>% dplyr::filter(!duplicated(root_id))
-ft$species = 'adult_drosophila_melanogaster'
+ft$species <- 'adult_drosophila_melanogaster'
 
 # Make cross typing sheet
 ft.cross <- ft %>%
@@ -128,6 +128,7 @@ ft.nt.m <- ft.nt %>%
     TRUE ~ 1
   )) %>%
   dplyr::mutate(known_nt = gsub("-.*","",known_nt)) %>%
+  dplyr::filter(!is.na(known_nt)) %>%
   tidyr::spread(key = known_nt, value = value, fill = 0) %>%
   as.data.frame()
 
@@ -143,6 +144,7 @@ vnc.hls <- t(apply(vnc.hls, 1, function(row) row/sum(row)))
 good.vnc.hls <- t(apply(vnc.hls, 1, function(row) any(row>0.9)))
 good.hls <- rownames(vnc.hls)[good.vnc.hls]
 good.hls <- setdiff(good.hls,"NA")
+good.hls <- good.hls[!is.na(good.hls)]
 mvnc.nt <- data.frame()
 for(ghl in good.hls){
   nt <- colnames(vnc.hls)[which.max(vnc.hls[ghl,])]
@@ -312,7 +314,7 @@ gt.nt.new$known_nt_evidence[is.na(gt.nt.new$known_nt_confidence)] <- 0
 
 # Save data
 readr::write_csv(x = gt.nt.df,
-                 file = "gt_sources/bates_2024/202405-starting_gt_data.csv")
+                 file = "gt_sources/bates_2024/202409-gt_data.csv")
 readr::write_csv(x = gt.nt.new,
                  file = "gt_data.csv")
 readr::write_csv(x = l1.nts.df,

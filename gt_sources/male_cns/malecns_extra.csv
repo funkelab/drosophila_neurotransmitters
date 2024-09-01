@@ -1,18 +1,48 @@
 ﻿species,region,hemilineage,cell_type,known_nt_evidence,known_nt,known_nt_source,known_nt_confidence
 adult_drosophila_melanogaster,optic_lobes,,Cm11,EASI-FSH,acetylcholine,"Nern et al., 2024",3
-adult_drosophila_melanogaster,optic_lobes,,Cm1,EASI-FSH,acetylcholine,"Nern et al., 2025",3
-adult_drosophila_melanogaster,optic_lobes,,MeLo4,EASI-FSH,acetylcholine,"Nern et al., 2026",3
-adult_drosophila_melanogaster,optic_lobes,,MeLo7,EASI-FSH,acetylcholine,"Nern et al., 2027",3
-adult_drosophila_melanogaster,optic_lobes,,ML2,EASI-FSH,acetylcholine,"Nern et al., 2028",3
-adult_drosophila_melanogaster,optic_lobes,,Tm36,EASI-FSH,acetylcholine,"Nern et al., 2029",3
-adult_drosophila_melanogaster,optic_lobes,,Pm2,EASI-FSH,gaba,"Nern et al., 2030",3
-adult_drosophila_melanogaster,optic_lobes,,Cm31a,EASI-FSH,gaba,"Nern et al., 2031",3
-adult_drosophila_melanogaster,optic_lobes,,Tm30,EASI-FSH,gaba,"Nern et al., 2032",3
-adult_drosophila_melanogaster,optic_lobes,,TmY19b,EASI-FSH,gaba,"Nern et al., 2033",3
-adult_drosophila_melanogaster,optic_lobes,,MeLo9,EASI-FSH,glutamate,"Nern et al., 2034",3
-adult_drosophila_melanogaster,optic_lobes,,MeVC20,EASI-FSH,glutamate,"Nern et al., 2035",3
-adult_drosophila_melanogaster,optic_lobes,,Tm34,EASI-FSH,glutamate,"Nern et al., 2036",3
-adult_drosophila_melanogaster,optic_lobes,,MeVC27,EASI-FSH,"glutamate-negative, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, octopamine-negative","Nern et al., 2037",3
-adult_drosophila_melanogaster,optic_lobes,,OLVC4,EASI-FSH,"glutamate-negative, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, octopamine-negative","Nern et al., 2038",3
+adult_drosophila_melanogaster,optic_lobes,,Cm1,EASI-FSH,acetylcholine,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,MeLo4,EASI-FSH,acetylcholine,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,MeLo7,EASI-FSH,acetylcholine,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,ML2,EASI-FSH,acetylcholine,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,Tm36,EASI-FSH,acetylcholine,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,Pm2,EASI-FSH,gaba,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,Cm31a,EASI-FSH,gaba,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,Tm30,EASI-FSH,gaba,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,TmY19b,EASI-FSH,gaba,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,MeLo9,EASI-FSH,glutamate,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,MeVC20,EASI-FSH,glutamate,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,Tm34,EASI-FSH,glutamate,"Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,MeVC27,EASI-FSH,"glutamate-negative, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, octopamine-negative","Nern et al., 2024",3
+adult_drosophila_melanogaster,optic_lobes,,OLVC4,EASI-FSH,"glutamate-negative, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, octopamine-negative","Nern et al., 2024",3
 adult_drosophila_melanogaster,optic_lobes,,Lai,TAPIN,glutamate,"Davis et al., 2020",0
 adult_drosophila_melanogaster,optic_lobes,,LPi34,TAPIN,glutamate,"Davis et al., 2020",0
+adult_drosophila_melanogaster,midbrain,,vDeltaA_b,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,vDeltaB,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,vDeltaC,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,vDeltaD,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,vDeltaE,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,vDeltaH,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,VDeltaK,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,vDeltaM,EASI-FSH,"acetylcholine, gaba-negative, glutamate-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB1B,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB2C,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB2F_a,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB2G_b,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB2J,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB4A,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB4D,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB4E,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB4J,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5J,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5K,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5L,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5N,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5N,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5Q,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5R,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB5T,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB6B,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB6P,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB7H,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB8F_a,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
+adult_drosophila_melanogaster,midbrain,,FB8F_b,EASI-FSH,"glutamate, gaba-negative, acetylcholine-negative",Janelia,3
