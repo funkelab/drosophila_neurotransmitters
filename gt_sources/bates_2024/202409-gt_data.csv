@@ -137,6 +137,7 @@ adult_drosophila_melanogaster,midbrain,CB.FB2E10,DL1_dorsal,"glutamate, acetylch
 adult_drosophila_melanogaster,midbrain,CB.FB2E2,DL1_dorsal,glutamate,Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,CB.FB2E3,DL1_dorsal,glutamate,Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,CB.FB2E4,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,CB.FB2E5,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,CB.FB2E6,DL1_dorsal,glutamate,ASB,educated guess,0
 adult_drosophila_melanogaster,midbrain,CB.FB2E8,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,CB.FB2E9,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,EASI-FISH,4
@@ -144,14 +145,15 @@ adult_drosophila_melanogaster,midbrain,CB.FB2G0,DM4_dorsal,"acetylcholine, gluta
 adult_drosophila_melanogaster,midbrain,CB.FB2H0,DM6__prim,dopamine,"Hulse et al., 2020",immuno,5
 adult_drosophila_melanogaster,midbrain,CB.FB2H0,DM6__prim,"dopamine, glutamate-negative, acetylcholine-negative, gaba-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,CB.FB2I1,LALv1_dorsal,glutamate,Janelia,EASI-FISH,4
-adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa2_medial,glutamate,Janelia,EASI-FISH,4
-adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa1_dorsal,glutamate,Janelia,EASI-FISH,4
-adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa2_medial,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative","Chiang et al., 2011",MCFO,3
-adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa1_dorsal,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative","Chiang et al., 2011",MCFO,3
-adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa2_medial,glutamate,Janelia,EASI-FISH,4
-adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa1_dorsal,glutamate,Janelia,EASI-FISH,4
-adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa2_medial,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative","Chiang et al., 2011",MCFO,3
-adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa1_dorsal,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative","Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,CB.FB2I2,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa2_medial,tyramine,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa1_dorsal,tyramine,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa2_medial,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,CB.FB2K0,CREa1_dorsal,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa2_medial,tyramine,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa1_dorsal,tyramine,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa2_medial,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,CB.FB2K1,CREa1_dorsal,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4A0",putative_primary,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4A1",putative_primary,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4A10",DM6__prim,dopamine,"Hulse et al., 2020",immuno,5
@@ -177,8 +179,10 @@ adult_drosophila_melanogaster,midbrain,"CB.FB3,4I1",LALv1_dorsal,"glutamate, ace
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4I2",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4I3",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4I5",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"CB.FB3,4I6",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4I7",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4I8",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"CB.FB3,4I9",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative",Janelia,EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4L0",EBa1,gaba,"Ito et al., 2014",immuno,5
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4L1",EBa1,gaba,"Ito et al., 2014",immuno,5
 adult_drosophila_melanogaster,midbrain,"CB.FB3,4L1",EBa1,"gaba, acetylcholine-negative, glutamate-negative",Janelia,EASI-FISH,4

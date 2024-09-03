@@ -5658,3 +5658,6 @@ adult_drosophila_melanogaster,VNC,08A,vMS11,Lacin et al. 2019,FISH,3,-1,1,-1,0,0
 adult_drosophila_melanogaster,VNC,12A,vMS12,Lacin et al. 2019,FISH,3,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,VNC,06B,vMS13,Lacin et al. 2019,FISH,3,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,VNC,12A,vPR6,Lacin et al. 2019,FISH,3,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,CREa2_medial,CB.FB2K0,Janelia,EASI-FISH,4,-1,1,-1,0,-1,1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,CREa2_medial,CB.FB2K1,Janelia,EASI-FISH,4,-1,1,-1,0,-1,1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I9",Janelia,EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
