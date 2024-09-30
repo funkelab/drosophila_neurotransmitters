@@ -5661,3 +5661,14 @@ adult_drosophila_melanogaster,VNC,12A,vPR6,Lacin et al. 2019,FISH,3,1,-1,-1,0,0,
 adult_drosophila_melanogaster,midbrain,CREa2_medial,CB.FB2K0,Janelia,EASI-FISH,4,-1,1,-1,0,-1,1,-1,1,0,0
 adult_drosophila_melanogaster,midbrain,CREa2_medial,CB.FB2K1,Janelia,EASI-FISH,4,-1,1,-1,0,-1,1,-1,1,0,0
 adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I9",Janelia,EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,0,AN_GNG_53,Sapkal et al. 2024,FISH,3,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,0,AN_GNG_54,Sapkal et al. 2024,FISH,3,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,0,AN_GNG_76,Sapkal et al. 2024,FISH,3,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,CB0890,Sapkal et al. 2024,FISH,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SMPpm1,CL210,Bidaye et al. 2020,unknown,0,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LB12,DNg02_h,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,MD3,DNg60,Sapkal et al. 2024,FISH,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,primary,MDN,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SMPpm1,SMP459,Bidaye et al. 2020,unknown,0,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SMPpm1,SMP460,Bidaye et al. 2020,unknown,0,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SMPpm1,SMP461,Bidaye et al. 2020,unknown,0,1,0,0,0,0,0,0,0,0,0

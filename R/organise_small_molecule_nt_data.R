@@ -96,7 +96,7 @@ ft.nt <- ft %>%
     known_nt_evidence%in%c("TAPIN","intersection","transgenic","EASI-FISH") ~ 4,
     known_nt_evidence%in%c("RT-PCR","scRNA-seq","immuno, tract based", "FISH", "MCFO") ~ 3,
     known_nt_evidence%in%c("RNAi","MARCM", "MCFO, unsure","FACS RNA-seq", "immuno, unsure") ~ 1,
-    known_nt_evidence%in%c("educated guess", "scRNA-seq, unsure") ~ 0,
+    known_nt_evidence%in%c("educated guess", "scRNA-seq, unsure","unknown") ~ 0,
     TRUE ~ 2
   ))
 
@@ -115,7 +115,7 @@ readr::write_csv(x = ft.nt.all,
                  file = "gt_sources/bates_2024/202405-flywire_gt_data.csv")
 
 # Add other missing data from maleCNS, not matched up yet
-malecns.extra <- readr::read_csv("gt_sources/male_cns/malecns_extra.csv")
+malecns.extra <- readr::read_csv("gt_sources/extra.csv")
 ft.nt <- plyr::rbind.fill(ft.nt,malecns.extra)
 
 # Turn into a matrix
