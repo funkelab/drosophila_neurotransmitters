@@ -2,6 +2,8 @@
 
 This repository contains curated data on neurotransmitters used by different cell types (Bates et al. 2019) in *Drosophila melanogaster*. The data is stored in a version-controlled .csv file named `gt_data.csv`, with changes managed through GitHub Pull Requests.
 
+For a complete list of references for our ground truth, please see our [CITATIONS.md](CITATIONS.md) file.
+
 ![fafb_783_known_nts](https://github.com/funkelab/drosophila_neurotransmitters/blob/main/inst/images/fafb_783_known_nts.png?raw=true)
 
 ## Scope
@@ -170,11 +172,7 @@ If you use this collected data in your research please liaise with Alex, Diane a
 
 2. Eckstein, N., Bates, A. S., Champion, A., Du, M., Yin, Y., Schlegel, P., ... & Funke, J. (2024). Neurotransmitter classification from electron microscopy images at synaptic sites in Drosophila melanogaster. Cell, 187(10), 2574-2594.
 
-For a complete list of references, please see our [citations.md](citations.md) file.
-
-## License
-
-[Include your chosen license information here]
+For a complete list of references, please see our [CITATIONS.md](CITATIONS.md) file.
 
 ## Contact
 
