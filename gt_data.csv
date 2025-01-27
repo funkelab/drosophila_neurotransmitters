@@ -5672,3 +5672,340 @@ adult_drosophila_melanogaster,midbrain,primary,MDN,"Cheong et al., 2023",EASI-FI
 adult_drosophila_melanogaster,midbrain,SMPpm1,SMP459,Bidaye et al. 2020,unknown,0,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SMPpm1,SMP460,Bidaye et al. 2020,unknown,0,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SMPpm1,SMP461,Bidaye et al. 2020,unknown,0,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,AOTU019,"Collie et al., 2025",FISH,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB1E1,"Wolff et al., 2024",EASI-FISH,4,1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM6__prim,CB.FB1H0,"Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB1I0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E1,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E10,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E2,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E3,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E4,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E5,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E8,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB2E9,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM4_dorsal,CB.FB2G0,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM6__prim,CB.FB2H0,"Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB2I1,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB2I2,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,CREa2_medial,CB.FB2K0,"Wolff et a., 2024",EASI-FISH,4,-1,1,-1,0,-1,1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,CREa2_medial,CB.FB2K1,"Wolff et a., 2024",EASI-FISH,4,-1,1,-1,0,-1,1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,"CB.FB3,4A0","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,"CB.FB3,4A1","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM6__prim,"CB.FB3,4A10","Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,1,1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM6_dorso_medial,"CB.FB3,4A2","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM6__prim,"CB.FB3,4A21","Wolff et al., 2024",EASI-FISH,4,0,0,0,0,1,0,0,1,0,0
+adult_drosophila_melanogaster,midbrain,0,"CB.FB3,4A3","Wolff et al., 2024",EASI-FISH,4,1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM6__prim,"CB.FB3,4A9","Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,-1,1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,0,"CB.FB3,4D0","Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,"CB.FB3,4D0","Wolff et al., 2024",EASI-FISH,4,-1,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,"CB.FB3,4D1","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,"CB.FB3,4D2","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,"CB.FB3,4D3","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,"CB.FB3,4D4","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I0","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I1","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I2","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I3","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I5","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I6","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I7","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I8","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"CB.FB3,4I9","Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,EBa1,"CB.FB3,4L0","Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,EBa1,"CB.FB3,4L1","Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,EBa1,"CB.FB3,4L1","Wolff et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM6_dorso_medial,CB.FB5B0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM6_dorso_medial,CB.FB5B1,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB5C0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,CB.FB5D2,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,CB.FB5D3,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,CB.FB5D4,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,CB.FB5D5,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,CB.FB5D6,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM4_dorsal,CB.FB5G0,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB5I2,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB5I3,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM6_dorso_medial,CB.FB6B1,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB6C0,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB6C1,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB6C2,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB6C3,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB6C4,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB6E4,"Wolff et al., 2024",EASI-FISH,4,1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB6E5,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,CB.FB6F0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB6I0,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB6I1,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM6_dorso_medial,CB.FB7B0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB7C0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,CB.FB7D0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB7E0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB7E1,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB7E2,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,1,1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM6_dorso_medial,CB.FB8B0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,DM6_dorso_medial,CB.FB8B1,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB8C0,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB8C1,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB8C2,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SIPp1,CB.FB8C3,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB8E0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB8E1,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,AOTUv4_ventral,CB.FB9D0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FBTI0,"Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB0027,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB0307,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB0406,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB0945,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB0968,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB0971,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1006,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1065,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1098,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1126,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1148,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1149,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB1150,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1151,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1168,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1169,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1171,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1172,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1173,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1197,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1198,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SMPpv2_dorsal,CB1215,Zandawala lab ,scRNA-seq,3,0,0,0,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1220,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1231,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1314,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1316,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB1371,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1383,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB1392,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1393,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1457,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1538,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB1593,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1683,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB1699,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1760,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1942,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1948,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB1969,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB1991,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB2023,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB2032,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB2072,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2116,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2146,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2194,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB2228,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB2238,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2244,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB2273,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2283,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB2285,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB2335,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB2358,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB2421,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB2560,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2584,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB2598,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB2656,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2736,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2819,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB2824,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2929,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2932,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2937,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB2945,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB3024,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3049,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB3056,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB3064,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB3105,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3130,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3142,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3145,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3179,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB3185,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3218,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3226,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB3245,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3253,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3255,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3276,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3342,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3354,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB3391,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB3396,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,CB3399,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3454,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB3491,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3496,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3506,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3522,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,CB3552,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3553,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3603,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3605,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3664,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3672,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3697,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3782,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3787,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3788,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CB3789,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3791,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,CL004,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,ALv1,CL114,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM3_CX_d2,DM3_CX_d2__0,"Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,-1,-1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,DN1pA,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,DNc01,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,DNc02,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,DNg104,"Babski et al., 2024",MCFO,3,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,MX0__prim,DNg26,Gautham et al. 2024,unknown,0,0,0,0,0,0,1,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,DNg34,"Certel et al., 2010",MCFO,3,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,LB0_posterior,DNg66,"Babski et al., 2024",MCFO,3,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,LB0_anterior,DNge138,"Babski et al., 2024",MCFO,3,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,LB0_anterior,DNge149,"Babski et al., 2024",MCFO,3,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,LB0_posterior,DNge150,"Babski et al., 2024",MCFO,3,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,LB0_posterior,DNge152,"Babski et al., 2024",MCFO,3,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,PBp1,Delta7,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM3_CX_d1,EL,"Wolff et a., 2024",EASI-FISH,4,-1,-1,-1,0,-1,-1,1,0,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d2,EPG,"Wolff et al., 2024",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM4_CX_d3,EPGt,"Wolff et al., 2024",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,EBa1,ER3d,"Wolff et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,EBa1,ER4m,"Wolff et al., 2024",EASI-FISH,4,-1,-1,1,0,1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,EBa1,ER5,"Wolff et al., 2024",EASI-FISH,4,-1,-1,1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,EBa1,ER6,"Wolff et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM3__prim,ExR1,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,ExR3,"Wolff et a., 2024",EASI-FISH,4,-1,-1,-1,0,-1,1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,ExR5,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,ExR6,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM4__prim,ExR7,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,"FB5J,FB5K,FB5L,FB5M,FB5N,FB5W","Wolff et al., 2024",EASI-FISH,4,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM1_CX_d2,"FC1A,FC1B,FC1F","Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d2,FC1C,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d2,"FC1D,FC1E","Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d1,FC3,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d2,FR1,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM6_IbSpsP,IbSpsP,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,LAL138,"Okubo et al., 2020",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,LCNOp,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,LCNOpm,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f1a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f1b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f3a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f3b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f3c,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f3d,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f4a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f4b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,LHAD1f4c,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,LNO1,"Wolff et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,LNOa,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,LPsP,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,PBp1,P1-9,"Wolff et a., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,0,0,0
+adult_drosophila_melanogaster,midbrain,PBp1,P1-9,Sinakevitch and Strausfeld 2006,immuno,5,0,0,0,0,0,0,1,0,0,0
+adult_drosophila_melanogaster,midbrain,PBp1,P6-8P9,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d1,PEG,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM1_CX_p,PEN_a(PEN1),"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_v,PEN_b(PEN2),"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM4_CX_d2,PFGs,"Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,-1,-1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d2,PFL1,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM4_CX_d2,PFL2,"Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,-1,-1,-1,1,0,0
+adult_drosophila_melanogaster,midbrain,DM1_CX_v,PFNd,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM3_CX_p,"PFNm,PFNp","Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,0,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,PLP006,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,PLP007,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL101,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL102,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL103,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL104,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL105,Aso et al. 2019,scRNA-seq,3,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL105,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL106,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL107,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL108,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL201,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL202,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL203,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL203,Aso et al. 2019,scRNA-seq,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,PPL204,"Niens et al., 2017",immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SMPpv2_dorsal,PV7c11,Zandawala lab ,scRNA-seq,3,0,0,0,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,PVLP009,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,LALv1_dorsal,SA1,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,SAD021_a,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,SAD021_c,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,SAD023,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,SAD030,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,SIP033,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,SIP034,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,SIP041,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP006,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP007a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP007b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP008,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP011,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP012,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP016,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP017,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP019,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP024a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP024b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP024c,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP024d,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP025a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP025b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP026,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP027,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP028a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP028b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP028c,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLP030,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP118,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP119,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP120,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP122,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP153,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP155,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP157,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP158,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP159,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP160,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP162a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP162b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP162c,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP169,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP307,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP467a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,SLP467b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,"SLPad1_anterior_12,22,30,5","Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLPal1_39,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPal1,SLPal1__0,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,SMP207,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,SMP208,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,SMP210,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_posterior,"SMP213,SMP214","Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,ALl1_ventral,V_l2PN,"Bräcker et al., 2013",immuno,5,1,0,-1,0,-1,-1,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,WED056,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,WED057,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,WEDa1,WEDa1_23,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,"aSP-f1A,aSP-f1B,aSP-f2","Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,aSP-f3,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SLPad1_anterior,aSP-f4,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_p,hDeltaA,"Wolff et al., 2024",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_p,hDeltaB,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM3_CX_p,hDeltaC,"Wolff et al., 2024",EASI-FISH,4,1,0,0,0,0,1,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM4_CX_d3,hDeltaD,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,0,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM1_CX_v,hDeltaE,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,0,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d2,hDeltaF,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM1_CX_p,hDeltaH,"Wolff et al., 2024",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_p,hDeltaI,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM4_CX_d3,hDeltaK,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_d2,hDeltaL,"Wolff et al., 2024",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM3_CX_p,hDeltaM,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,l-LNv,"Nern et al., 2024",EASI-FISH,4,-1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,0,s-LNv_b,"Frenkel et al., 2017",RNAi,1,0,0,0,1,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,DM2_CX_p,"vDeltaA,vDeltaB,vDeltaC,vDeltaD,vDeltaE,vDeltaJ,vDeltaK,vDeltaL,vDeltaM","Wolff et al., 2024",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
