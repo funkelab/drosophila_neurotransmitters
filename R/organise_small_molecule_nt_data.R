@@ -9,7 +9,7 @@ gt.nt.orig <- readr::read_csv(file = "gt_data.csv")
 
 # Transmitters we care about
 fast.nts <- c("acetylcholine", "glutamate",  "gaba", "glycine",
-              "dopamine", "serotonin", "octopamine", "tyramine",
+          "dopamine", "serotonin", "octopamine", "tyramine",
               "histamine", "nitric oxide")
 neg.fast.nts <- c("acetylcholine-negative", "gaba-negative", "glutamate-negative",
               "dopamine-negative", "serotonin-negative", "octopamine-negative",
