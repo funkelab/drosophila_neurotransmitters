@@ -5,7 +5,7 @@ library(readr)
 library(catmaid)
 
 # Get the data we have already built
-gt.nt.orig <- readr::read_csv(file = "gt_data.csv")
+gt.nt.orig <- data.frame() #readr::read_csv(file = "gt_data.csv")
 
 # Transmitters we care about
 fast.nts <- c("acetylcholine", "glutamate",  "gaba", "glycine",
@@ -29,15 +29,16 @@ filter_words <- function(input_string, words_to_keep, invert = FALSE){
 }
 
 # Query and organse flytable data, from midbrain and optic lobe tables
-ft <- fafbseg::flytable_query("select _id, root_id, root_630, root_783, supervoxel_id, proofread, status, pos_x, pos_y, pos_z, nucleus_id, soma_x, soma_y, soma_z, side, ito_lee_hemilineage, hartenstein_hemilineage, top_nt, flow, super_class, cell_class, cell_type, hemibrain_match, hemibrain_type, malecns_type, cb_type, root_duplicated, morphology_group, known_nt, known_nt_source, notes from info")
-ft$region <- 'midbrain'
-ft.optic <- fafbseg::flytable_query("select * from optic")
-ft.optic <- ft.optic[, intersect(colnames(ft.optic),
-                                 colnames(ft))]
-ft.optic <- ft.optic[!ft.optic$root_id %in% ft$root_id,]
-ft.optic$region = 'optic_lobes'
-ft.all <- plyr::rbind.fill(ft, ft.optic)
-ft <- ft.all %>% dplyr::filter(!duplicated(root_id))
+#ft <- fafbseg::flytable_query("select _id, root_id, root_630, root_783, supervoxel_id, proofread, status, pos_x, pos_y, pos_z, nucleus_id, soma_x, soma_y, soma_z, side, hemilineage, hartenstein_hemilineage, top_nt, flow, super_class, cell_class, cell_type, hemibrain_match, hemibrain_type, malecns_type, cb_type, root_duplicated, morphology_group, known_nt, known_nt_source, notes from info")
+ft <- bancr::franken_meta()
+# ft$region <- 'midbrain'
+# ft.optic <- fafbseg::flytable_query("select * from optic")
+# ft.optic <- ft.optic[, intersect(colnames(ft.optic),
+#                                  colnames(ft))]
+# ft.optic <- ft.optic[!ft.optic$root_id %in% ft$root_id,]
+# ft.optic$region = 'optic_lobes'
+# ft.all <- plyr::rbind.fill(ft, ft.optic)
+# ft <- ft.all %>% dplyr::filter(!duplicated(root_id))
 ft$species <- 'adult_drosophila_melanogaster'
 
 # Make cross typing sheet
@@ -47,18 +48,15 @@ ft.cross <- ft %>%
   dplyr::mutate(cell_type = case_when(
     !is.na(cell_type) ~ cell_type,
     !is.na(hemibrain_type) ~ hemibrain_type,
-    !is.na(cb_type) ~ cb_type,
     !is.na(morphology_group) ~ morphology_group,
-    !is.na(malecns_type) ~ malecns_type,
     TRUE ~ cell_type
   )) %>%
-  dplyr::distinct(cell_type, hemibrain_type, malecns_type, morphology_group, ito_lee_hemilineage, hartenstein_hemilineage, region) %>%
+  dplyr::distinct(cell_type, hemibrain_type, morphology_group, hemilineage, region) %>%
   dplyr::mutate(in_fafb = TRUE,
                 in_hemibrain = !is.na(hemibrain_type),
-                in_banc = 'to_be_found',
-                in_mcns = !is.na(malecns_type),
+                in_banc = TRUE,
                 in_l1 = FALSE) %>%
-  dplyr::arrange(ito_lee_hemilineage)
+  dplyr::arrange(hemilineage)
 readr::write_csv(x = ft.cross, file = "inst/extdata/cell_type_cross_matching.csv")
 
 # Take only the entries with a known_nt column
@@ -66,11 +64,10 @@ ft.nt <- ft %>%
   dplyr::mutate(cell_type = dplyr::case_when(
     !is.na(cell_type) ~ cell_type,
     !is.na(hemibrain_type) ~ hemibrain_type,
-    !is.na(cb_type) ~ cb_type,
     !is.na(morphology_group) ~ morphology_group,
     TRUE ~ cell_type
   )) %>%
-  dplyr::select(cell_type, ito_lee_hemilineage, hemibrain_type, notes, known_nt, known_nt_source, species, region) %>%
+  dplyr::select(cell_type, hemilineage, hemibrain_type, known_nt, known_nt_source, species, region) %>%
   dplyr::filter(!is.na(known_nt), !known_nt%in%c(""," ","NA","unknown")) %>%
   tidyr::separate_longer_delim(c(known_nt, known_nt_source), delim = ";") %>%
   dplyr::rowwise() %>%
@@ -89,8 +86,8 @@ ft.nt <- ft %>%
   tidyr::separate_longer_delim(cell_type, delim = ", ") %>%
   # tidyr::separate_longer_delim(cell_type, delim = ",") %>%
   dplyr::arrange(cell_type,known_nt, known_nt_source, known_nt_evidence) %>%
-  dplyr::distinct(species, region, cell_type, ito_lee_hemilineage, known_nt, known_nt_source, known_nt_evidence) %>%
-  dplyr::rename(hemilineage=ito_lee_hemilineage) %>%
+  dplyr::distinct(species, region, cell_type, hemilineage, known_nt, known_nt_source, known_nt_evidence) %>%
+  dplyr::rename(hemilineage=hemilineage) %>%
   dplyr::mutate(known_nt_confidence = dplyr::case_when(
     known_nt_evidence%in%c("immuno","immuno, MARCM","immuno, intersection","immuno, RNAi") ~ 5,
     known_nt_evidence%in%c("TAPIN","intersection","transgenic","EASI-FISH") ~ 4,
@@ -105,14 +102,13 @@ ft.nt.all <- ft %>%
   dplyr::mutate(cell_type = dplyr::case_when(
     !is.na(cell_type) ~ cell_type,
     !is.na(hemibrain_type) ~ hemibrain_type,
-    !is.na(cb_type) ~ cb_type,
     !is.na(morphology_group) ~ morphology_group,
     TRUE ~ cell_type
   )) %>%
   dplyr::filter(!is.na(known_nt), !known_nt%in%c(""," ","NA","unknown")) %>%
-  dplyr::distinct(root_783, top_nt, cell_type, ito_lee_hemilineage, known_nt, known_nt_source)
+  dplyr::distinct(neuron_id, top_nt, cell_type, hemilineage, known_nt, known_nt_source)
 readr::write_csv(x = ft.nt.all,
-                 file = "gt_sources/bates_2024/202405-flywire_gt_data.csv")
+                 file = "gt_sources/bates_2024/202502-franken_gt_data.csv")
 
 # Add other missing data from maleCNS, not matched up yet
 malecns.extra <- readr::read_csv("gt_sources/extra.csv")
@@ -132,39 +128,39 @@ ft.nt.m <- ft.nt %>%
   tidyr::spread(key = known_nt, value = value, fill = 0) %>%
   as.data.frame()
 
-# Get MANC summary
-malevnc:::choose_malevnc_dataset('MANC')
-mc.find <- neuprintr::neuprint_search("Traced",field="status",dataset="manc:v1.0")
-mc.ids <- unique(mc.find$bodyid)
-mc.meta <- malevnc::manc_neuprint_meta(mc.ids)
-mc.meta <- subset(mc.meta, !is.na(hemilineage))
-vnc.hls <- table(mc.meta$hemilineage, mc.meta$predictedNt)
-vnc.hls <- as.matrix(vnc.hls)
-vnc.hls <- t(apply(vnc.hls, 1, function(row) row/sum(row)))
-good.vnc.hls <- t(apply(vnc.hls, 1, function(row) any(row>0.9)))
-good.hls <- rownames(vnc.hls)[good.vnc.hls]
-good.hls <- setdiff(good.hls,"NA")
-good.hls <- good.hls[!is.na(good.hls)]
-mvnc.nt <- data.frame()
-for(ghl in good.hls){
-  nt <- colnames(vnc.hls)[which.max(vnc.hls[ghl,])]
-  dat <- mc.meta %>%
-    dplyr::filter(predictedNt==nt, hemilineage == ghl) %>%
-    dplyr::rename(known_nt = predictedNt, cell_type =  type) %>%
-    dplyr::mutate(known_nt_source = 'Lacin et al. 2019',
-                  known_nt_evidence = "FISH",
-                  known_nt_confidence = 3,
-                  region = "VNC",
-                  species = "adult_drosophila_melanogaster") %>%
-    dplyr::distinct(cell_type, hemilineage, known_nt, known_nt_source, known_nt_evidence, known_nt_confidence, region, species)
-  mvnc.nt <- rbind(mvnc.nt, dat)
-}
-mvnc.nt.m <- mvnc.nt %>%
-  dplyr::filter(!is.na(cell_type), !is.na(hemilineage), !is.na(known_nt)) %>%
-  tidyr::separate_longer_delim(known_nt, delim = ", ") %>%
-  dplyr::distinct(cell_type, known_nt, known_nt_source, .keep_all = TRUE) %>%
-  dplyr::mutate(value = 1) %>%
-  tidyr::spread(key = known_nt, value = value, fill = 0)
+# # Get MANC summary
+# malevnc:::choose_malevnc_dataset('MANC')
+# mc.find <- neuprintr::neuprint_search("Traced",field="status",dataset="manc:v1.0")
+# mc.ids <- unique(mc.find$bodyid)
+# mc.meta <- malevnc::manc_neuprint_meta(mc.ids)
+# mc.meta <- subset(mc.meta, !is.na(hemilineage))
+# vnc.hls <- table(mc.meta$hemilineage, mc.meta$predictedNt)
+# vnc.hls <- as.matrix(vnc.hls)
+# vnc.hls <- t(apply(vnc.hls, 1, function(row) row/sum(row)))
+# good.vnc.hls <- t(apply(vnc.hls, 1, function(row) any(row>0.9)))
+# good.hls <- rownames(vnc.hls)[good.vnc.hls]
+# good.hls <- setdiff(good.hls,"NA")
+# good.hls <- good.hls[!is.na(good.hls)]
+# mvnc.nt <- data.frame()
+# for(ghl in good.hls){
+#   nt <- colnames(vnc.hls)[which.max(vnc.hls[ghl,])]
+#   dat <- mc.meta %>%
+#     dplyr::filter(predictedNt==nt, hemilineage == ghl) %>%
+#     dplyr::rename(known_nt = predictedNt, cell_type =  type) %>%
+#     dplyr::mutate(known_nt_source = 'Lacin et al. 2019',
+#                   known_nt_evidence = "FISH",
+#                   known_nt_confidence = 3,
+#                   region = "VNC",
+#                   species = "adult_drosophila_melanogaster") %>%
+#     dplyr::distinct(cell_type, hemilineage, known_nt, known_nt_source, known_nt_evidence, known_nt_confidence, region, species)
+#   mvnc.nt <- rbind(mvnc.nt, dat)
+# }
+# mvnc.nt.m <- mvnc.nt %>%
+#   dplyr::filter(!is.na(cell_type), !is.na(hemilineage), !is.na(known_nt)) %>%
+#   tidyr::separate_longer_delim(known_nt, delim = ", ") %>%
+#   dplyr::distinct(cell_type, known_nt, known_nt_source, .keep_all = TRUE) %>%
+#   dplyr::mutate(value = 1) %>%
+#   tidyr::spread(key = known_nt, value = value, fill = 0)
 
 # Get information from the larval connectome
 conn <- catmaid_connection(server = "https://l1em.catmaid.virtualflybrain.org/")
@@ -257,8 +253,8 @@ l1.nts.m <- l1.nts.df %>%
   tidyr::spread(key = known_nt, value = value, fill = 0)
 
 # Order the data appropriately
-gt.nt.df <- plyr::rbind.fill(ft.nt, mvnc.nt, l1.nts.df)
-gt.nt <- plyr::rbind.fill(ft.nt.m, mvnc.nt.m, l1.nts.m)
+gt.nt.df <- plyr::rbind.fill(ft.nt, l1.nts.df) # mvnc.nt
+gt.nt <- plyr::rbind.fill(ft.nt.m, l1.nts.m) # mvnc.nt.m
 gt.nt[is.na(gt.nt)] <- 0
 column.order <-c("species", "region", "hemilineage", "cell_type",
                  "known_nt_source", "known_nt_evidence", "known_nt_confidence",
@@ -273,7 +269,7 @@ all.fast.nt.papers <- c("Dolan et al., 2019","Aso et al., 2014",
                         "Cheong et al. 2023","Davis et al., 2020",
                         "Eschbach, Fushiki et al. 2020",
                         "Janelia","Lacin et al. 2019",
-                        "Nern et al., 2024",
+                        "Nern et al., 2024", "Wolff et al., 2024",
                         "Turner-Evans et al. 2020",
                         "Aso et al., 2019")
 all.fast.nt.papers <- paste(all.fast.nt.papers,collapse="|")
@@ -287,7 +283,7 @@ for(i in 1:nrow(gt.nt)){
 }
 
 # In these papers, if one monoamine was tested, they all likely were
-all.moa.nt.papers <- c("Janelia",
+all.moa.nt.papers <- c("Janelia", "Wolff et al., 2024",
                       "Nern et al., 2024",
                       "Turner-Evans et al. 2020",
                       "Aso et al., 2019")
@@ -314,12 +310,11 @@ gt.nt.new$known_nt_evidence[is.na(gt.nt.new$known_nt_confidence)] <- 0
 
 # Save data
 readr::write_csv(x = gt.nt.df,
-                 file = "gt_sources/bates_2024/202409-gt_data.csv")
+                 file = "gt_sources/bates_2024/202502-gt_data.csv")
 readr::write_csv(x = gt.nt.new,
                  file = "gt_data.csv")
 readr::write_csv(x = l1.nts.df,
-                 file = "gt_sources/bates_2024/202405-starting_larval_gt_data.csv")
-
+                 file = "gt_sources/bates_2024/202502-starting_larval_gt_data.csv")
 
 #############################
 ### Make plots for README ###

@@ -1,0 +1,811 @@
+cell_type,known_nt,known_nt_source,known_nt_confidence,species,region,hemilineage
+13a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+13a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+13a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+13a PN right,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+1a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+1a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+1a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+1a PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+22c ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+22c ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+22c PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+22c PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+24a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+24a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+24a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+24a PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+30a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+30a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+30a PN left,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+30a PN right,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+33a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+33a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+33a PN left,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+33a PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+35a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+35a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+35a PN bilateral left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+35a PN bilateral right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+42a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+42a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+42a PN left,NA,"Eschbach, Fushiki et al. 2020b, Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+42a PN right,NA,"Eschbach, Fushiki et al. 2020b, Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+42b ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+42b ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+42b PN left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+42b PN right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+45a ORN left,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+45a ORN right,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+45a PN left,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+45a PN right,NA,"Barnes et al. 2022, Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+45b ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+45b ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+45b PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+45b PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+47a & 33b ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+47a & 33b ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+47a & 33b PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+47a & 33b PN right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017, Miroschnikow et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+49a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+49a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+49a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+49a PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+59a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+59a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+59a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+59a PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+5thLN;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+5thLN;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+63a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+63a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+63a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+63a PN right,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+67b ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+67b ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+67b PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+67b PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+74a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+74a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+74a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+74a PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+82a ORN left,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+82a ORN right,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+82a PN left,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+82a PN right,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+83a ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+83a ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+83a PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+83a PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+85c ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+85c ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+85c PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+85c PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+94a & 94b ORN left,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+94a & 94b ORN right,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+94a & 94b PN left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+94a & 94b PN right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+A01c1_a1l,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A01c1_a1r,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A01d3_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A01d3_a1r,NA,"Zarin, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A01d3_t3l (T01d3),NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A01d3_t3r (T01d3),NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A01x3_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A01x3_a1r,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A02a- looper-1_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A02b_a1l ,NA,"Zarin, Mark et al. 2019, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02b_a1r ,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02c?_a1l ,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A02d_a1l ,NA,"Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A02d_a1r,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A02e_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A02e_a1r,NA,"Zarin, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A02f_a1l ,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02f_a1r,NA,"Zarin, Mark et al. 2019, Zwart et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A02g_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A02g_a1r,NA,"Burgos et al 2018, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02h_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02h_a1r,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02i_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02i_a1r,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A02j Looper-10_a4l,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A02j Looper-10_a4r,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A02j_a1l,NA,Mark et al. 2019,4,larval_drosophila_melanogaster,cns,unpublished
+A02j_a3l,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A02j_a3r,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A02k Pseudolooper-1_a1l ,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A02m_a1l Pseudolooper-3,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Ohyama, Schneider-Mizell et al. 2015, Gerhard et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+A02m_a1r Pseudolooper-3,NA,"Zarin, Mark et al. 2019, Ohyama, Schneider-Mizell et al. 2015, Gerhard et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+A02n_a1l Pseudolooper-4,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Ohyama, Schneider-Mizell et al. 2015, Gerhard et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+A02n_a1r Pseudolooper-4,NA,"Zarin, Mark et al. 2019, Ohyama, Schneider-Mizell et al. 2015, Gerhard et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a1l Wave-1,NA,"Takagi et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a1r Wave-1,NA,"Takagi et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a2l Wave-1,NA,"Gerhard et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a2r Wave-1,NA,"Gerhard et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a3l Wave-1,NA,"Ohyama, Schneider-Mizell et al. 2015, Gerhard et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a3r Wave-1,NA,"Ohyama, Schneider-Mizell et al. 2015, Gerhard et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a4l Wave-1,NA,Burgos et al 2018,2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a5l Wave-1,NA,Burgos et al 2018,2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a5r Wave-1,NA,Burgos et al 2018,2,larval_drosophila_melanogaster,cns,unpublished
+A02o_a6l Wave-1,NA,Burgos et al 2018,2,larval_drosophila_melanogaster,cns,unpublished
+A02o_t3l Wave-1,NA,Burgos et al 2018,2,larval_drosophila_melanogaster,cns,unpublished
+A02o_t3r Wave-1,NA,Burgos et al 2018,2,larval_drosophila_melanogaster,cns,unpublished
+A03 (upstream of A08m)_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03 12946255,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A03 ipsilateral local_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03EGB_a2l (EGHBAL),NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A03EGB_a2r (EGHBAL),NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A03_post_A02k_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03_preA08m_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03a1_a1l (pre dMNs) ,NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03a1_a1r (pre dMNs) ,NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03a3_a1l (pre dMNs) ,NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03a3_a1r (pre dMNs),NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03a3_t3l (was T03a1),NA,"Zarin, Mark et al. 2019, Zwart et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A03a3_t3r (was T03a1),NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03a4_a1l,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03a4_a1r,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03a4_a2l,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A03a4_a2r,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A03a5_a1l,NA,"Zarin, Mark et al. 2019, Takagi et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+A03a5_a1r,NA,"Zarin, Mark et al. 2019, Takagi et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+A03a5_a2l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03a6_a1l ,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A03a6_a1r,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A03ax_a1l,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A03d?_a2l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03g2_t3r (T03g2),NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A03g_a1l,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A03g_a1r,NA,"Zarin, Mark et al. 2019, Zwart et al. 2016, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A03g_t3r (T03g),NA,Fushiki et al. 2016,4,larval_drosophila_melanogaster,cns,unpublished
+A03o1_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03o_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+A03o_a1r,NA,"Zarin, Mark et al. 2019, Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+A03t_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03xKT_a1l ,NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03xKT_a1r,NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A03xxx Ipsilateral mixed LN_a1l ,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A03xyz_a2l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A06 (pre B5 01)_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A06a_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A06a_a1r,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A06bx_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A06c_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A06c_a1r,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A06e_a1l (Saaghi-3),NA,"Mark et al. 2019, Heckscher et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+A06e_a1r (Saaghi-3),NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+A06e_t3r (Saaghi-3),NA,"Zarin, Mark et al. 2019, Heckscher et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+A06f_a1l (Saaghi-2),NA,"Zarin, Mark et al. 2019, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A06f_a1r (Saaghi-2),NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A06g2_a1l (Saaghi-5),NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A06k_a1l,NA,"Winding, Pedigo et al. 2023, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A06l_a1l (Saaghi-1),NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Fushiki et al. 2016, Heckscher et al. 2015",4,larval_drosophila_melanogaster,cns,unpublished
+A06l_a1r (Saaghi-1),NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016, Heckscher et al. 2015",4,larval_drosophila_melanogaster,cns,unpublished
+A06m_a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A06x1_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A06x1_a1r,NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+A08e1_a1l ,NA,"Zarin, Mark et al. 2019, Mark et al. 2019, Heckscher et al. 2015",4,larval_drosophila_melanogaster,cns,unpublished
+A08e1_a1r,NA,"Zarin, Mark et al. 2019, Heckscher et al. 2015",4,larval_drosophila_melanogaster,cns,unpublished
+A08e1_a2l,NA,Heckscher et al. 2015,4,larval_drosophila_melanogaster,cns,unpublished
+A08e1_a2r,NA,Heckscher et al. 2015,4,larval_drosophila_melanogaster,cns,unpublished
+A09a a1l Basin-2,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Gerhard et al. 2017, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A09a a1r Basin-2,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Gerhard et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+A09a_a4l Basin-2,NA,"Ohyama, Schneider-Mizell et al. 2015, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A09a_a4r Basin-2,NA,"Ohyama, Schneider-Mizell et al. 2015, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A09b a1l Basin-1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Gerhard et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+A09b a1r Basin-1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Gerhard et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+A09c a1l Basin-4,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Gerhard et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A09c a1r Basin-4,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Gerhard et al. 2017, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A09c_a4l Basin-4,NA,"Ohyama, Schneider-Mizell et al. 2015, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A09g a1r Basin-3,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Burgos et al 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A09l_a1l (Down-and-back-1),NA,"Zarin, Mark et al. 2019, Gerhard et al. 2017, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a1r (Down-and-back-1),NA,"Zarin, Mark et al. 2019, Gerhard et al. 2017, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a2l Down-and-back-1,NA,"Gerhard et al. 2017, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a2r Down-and-back-1	,NA,"Gerhard et al. 2017, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a3l Down-and-back-1,NA,Burgos et al 2018,4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a3r Down-and-back-1,NA,Burgos et al 2018,4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a4l Down-and-back-1,NA,Burgos et al 2018,4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a4r Down-and-back-1,NA,Burgos et al 2018,4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a5l_ Down-and-back-1,NA,Burgos et al 2018,4,larval_drosophila_melanogaster,cns,unpublished
+A09l_a5r Down-and-back-1,NA,Burgos et al 2018,4,larval_drosophila_melanogaster,cns,unpublished
+A09l_t3l Down-and-back-1,NA,"Gerhard et al. 2017, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A09l_t3r Down-and-back-1,NA,"Gerhard et al. 2017, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A14a_a1l,NA,"Zarin, Mark et al. 2019, Zwart et al. 2016, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A14a_a1r,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18a_a1l ,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18a_a1r ,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18b3_a1l,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18b3_a1r,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18b3_a2l,NA,Fushiki et al. 2016,4,larval_drosophila_melanogaster,cns,unpublished
+A18b3_a2r,NA,Fushiki et al. 2016,4,larval_drosophila_melanogaster,cns,unpublished
+A18b_a1l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18b_a1r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18b_a2l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A18b_a2r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A18j_a1l,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A18j_a1r,NA,"Zarin, Mark et al. 2019, Zwart et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A19b a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A19c_a1l,NA,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+A19c_a1r,NA,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+A19l_a1l,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A19l_a1r,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A19x a1l,NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+A23a_a1l,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A23a_a1r,NA,"Zwart et al. 2016, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A26f_a1l,NA,"Zarin, Mark et al. 2019, Zwart et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A26f_a1r,NA,"Zarin, Mark et al. 2019, Zwart et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A26f_a2l,NA,Schlegel et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A26f_a2r,NA,Schlegel et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A26f_a3l,NA,Schlegel et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A26f_a3r,NA,Schlegel et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A26f_a4r,NA,Schlegel et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A27h?_t3l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",2,larval_drosophila_melanogaster,cns,unpublished
+A27h_a1l,NA,"Zarin, Mark et al. 2019, Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a1r,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a2l,NA,Fushiki et al. 2016,4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a2r,NA,Fushiki et al. 2016,4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a4l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a5r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a6l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a6r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a7l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27h_a7r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27j2_a1l_GABA,NA,Fushiki et al. 2016,4,larval_drosophila_melanogaster,cns,unpublished
+A27j2_a1r_GABA,NA,Fushiki et al. 2016,4,larval_drosophila_melanogaster,cns,unpublished
+A27j_a1l,NA,"Burgos et al 2018, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A27j_a1r,NA,"Zarin, Mark et al. 2019, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27k_a1l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Fushiki et al. 2016, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27k_a1r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Fushiki et al. 2016, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27k_a2l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Zwart et al. 2016, Zarin, Mark et al. 2019, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A27k_a2r,NA,"Zwart et al. 2016, Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Zarin, Mark et al. 2019, Fushiki et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+A27l_a1l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A27l_a1r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018, Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A27l_a2l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27l_a2r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27l_a3l,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A27l_a3r,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+A31b_a1l ,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A31b_a1r ,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A31d_a1l,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A31d_a1r,NA,"Zarin, Mark et al. 2019, Fushiki et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+A31f_a1l?,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A31f_a1r?,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+A31k_a1l,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+A31k_a1r,NA,"Zarin, Mark et al. 2019",4,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-01,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-02,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-03,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-04,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-05,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-06,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-07,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-08,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-09,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-10,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-11,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-12,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-13,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-14,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-ACa-15,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-16,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-17,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-18,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-19,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-20,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-21,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-22,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-23,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-24,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-25,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-26,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-27,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-28,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-29,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-30,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-31,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-32,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-33,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-34,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-35,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-36,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-37,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-38,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-39,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B1-AVa-40,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-01,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-02,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-03,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-04,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-05,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-06,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-07,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-08,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-09,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-10,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-11,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-12,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-13,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-14,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-15,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-16,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-17,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-18,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-19,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-20,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-21,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-22,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-ACp-23,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-AVa-24 (PPS mechano),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-AVa-25 (PPS mechano),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-AVp-01,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-AVp-02,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-AVp-03,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-VM-04,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-VM-05,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-VM-06,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-VM-07,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B2-VM-08,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACal-01 (temp sensing left neuron alone),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACal-02 (temp sensing left neuron together 2),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACal-03 (temp sensing left neuron together 1),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACal-04 (Non-ORN 2),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACal-05 (Non-ORN 1),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACal-06 (degraded alone temperature partner neuron),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) ,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACp-08,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACp-09 (gustatory pheromone neuron),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-ACpl-10,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-VM-11,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-VM-12,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-VM-13,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-VM-14,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-L-Sens-B3-VM-15,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-01,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-02,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-03,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-04,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-05,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-06,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-07,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-08,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-09,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-10,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-11,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-12,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-13,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-14,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-ACa-17,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-15,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-16,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-18,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-19,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-20,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-21,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-22,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-23,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-24,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-25,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-26,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-27,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-28,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-29,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-30,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-31,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-32,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-33,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-34,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-35,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-36,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-37,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-38,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-39,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-40,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-41,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-42,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-43,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-44,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B1-AVa-45,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-?-00,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-01,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-02,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-03,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-04,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-05,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-06,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-07,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-08,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-09,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-10,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-11,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-12,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-13,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-14,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-15,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-16,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-17,NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-18,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-19,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-20,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-21,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-22,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-ACp-23,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-AVa-24 (PPS mechano),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-AVa-25 (PPS mechano),NA,"Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Schlegel et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-AVp-01,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-AVp-02,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-AVp-03,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-AVp-06,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-VM-04,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-VM-05,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-VM-07,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B2-VM-08,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACal-01 (temp sensing right neuron alone),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACal-02 (temp sensing right neuron together 2),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACal-03 (temp sensing right neuron together 1),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACal-04 (Non-ORN 2),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACal-05 (Non-ORN 1),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACal-06 (Degraded? Temp?),NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Miroschnikow et al. 2018",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACal-07 (upstream of Multig. Olfactory PN 3) right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACp-08,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Miroschnikow et al. 2018",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACp-09 (gustatory pheromone neuron),NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-ACpl-10,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-VM-11,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-VM-12,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Hueckesfeld et al. 2020",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-VM-13,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Miroschnikow et al. 2018",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-VM-14,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Miroschnikow et al. 2018",2,larval_drosophila_melanogaster,cns,unpublished
+AN-R-Sens-B3-VM-15,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Miroschnikow et al. 2018",2,larval_drosophila_melanogaster,cns,unpublished
+BK1;DALcl12 v d 20_left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+BK1;DALcl12 v d 20_right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+BK: DALcl12 v d 19_left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+BK: DALcl12 v d 19_right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+BN ; DALcm12 L m ant lat 3_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+BN ; DALcm12 L m ant lat 3_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+BSD; BAmd2 ven desc lat 5_right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+BT; BAmd2 ven desc lat 5_left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+Basin-1 a4l,NA,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+Basin-1 a4r,NA,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+Basin-3 a4l,NA,"Ohyama, Schneider-Mizell et al. 2015",2,larval_drosophila_melanogaster,cns,unpublished
+CSD left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+CSD right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+ChalOLP;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+ChalOLP;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+DA_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+DA_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+DE: CPe 1_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+DE: CPe 1_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+DPMpl lat 4 loSMpl_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+DPMpl lat 4 loSMpl_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+Drunken-1 a1l,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Drunken-1 a1r,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+FLON;left,NA,"Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+FLON;right,NA,"Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+GlulOLP;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+GlulOLP;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-1 a1l,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Mark et al. 2019, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-1 a1r,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-1 t3l,NA,"Barnes et al. 2022, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-1 t3r,NA,"Barnes et al. 2022, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-2 a1l,NA,"Barnes et al. 2022, Mark et al. 2019, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-2 a1r,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-2 t3l,NA,"Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Griddle-2 t3r,NA,"Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Handle-A a1,NA,"Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016, Burgos et al 2018",4,larval_drosophila_melanogaster,cns,unpublished
+Handle-B a1,NA,"Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Headphone_left,NA,"Eschbach, Fushiki et al. 2020, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+Headphone_right,NA,"Eschbach, Fushiki et al. 2020, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+KC #0,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC no claws,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC no pair,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC very young - DPLc s Left,NA,"Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC young no claw,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC young no claws,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC1,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC10,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC100,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC101 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC103 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC104 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC11,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC12,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC13,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC14,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC15,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC16,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC17,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC18 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC19,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC2,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC2/24,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC20,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC21,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC22,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC23,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC24,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC25,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC26,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC27,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC28,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC29,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC3,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC30,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC31,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC32,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC33,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC34,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC35,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC36,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC37,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC38,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC39,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC4,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC40,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC41 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC42,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC43 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC44 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC45 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC46 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC47 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC48,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC49,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC49?,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC5,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC50,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC51,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC52,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC53,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC54,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC55 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC56 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC57 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC58 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC59 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC6 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC60 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC61 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC62 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC63 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC64,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC65;_42a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC65;_42a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC66,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC67,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC68 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC69 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC7,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC70,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC71 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC72,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC73,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC74 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC75 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC76,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC77,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC78,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC78?,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC79 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC8 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC80 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC81 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC82,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC83,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC84,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC85 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC86,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC87 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC88 very young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC89 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC9 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC90,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC91,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC92,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC93,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC94,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC95,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC96,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC97,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC98 young,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+KC99,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+LH bilateral axon 4_left; BLVa12 b 4,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+LH bilateral axon 4_right; BLVa12 b 4,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+LON KC left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+LON KC right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+LP: BAmas d 3_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+LP: BAmas d 3_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+Ladder (olfactory) ant.,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Ladder (olfactory) post.,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Ladder-a_a1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+Ladder-a_t3l,NA,"Jovanic, Schneider-Mizell et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+Ladder-b a1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+Ladder-c a1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+Ladder-d_a1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+Ladder-e a1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+Ladder-f a1,NA,"Barnes et al. 2022, Valdes-Aleman et al. 2021, Jovanic, Schneider-Mizell et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+Ladder-f a2,NA,"Barnes et al. 2022, Jovanic, Schneider-Mizell et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+MBE11a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE11a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE11b left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE11b right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE12 left,NA,"Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE12 right,NA,"Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE13a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+MBE13a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+MBE13b left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+MBE13b right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+MBE15a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE15a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE15b left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE15b right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE16 left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE16 right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE18 left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE18 right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE1b left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE1b right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE1c left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE1c right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE1d left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE1d right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE20 left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE20 right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE22 left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE22 right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE2a left,NA,"Eschbach, Fushiki et al. 2020b, Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE2a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4f left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4f right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4g left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4g right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4h left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE4h right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE5a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE5a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE5b left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE5b right,NA,"Eschbach, Fushiki et al. 2020b, Miroschnikow et al. 2018, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE6 left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE6 right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE7a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE7a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE7b left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE7b right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE9a left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE9a right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE9b left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MBE9b right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+MDNa_left; pair 1 left,NA,"Winding, Pedigo et al. 2023, Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+MDNa_right; pair 2 right,NA,"Winding, Pedigo et al. 2023, Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+MDNb_left; pair 2 left,NA,"Winding, Pedigo et al. 2023, Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+MDNb_right; pair 1 right,NA,"Winding, Pedigo et al. 2023, Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+NB5-2 lineage 6 (HMD X?)_a1l,NA,"Winding, Pedigo et al. 2023, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+N_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+N_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+PDM-DN_left,NA,"Tastekin et al. 2018, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+PDM-DN_right,NA,"Tastekin et al. 2018, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+PVL09 left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+PVL09 right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-1;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-1;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-2;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-2;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-3;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-3;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-4;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-4;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-5;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh5PR-6;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-10;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-1;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-1;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-2;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-2;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-3;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-3;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-4;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-4;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-5;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-5;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-6;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-6;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-7;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-7;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-8;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-8;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-9;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+Rh6PR-9;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+S ; Convergence Sibling AB Left; DALcm12 L m ant lat 2_left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+S ; Convergence Sibling AB Right; DALcm12 m ant lat 2_right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+SEZ-DN1_left,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+SEZ-DN1_right,NA,"Carreira-Rosario, Arzan Zarin, Clark et al. 2018",4,larval_drosophila_melanogaster,cns,unpublished
+SJ: DALv23 L LAL dor pos 2_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+SJ: DALv23 L LAL dor pos 2_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+SP2-1;left,NA,"Winding, Pedigo et al. 2023",2,larval_drosophila_melanogaster,cns,unpublished
+SP2-1;right,NA,"Winding, Pedigo et al. 2023",2,larval_drosophila_melanogaster,cns,unpublished
+Saaghi-1_a2l (AAZ1 (A06l)),NA,"Fushiki et al. 2016, Heckscher et al. 2015",4,larval_drosophila_melanogaster,cns,unpublished
+Saaghi-1_a2r (AAZ1 (A06l)),NA,"Fushiki et al. 2016, Heckscher et al. 2015",4,larval_drosophila_melanogaster,cns,unpublished
+Saaghi-3_a2l (AAZ3 (A06e)),NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+Saaghi-3_a2r (AAZ3 (A06e)),NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+Saaghi-4_a1l (AAZ4  (A06g)),NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+Saaghi-6_a1l (AAZ6  (A06b)),NA,Mark et al. 2019,2,larval_drosophila_melanogaster,cns,unpublished
+Thermo KC A_Left   -   Mushroom Body  Right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+Thermo KC A_Right - Mushroom Body  Left,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+Thermo KC B_left - mbi2 - unknown,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+Thermo KC B_right - mbi2 - unknown,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023, Eichler, Li, Litwin-Kumar et al. 2017",2,larval_drosophila_melanogaster,cns,unpublished
+Tomato Vine_right,NA,"Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",2,larval_drosophila_melanogaster,cns,unpublished
+U ; Convergence Sibling; DALcm12 m ant lat 12_left,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+U ; Convergence Sibling; DALcm12 m ant lat 12_right,NA,"Eschbach, Fushiki et al. 2020, Eschbach, Fushiki et al. 2020b, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+a03d/e_a1l,NA,"Zarin, Mark et al. 2019, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+a03d/e_a1r,NA,"Zarin, Mark et al. 2019",2,larval_drosophila_melanogaster,cns,unpublished
+a03d/e_a2l,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+a03d/e_a2r,NA,Fushiki et al. 2016,2,larval_drosophila_melanogaster,cns,unpublished
+bilateral L,NA,"Eschbach, Fushiki et al. 2020, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+bilateral R,NA,"Eschbach, Fushiki et al. 2020, Winding, Pedigo et al. 2023, Imambocus et al",4,larval_drosophila_melanogaster,cns,unpublished
+bilateral-3 L,NA,"Eschbach, Fushiki et al. 2020, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+bilateral-3 R,NA,"Eschbach, Fushiki et al. 2020, Winding, Pedigo et al. 2023",4,larval_drosophila_melanogaster,cns,unpublished
+broad D1 left,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad D1 right,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad D2 left,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad D2 right,NA,"Barnes et al. 2022, Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad T1 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad T1 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad T2 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad T2 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad T3 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+broad T3 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+choosy 1 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+choosy 1 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+choosy 2 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+choosy 2 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+dbd_a1l,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+dbd_a1r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+dbd_a2l,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+dbd_a2r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+dbd_t3l,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+dbd_t3r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+ddaD_a1l (class I),NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+ddaD_a1r (class I),NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+ddaD_a2l,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+ddaE_t3l,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+ddaE_t3r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+dmd1_a1l,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+dmd1_a1r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+keystone left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+keystone right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-1 a1l,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-1 a1r,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-2/4 a1l,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-2/4 a1r,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-3 a1l,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-3 a1r,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-5 a1l,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+lch5-5 a1r,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+mPN iACT VUM L,NA,"Winding, Pedigo et al. 2023, Hueckesfeld et al. 2020, Berck, Khandelwal et al. 2016",2,larval_drosophila_melanogaster,cns,unpublished
+nc1;left,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+nc1;right,NA,"Winding, Pedigo et al. 2023, Miroschnikow et al. 2018, Eichler, Li, Litwin-Kumar et al. 2017, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+nc2;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+nc2;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+pOLP;left,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+pOLP;right,NA,"Winding, Pedigo et al. 2023, Larderet, Fritsch et al. 2017",4,larval_drosophila_melanogaster,cns,unpublished
+picky 0 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 0 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 1 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 1 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 2 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 2 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 3 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 3 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 4 left,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+picky 4 right,NA,"Winding, Pedigo et al. 2023, Berck, Khandelwal et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+sensory neuron projection_a2r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+v'ch a1l,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+v'ch a1r,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+vbd_a1l_,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+vbd_a1r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+vchA/B a1l,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+vchA/B a1r,NA,"Barnes et al. 2022, Jovanic et al. 2019, Valdes-Aleman et al. 2021, Ohyama, Schneider-Mizell et al. 2015, Jovanic, Schneider-Mizell et al. 2016",4,larval_drosophila_melanogaster,cns,unpublished
+vpda_t3l,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
+vpda_t3r,NA,Heckscher et al. 2015,2,larval_drosophila_melanogaster,cns,unpublished
