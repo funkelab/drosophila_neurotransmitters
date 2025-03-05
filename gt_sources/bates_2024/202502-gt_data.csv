@@ -1511,20 +1511,41 @@ adult_drosophila_melanogaster,midbrain,EL,DM4_CX_d1,"octopamine, acetylcholine-n
 adult_drosophila_melanogaster,midbrain,EL,DM4_CX_d2,"octopamine, acetylcholine-negative, gaba-negative, glutamate-negative, dopamine-negative, serotonin-negative","Wolff et a., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,vnc,EN00B001,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B001,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B002,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B003,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B004,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B007,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,vnc,EN00B008,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B008,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B008,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B009,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B010,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,vnc,EN00B011,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B011,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B012,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B013,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B014,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,vnc,EN00B015,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B015,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B015,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B016,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,vnc,EN00B017,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B017,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B018,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B019,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B020,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B021,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,vnc,EN00B023,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B023,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B023,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B024,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,vnc,EN00B025,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B025,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B025,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,vnc,EN00B026,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,EN00B026,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,vnc,EN00B026,00B,octopamine,"Pop et al., 2020",transgenic,4
+adult_drosophila_melanogaster,vnc,EN00B027,00B,octopamine,"Pop et al., 2020",transgenic,4
 adult_drosophila_melanogaster,midbrain,EPG,DM1_CX_d2,acetylcholine,Turner-Evans et al. 2020,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,EPG,DM2_CX_d1,acetylcholine,Turner-Evans et al. 2020,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,EPG,DM2_CX_d2,acetylcholine,Turner-Evans et al. 2020,scRNA-seq,3
@@ -4564,6 +4585,8 @@ adult_drosophila_melanogaster,midbrain,SAD036,ALlv1,gaba-negative,"Ito et al., 2
 adult_drosophila_melanogaster,midbrain,SAD040,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SAD047,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SAD085,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,SApp23,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SApp23,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
 adult_drosophila_melanogaster,midbrain,SIP003_a,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP003_b,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"SIP014,SIP016",VLPd&p1_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4808,6 +4831,19 @@ adult_drosophila_melanogaster,midbrain,SMPp&v1B_M02,SMPp&v1_ventral,gaba-negativ
 adult_drosophila_melanogaster,midbrain,SMPp&v1_posterior__0,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMPp&v1_posterior__1,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMPp&v1_ventral__0,SMPp&v1_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,vnc,SNpp39,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp40,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp41,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp43,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp47,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp50,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp51,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp56,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp57,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp58,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp59,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNpp60,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,vnc,SNppxx,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
 adult_drosophila_melanogaster,optic_lobes,T1,NA,"acetylcholine-negative, glutamate-negative, gaba-negative, dopamine-negative, serotonin-negative, octopamine-negative","Davis et al., 2020",TAPIN,4
 adult_drosophila_melanogaster,optic_lobes,T2,NA,acetylcholine,"Konstantinides et  al., 2018 )",FACS RNA-seq,1
 adult_drosophila_melanogaster,optic_lobes,T3,NA,acetylcholine,"Konstantinides et  al., 2018 )",FACS RNA-seq,1
