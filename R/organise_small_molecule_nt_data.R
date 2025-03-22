@@ -230,7 +230,7 @@ l1.nts.df <- l1.nts.dat %>%
   dplyr::rowwise() %>%
   dplyr::mutate(known_nt = dplyr::case_when(
     grepl(cell_type,"picky") ~ "glutamate",
-    TRUE ~ NA
+    TRUE ~ known_nt
   )) %>%
   dplyr::ungroup() %>%
   dplyr::distinct(cell_type, known_nt, .keep_all = TRUE) %>%
@@ -244,7 +244,8 @@ l1.nts.df <- l1.nts.dat %>%
     species = "larval_drosophila_melanogaster",
     region = "cns",
     hemilineage = "unpublished",
-  )
+  ) %>%
+  dplyr::filter(!is.na(known_nt))
 l1.nts.m <- l1.nts.df %>%
   dplyr::filter(!is.na(cell_type), !is.na(hemilineage), !is.na(known_nt)) %>%
   tidyr::separate_longer_delim(known_nt, delim = ", ") %>%
@@ -375,3 +376,4 @@ g <- ggplot(plot_data, aes(x = super_class, y = percentage, fill = known_fast_nt
 
 # Save
 ggsave(g, filename = "inst/images/fafb_783_known_nts.png")
+
