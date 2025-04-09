@@ -457,7 +457,10 @@ adult_drosophila_melanogaster,neck_connective,AN_multi_87,05B,gaba,"Lacin et al.
 adult_drosophila_melanogaster,neck_connective,AN_multi_88,05B,gaba,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,neck_connective,AN_multi_92,05B,gaba,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,neck_connective,AN_multi_97,05B,gaba,"Lacin et al., 2019",FISH,3
+adult_drosophila_melanogaster,midbrain,AOTU005,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AOTU006,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU007,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AOTU008,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU008a,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU008b,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU008c,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -468,11 +471,13 @@ adult_drosophila_melanogaster,midbrain,AOTU024,AOTUv3_dorsal,gaba-negative,"Ito 
 adult_drosophila_melanogaster,midbrain,AOTU025,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU026,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU027,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AOTU029,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU030,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU036,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU037,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU038,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTU039,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,AOTU044,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTUv3B_M01,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTUv3B_P01,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AOTUv3B_P02,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -499,6 +504,7 @@ adult_drosophila_melanogaster,midbrain,AVLP040,VLPd1,gaba-negative,"Ito et al., 
 adult_drosophila_melanogaster,midbrain,AVLP041,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP042,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP043,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AVLP044,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP044a,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP044b,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP045,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -515,6 +521,7 @@ adult_drosophila_melanogaster,midbrain,AVLP284,VLPa1_lateral,gaba-negative,"Ito 
 adult_drosophila_melanogaster,midbrain,AVLP286,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP287,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP288,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AVLP290,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP290a,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP290b,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP292,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -533,16 +540,20 @@ adult_drosophila_melanogaster,midbrain,AVLP304,VLPa1_lateral,gaba-negative,"Ito 
 adult_drosophila_melanogaster,midbrain,AVLP305,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP306,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP308,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AVLP309,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP309a,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP309b,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AVLP310,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP310a,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,AVLP310b,VLPa1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,AVLP312,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,AVLP312a,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,AVLP312b,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,AVLP313,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,AVLP446,ALv1,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,AVLP447,ALv1,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,AVLP460,PSa1,gaba,"Ito et al., 2013",immuno,5
+adult_drosophila_melanogaster,midbrain,AVLP462,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,AVLP462a,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,AVLP462b,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,AVLP476,putative_primary,dopamine,"Chiang et al., 2011",MCFO,3
@@ -1283,7 +1294,9 @@ adult_drosophila_melanogaster,midbrain,CL005,AOTUv4_dorsal,gaba-negative,"Ito et
 adult_drosophila_melanogaster,midbrain,CL006,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL022,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL023,VLPd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,CL033,putative_primary,dopamine,Mao and Davis 2009,immuno,5
 adult_drosophila_melanogaster,midbrain,CL098,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,CL099,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,CL099a,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,CL099b,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,CL099c,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
@@ -1295,11 +1308,16 @@ adult_drosophila_melanogaster,midbrain,CL114,ALv1,gaba,ASB,educated guess,0
 adult_drosophila_melanogaster,midbrain,CL114,ALv1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,CL116,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,CL118,PSa1,gaba,"Ito et al., 2013",immuno,5
+adult_drosophila_melanogaster,midbrain,CL120,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,CL120a,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,CL120b,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,"CL121,CL122",PSa1,gaba,"Ito et al., 2013",immuno,5
+adult_drosophila_melanogaster,optic_transfer,CL125,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,optic_transfer,CL125,SLPpl1,glutamate,"Sun et al., 2022",immuno,5
+adult_drosophila_melanogaster,midbrain,CL160,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL160a,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL160b,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,CL161,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL161a,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL161b,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL162,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -1320,6 +1338,7 @@ adult_drosophila_melanogaster,midbrain,CL183,SMPp&v1_posterior,gaba-negative,"It
 adult_drosophila_melanogaster,midbrain,CL186,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL187,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL195,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,CL196,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL196a,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL196b,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL210,SMPpm1,acetylcholine,Bidaye et al. 2020,unknown,0
@@ -1331,11 +1350,19 @@ adult_drosophila_melanogaster,midbrain,"CL301,CL302",PSp3,gaba-negative,"Ito et 
 adult_drosophila_melanogaster,midbrain,CL313,DL2_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL319,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL321,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,CL323,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL323a,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL323b,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,CL324,PSp2,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
+adult_drosophila_melanogaster,neck_connective,CL324,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,CL325,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"CL328,IB070,IB071",DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,CL330,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,CL334,DM6_central2,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,CL344,putative_primary,serotonin,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,CL352,DM6_posterior,serotonin,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,CL357,SMPp&v1_ventral,"acetylcholine-negative, glutamate-negative, gaba-negative, serotonin-negative, dopamine-negative, tyramine-negative, octopamine-negative","Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,CL358,SMPp&v1_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CL360,NA,serotonin,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,CRE079,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,CRE105,DL2_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -1443,6 +1470,7 @@ adult_drosophila_melanogaster,neck_connective,DNp104,PSp2,gaba-negative,"Ito et 
 adult_drosophila_melanogaster,neck_connective,DNp11,putative_primary,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNp13,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,neck_connective,DNp16,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,DNp16/17,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,neck_connective,DNp17,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,neck_connective,DNp18,putative_primary,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNp20,putative_primary,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
@@ -1581,6 +1609,7 @@ adult_drosophila_melanogaster,midbrain,ER6,EBa1,gaba,"Xie et al., 2017",immuno,5
 adult_drosophila_melanogaster,midbrain,ER6,EBa1,"gaba, acetylcholine-negative, glutamate-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,ExR1,DM4__prim,"acetylcholine, glutamate-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,ExR1,DM3__prim,"acetylcholine, glutamate-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,ExR2,DM6__prim,dopamine,Nassel and Elekes 1992,immuno,5
 adult_drosophila_melanogaster,midbrain,ExR2_1,DM6__prim,dopamine,Nassel and Elekes 1992,immuno,5
 adult_drosophila_melanogaster,midbrain,ExR2_2,DM6__prim,dopamine,Nassel and Elekes 1992,immuno,5
 adult_drosophila_melanogaster,midbrain,ExR3,putative_primary,serotonin,"Pooryasin et al., 2015",immuno,5
@@ -1589,7 +1618,133 @@ adult_drosophila_melanogaster,midbrain,ExR5,putative_primary,"glutamate, acetylc
 adult_drosophila_melanogaster,midbrain,ExR6,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,ExR7,DM4__prim,"acetylcholine, glutamate-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,ExR7,DM3__prim,"acetylcholine, glutamate-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB1A,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB1C,DM6__prim,"dopamine, glutamate-negative, acetylcholine-negative, gaba-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB1D,DL1_dorsal,"acetylcholine, glutamate, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB1F,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB1G,DM4_dorsal,"acetylcholine, glutamate-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB1H,putative_primary,serotonin,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,"FB1I,FB1J",LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2A,DM6__prim,dopamine,"Hulse et al., 2020",immuno,5
+adult_drosophila_melanogaster,midbrain,FB2A,DM6__prim,"dopamine, glutamate-negative, acetylcholine-negative, gaba-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2B,CREa1_dorsal,tyramine,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,FB2B,CREa2_medial,tyramine,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,midbrain,FB2B,CREa1_dorsal,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative","Wolff et a., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2B,CREa2_medial,"tyramine, serotonin, glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, octopamine-negative","Wolff et a., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB2C,FB2K",LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2E,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2F,DL1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2H,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2I,DL1_dorsal,glutamate,ASB,educated guess,0
+adult_drosophila_melanogaster,midbrain,FB2I_a,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2I_b,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2J,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB2K,LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB2M,FB2F",DL1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB3A,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB3B,EBa1,gaba,"Ito et al., 2013",immuno,5
+adult_drosophila_melanogaster,midbrain,FB3C,EBa1,gaba,"Ito et al., 2013",immuno,5
+adult_drosophila_melanogaster,midbrain,FB3C,EBa1,"gaba, acetylcholine-negative, glutamate-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB3D,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4A,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4B,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4C,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4D,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4D,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4E,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4J,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4K,NA,"acetylcholine, glutamate, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4K,NA,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4L,DM6__prim,dopamine,"Hulse et al., 2020",immuno,5
+adult_drosophila_melanogaster,midbrain,FB4L,DM6__prim,"dopamine, tyramine",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4L,DM6__prim,"dopamine, tyramine","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4M,DM6__prim,dopamine,"Hulse et al., 2020",immuno,5
+adult_drosophila_melanogaster,midbrain,FB4M,DM6__prim,"dopamine, serotonin, glutamate-negative, acetylcholine-negative, gaba-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4N,putative_primary,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4O,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB4O,AOTUv4_ventral,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB4P,FB4Q,FB4R",AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"FB4P,FB4Q,FB4R",AOTUv4_ventral,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4P_a,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB4P_a,AOTUv4_ventral,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4Q_b,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB4Q_b,AOTUv4_ventral,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4X,putative_primary,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4Y,DM6__prim,"serotonin, glutamate-negative, acetylcholine-negative, gaba-negative, dopamine-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB4Z,DM6_dorso_medial,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB4Z,FB5U,FB5R",DM6_dorso_medial,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB5AB,DM4_dorsal,acetylcholine,"Matheson et al., 2022",immuno,5
+adult_drosophila_melanogaster,midbrain,FB5AB,DM4_dorsal,"acetylcholine, glutamate-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB5B,SIPp1,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB5C,FB5F,FB5G,FB5P,FB5Q",AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"FB5C,FB5F,FB5G,FB5P,FB5Q",AOTUv4_ventral,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB5D,FB5E",AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB5H,putative_primary,dopamine,"Hulse et al., 2020",immuno,5
 adult_drosophila_melanogaster,midbrain,"FB5J,FB5K,FB5L,FB5M,FB5N,FB5W",LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB5K,LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB5K,FB5L",LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB5O,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"FB5S,FB6L",DM6_dorso_medial,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB5S,FB6L",DM6_dorso_medial,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB5V,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB5W,LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB5X,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB5X,AOTUv4_ventral,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB5Z,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB6A,DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,FB6A,DL1_dorsal,"glutamate, acetylcholine","Jones et al., 2024",immuno,5
+adult_drosophila_melanogaster,midbrain,FB6A,DL1_dorsal,"glutamate, acetylcholine, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6B,DL1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB6C,FB6I",DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,FB6D,DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,FB6D,DL1_dorsal,"glutamate, acetylcholine","Jones et al., 2024",immuno,5
+adult_drosophila_melanogaster,midbrain,FB6D,DL1_dorsal,"glutamate, acetylcholine, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6E,DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,FB6E,DL1_dorsal,"glutamate, acetylcholine","Jones et al., 2024",immuno,5
+adult_drosophila_melanogaster,midbrain,FB6E,DL1_dorsal,"glutamate, acetylcholine","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6H,DL1_dorsal,"dopamine, serotonin, glutamate, acetylcholine-negative, gaba-negative, tyramine-negative, octopamine-negative","Hulse et al., 2020",immuno,5
+adult_drosophila_melanogaster,midbrain,FB6H,DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,FB6M,putative_primary,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6N,LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6O,LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6P,LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6Q,SIPp1,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6R,SIPp1,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6S,SIPp1,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6T,SIPp1,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6U,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB6V,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB6W,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB6Y,SIPp1,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB6Z,DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,"FB7A,FB7K",DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,"FB7A,FB7K",DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB7A,FB7K,FB6G",DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,"FB7A,FB7K,FB6G",DL1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7B,DL1_dorsal,dopamine,"Hulse et al., 2020",immuno,5
+adult_drosophila_melanogaster,midbrain,FB7B,DL1_dorsal,glutamate,Hasenhuetl et al. 2024,intersection,4
+adult_drosophila_melanogaster,midbrain,FB7B,DL1_dorsal,"glutamate, dopamine, serotonin, acetylcholine-negative, gaba-negative, tyramine-negative, octopamine-negative",Janelia,EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7B,DL1_dorsal,"glutamate, dopamine, serotonin, acetylcholine-negative, gaba-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7E,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"FB7F,FB8F",SIPp1,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7G,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB7G,AOTUv4_ventral,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB7G,FB7I",AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"FB7G,FB7I",AOTUv4_ventral,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7H,LALv1_dorsal,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7J,DM6_dorso_medial,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7J,DM6_dorso_medial,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB7L,DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,"FB8A,FB8H",DL1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB8B,DM6_dorso_medial,"glutamate, tyramine, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB8C,DM6_dorso_medial,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB8D,SIPp1,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB8E,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB8G,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB8G,AOTUv4_ventral,glutamate,"Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,FB8I,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB9B,AOTUv4_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,FB9B,AOTUv4_ventral,"glutamate, acetylcholine-negative, gaba-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"FC1A,FC1B,FC1F",DM1_CX_d2,"acetylcholine, gaba-negative, glutamate-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"FC1A,FC1B,FC1F",DM2_CX_d1,"acetylcholine, gaba-negative, glutamate-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,"FC1A,FC1B,FC1F",DM2_CX_d2,"acetylcholine, gaba-negative, glutamate-negative, dopamine-negative, serotonin-negative, tyramine-negative, octopamine-negative","Wolff et al., 2024",EASI-FISH,4
@@ -1645,6 +1800,12 @@ adult_drosophila_melanogaster,midbrain,IB068,DM5_central,gaba-negative,"Ito et a
 adult_drosophila_melanogaster,midbrain,IB069,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,IB076,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,IB084,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,IB085,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,IB088,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,IB089,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,IB090,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,IB091,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,IB109,SMPp&v1_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,IB110,SMPp&v1_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,IB117,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,IB118,putative_primary,serotonin,"Chiang et al., 2011",MCFO,3
@@ -3637,6 +3798,31 @@ adult_drosophila_melanogaster,vnc,IN23B093,23B,acetylcholine,"Lacin et al., 2019
 adult_drosophila_melanogaster,vnc,IN23B094,23B,acetylcholine,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,midbrain,ISN,putative_primary,"octopamine, acetylcholine",Meschi et al. 2024,immuno,5
 adult_drosophila_melanogaster,midbrain,IbSpsP,DM6_IbSpsP,"acetylcholine, gaba-negative, glutamate-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp4,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp4,acetylcholine,Barnstedt et al. 2016,immuno,5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp1,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp2,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp3,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap1,MBp4,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp4,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp1,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp2,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp3,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-ap2,MBp4,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp4,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp1,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp2,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp3,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCa'b'-m,MBp4,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
 adult_drosophila_melanogaster,midbrain,KCab,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,KCab,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,KCab,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
@@ -3645,6 +3831,22 @@ adult_drosophila_melanogaster,midbrain,KCab,MBp1,acetylcholine,Barnstedt et al. 
 adult_drosophila_melanogaster,midbrain,KCab,MBp2,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
 adult_drosophila_melanogaster,midbrain,KCab,MBp3,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
 adult_drosophila_melanogaster,midbrain,KCab,MBp4,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp4,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp1,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp2,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp3,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-c,MBp4,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp4,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp1,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp2,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp3,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-m,MBp4,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
 adult_drosophila_melanogaster,midbrain,KCab-p,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,KCab-p,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,KCab-p,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
@@ -3653,6 +3855,14 @@ adult_drosophila_melanogaster,midbrain,KCab-p,MBp1,acetylcholine,Barnstedt et al
 adult_drosophila_melanogaster,midbrain,KCab-p,MBp2,acetylcholine,Barnstedt et al. 2016,immuno,5
 adult_drosophila_melanogaster,midbrain,KCab-p,MBp3,acetylcholine,Barnstedt et al. 2016,immuno,5
 adult_drosophila_melanogaster,midbrain,KCab-p,MBp4,acetylcholine,Barnstedt et al. 2016,immuno,5
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp4,acetylcholine,Aso et al. 2019,scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp1,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp2,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp3,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
+adult_drosophila_melanogaster,midbrain,KCab-s,MBp4,acetylcholine,Barnstedt et al. 2016,"immuno, RNAi",5
 adult_drosophila_melanogaster,midbrain,KCapbp-ap1,MBp1,acetylcholine,Aso et al. 2019,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,KCapbp-ap1,MBp2,acetylcholine,Aso et al. 2019,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,KCapbp-ap1,MBp3,acetylcholine,Aso et al. 2019,scRNA-seq,3
@@ -3723,28 +3933,36 @@ adult_drosophila_melanogaster,midbrain,"LAL096,LAL097",AOTUv3_ventral,gaba-negat
 adult_drosophila_melanogaster,midbrain,"LAL125,LAL108",putative_primary,serotonin,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,LAL128,SMPpm1,dopamine,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,LAL138,putative_primary,gaba,"Okubo et al., 2020",immuno,5
+adult_drosophila_melanogaster,midbrain,LAL147,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL147a,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL147b,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL147c,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL148,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL149,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LAL150,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL150a,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL150b,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL151,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL152,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL153,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"LAL160,LAL161",DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LAL167,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL167a,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL167b,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LAL168,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL168a,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL168b,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"LAL176,LAL177",DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LAL179,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL179a,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL179b,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL180,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL185,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LAL186,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,vnc,LBL40,07B,acetylcholine,"Lacin et al., 2019",FISH,3
+adult_drosophila_melanogaster,optic_transfer,LC10,VPNd2,acetylcholine,"Davis et al., 2020",TAPIN,4
+adult_drosophila_melanogaster,optic_transfer,LC10,NA,acetylcholine,"Davis et al., 2020",TAPIN,4
+adult_drosophila_melanogaster,optic_transfer,LC10,VPNd2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC10a,VPNd2,acetylcholine,"Davis et al., 2020",TAPIN,4
 adult_drosophila_melanogaster,optic_transfer,LC10a,VPNd2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC10b,VPNd2,acetylcholine,"Davis et al., 2020",TAPIN,4
@@ -3759,6 +3977,7 @@ adult_drosophila_melanogaster,optic_transfer,LC10e,VPNd2,acetylcholine,"Davis et
 adult_drosophila_melanogaster,optic_transfer,LC10e,VPNd2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC10f,VPNd2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC11,VPNp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LC14,VPNp1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LC14a1,VPNp1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LC14a2,VPNp1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LC14b,VPNp1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -3766,13 +3985,18 @@ adult_drosophila_melanogaster,optic_transfer,LC16,VPNv2,acetylcholine,"Davis et 
 adult_drosophila_melanogaster,optic_transfer,LC16,VPNv2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC18,VPNp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC19,VPNp1_lateral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,LC20,NA,glutamate,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,optic_transfer,LC20b,NA,glutamate,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,optic_transfer,LC21,VPNp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC25,NA,glutamate,"Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,"LC25,LC26",NA,glutamate,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,optic_transfer,LC4,NA,acetylcholine,"Davis et al., 2020",TAPIN,4
 adult_drosophila_melanogaster,optic_transfer,LC40,VLPp&l1_lateral,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,optic_transfer,"LC40a,LC40b",VLPp&l1_lateral,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,optic_transfer,LC45,VLPp&l1_lateral,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,optic_transfer,"LC45a,LC45b",VLPp&l1_lateral,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,optic_transfer,LC46,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,"LC46a,LC46b",PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC6,VPNd3,acetylcholine,"Davis et al., 2020",TAPIN,4
 adult_drosophila_melanogaster,optic_transfer,LC6,VPNd3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,LC9,VPNd3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -3786,25 +4010,34 @@ adult_drosophila_melanogaster,optic_transfer,LCe07,VPNp1_lateral,gaba-negative,"
 adult_drosophila_melanogaster,midbrain,LHAD1a1,SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1a2,SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,"LHAD1a3,LHAD1f5",SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAD1a4,SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1a4a,SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1a4b,SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1a4c,SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1b1_b,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAD1b2,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,"LHAD1b2_a,LHAD1b2_c",LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1b3,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1b4,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1b5,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAD1c2,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1c2a,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1c2b,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1c2c,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1c3,SLPal2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1d1,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1d2,LHl2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAD1f1,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHAD1f1,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f1a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHAD1f1a,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f1b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHAD1f1b,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f2,putative_primary,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAD1f3_a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHAD1f3_a,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAD1f3_b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHAD1f3_b,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f3a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHAD1f3a,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f3b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -3813,6 +4046,8 @@ adult_drosophila_melanogaster,midbrain,LHAD1f3c,SLPal1,gaba-negative,"Ito et al.
 adult_drosophila_melanogaster,midbrain,LHAD1f3c,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f3d,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHAD1f3d,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAD1f4,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHAD1f4,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f4a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHAD1f4a,SLPal1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAD1f4b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -3835,12 +4070,14 @@ adult_drosophila_melanogaster,midbrain,LHAV1a1,VLPl&p2_lateral,acetylcholine,"Do
 adult_drosophila_melanogaster,midbrain,LHAV1a3,VLPl&p2_lateral,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV1b1,VLPl&p2_lateral,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV1b3,VLPl&p2_lateral,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV2a3,LHa2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2a3a,LHa2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2a3b,LHa2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2a3c,LHa2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2b1,VLPl2_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2b10,VLPl2_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2b11,VLPl2_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV2b2,VLPl2_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2b2a,VLPl2_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2b2b,VLPl2_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV2k10,LHa2,acetylcholine,"Dolan et al., 2019",immuno,5
@@ -3850,6 +4087,7 @@ adult_drosophila_melanogaster,midbrain,LHAV2k8,putative_primary,acetylcholine,"D
 adult_drosophila_melanogaster,midbrain,LHAV2m1,LHl3,acetylcholine,ASB,educated guess,0
 adult_drosophila_melanogaster,midbrain,LHAV3a1_c,NA,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV3e2,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,LHAV3e3,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,LHAV3e3a,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,LHAV3e3b,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,LHAV3e6,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
@@ -3860,7 +4098,10 @@ adult_drosophila_melanogaster,midbrain,LHAV4a6,LHl1,gaba,"Dolan et al., 2019",im
 adult_drosophila_melanogaster,midbrain,LHAV4b1,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV4b2,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV4c2,LHl1,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV4e7,VLPl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV4g17,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV4g1_a,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV4g1_b,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV4g1a,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV4g1b,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV4g1c,LHl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
@@ -3869,13 +4110,21 @@ adult_drosophila_melanogaster,midbrain,LHAV4j1,LHl1,gaba,"Dolan et al., 2019",im
 adult_drosophila_melanogaster,midbrain,LHAV5a1,VPNl&d1_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV5e1,SLPav2,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV6a1,LHa1,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV6c1,SIPa1_ventral,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV6c1a,SIPa1_ventral,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV6c1b,SIPa1_ventral,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV7a1_a,AOTUv2,"acetylcholine, glutamate","Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHAV7a1_b,AOTUv2,"acetylcholine, glutamate","Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV7a1a,AOTUv2,"acetylcholine, glutamate","Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV7a1b,AOTUv2,"acetylcholine, glutamate","Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHAV7a1c,AOTUv2,"acetylcholine, glutamate","Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHCENT12,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHCENT12a,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHCENT12b,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHPD2a1,VLPd&p1_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPD2a1,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHPD2b1,VLPd&p1_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPD2b1,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPD2c1,VLPd&p1_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD2c1,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPD2d1,VLPd&p1_posterior,gaba-negative,"Dolan et al., 2019",immuno,5
@@ -3886,26 +4135,34 @@ adult_drosophila_melanogaster,midbrain,LHPD3a4,LHd2,glutamate,"Dolan et al., 201
 adult_drosophila_melanogaster,midbrain,LHPD3a5,LHd2,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD3c1,LHd2,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD4a1,SLPpm1,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPD4a2,SLPpm1,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPD4b1,SLPpm1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD4b1a,SLPpm1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD4b1b,SLPpm1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD4c1,putative_primary,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD4d1,SLPpm1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD5a1,putative_primary,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPD5b1,SLPpm3,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD5c1,putative_primary,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPD5d1,putative_primary,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPD5f1,SMPp&v1_posterior,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV12a1,primary,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV1c1,putative_primary,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV1c2,putative_primary,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV1d1,putative_primary,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV2a1,VPNp&v1_posterior,gaba,ASB,educated guess,0
 adult_drosophila_melanogaster,midbrain,LHPV2a1_a,VPNp&v1_posterior,gaba,ASB,educated guess,0
 adult_drosophila_melanogaster,midbrain,LHPV2a1_a,VPNp&v1_posterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2a2,VPNp&v1_posterior,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV2c1,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2d1,VPNp&v1_posterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2e1_a,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2g1,putative_primary,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2h1,LHl4_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV2i1,LHl4_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2i1a,LHl4_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2i1b,LHl4_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV2i2,LHl4_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2i2a,LHl4_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV2i2b,LHl4_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV3a1,VPNp1_medial,acetylcholine,"Dolan et al., 2019",immuno,5
@@ -3925,6 +4182,8 @@ adult_drosophila_melanogaster,midbrain,LHPV4a2,LHp1,gaba-negative,"Ito et al., 2
 adult_drosophila_melanogaster,midbrain,LHPV4a2,LHp1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV4a3,LHp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPV4a3,LHp1,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV4a4,LHp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHPV4a4,LHp1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV4a5,LHp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPV4a5,LHp1,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV4a7a,LHp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -3936,6 +4195,7 @@ adult_drosophila_melanogaster,midbrain,LHPV4b1,SLPp&v1_posterior,glutamate,"Dola
 adult_drosophila_melanogaster,midbrain,LHPV4b2,SLPp&v1_posterior,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV4b3,SLPp&v1_posterior,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV4b9,SLPp&v1_posterior,glutamate,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV4c1,SLPp&v1_posterior,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV4c4,SLPp&v1_posterior,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV4d3,LHp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPV4d3,LHp1,glutamate,"Dolan et al., 2019",immuno,5
@@ -3950,6 +4210,10 @@ adult_drosophila_melanogaster,midbrain,LHPV4k1,LHp1,glutamate,"Dolan et al., 201
 adult_drosophila_melanogaster,midbrain,LHPV4l1,putative_primary,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV5a1,DL2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV5a1,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHPV5a2,DL2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV5a2,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHPV5a3,DL2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV5a3,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPV5a5,DL2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV5a5,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPV5b1,DL1_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
@@ -3963,6 +4227,8 @@ adult_drosophila_melanogaster,midbrain,LHPV5c2,DL1_dorsal,acetylcholine,"Dolan e
 adult_drosophila_melanogaster,midbrain,LHPV5c3,DL1_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV5d1,DL2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV5d1,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,LHPV5d3,DL2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV5d3,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPV5e1,DL2_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV5e1,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,LHPV5e2,DL1_dorsal,acetylcholine,"Dolan et al., 2019",immuno,5
@@ -3983,6 +4249,7 @@ adult_drosophila_melanogaster,midbrain,LHPV6c1,LHp2,acetylcholine,"Dolan et al.,
 adult_drosophila_melanogaster,midbrain,LHPV6c2,LHp2,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV6l1,SLPpl2,glutamate,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV6o1,SLPpl2,acetylcholine,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,LHPV7a1,VLPl&p1_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV7a1a,VLPl&p1_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV7a1b,VLPl&p1_posterior,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,LHPV7a2,putative_primary,acetylcholine,"Dolan et al., 2019",immuno,5
@@ -3996,6 +4263,9 @@ adult_drosophila_melanogaster,optic_transfer,LMTe01,SLPpl1,glutamate,"Sun et al.
 adult_drosophila_melanogaster,midbrain,LNO1,putative_primary,"gaba, acetylcholine-negative, glutamate-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,LNO2,LALv1_dorsal,glutamate,Lu et al. 2021,intersection,4
 adult_drosophila_melanogaster,midbrain,LNOa,LALv1_dorsal,"glutamate, acetylcholine-negative, gaba-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,midbrain,LNd,putative_primary,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,LNd,SLPav1_lateral,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,LNd,SLPav1_lateral,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,LNd_a,putative_primary,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,LNd_b,SLPav1_lateral,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,LNd_c,SLPav1_lateral,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
@@ -4064,6 +4334,7 @@ adult_drosophila_melanogaster,midbrain,MBON20,putative_primary,gaba,"Aso et al.,
 adult_drosophila_melanogaster,midbrain,MBON28,DL1_dorsal,acetylcholine,ASB,educated guess,0
 adult_drosophila_melanogaster,midbrain,MBON29,DL2_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,MBON33,putative_primary,acetylcholine,"Aso et al., 2014",immuno,5
+adult_drosophila_melanogaster,optic_transfer,"MC61,MC64",NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,MDN,primary,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,vnc,MNad19,06A,gaba,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,vnc,MNad28,08A,glutamate,"Lacin et al., 2019",FISH,3
@@ -4102,6 +4373,8 @@ adult_drosophila_melanogaster,midbrain,MZ_lvPN,ALlv1,acetylcholine,"Tanaka et al
 adult_drosophila_melanogaster,midbrain,MZ_lvPN,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_adPNm3,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_adPNm3,ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"M_adPNm4,M_adPNm5",ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,"M_adPNm4,M_adPNm5",ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_adPNm6,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_adPNm6,ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_adPNm7,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
@@ -4114,6 +4387,7 @@ adult_drosophila_melanogaster,midbrain,M_lPNm11A,ALl1_ventral,acetylcholine,"Tan
 adult_drosophila_melanogaster,midbrain,M_lPNm11B,ALl1_ventral,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_lPNm11C,ALl1_ventral,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_lPNm11D,ALl1_ventral,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,"M_lPNm12,M_lPNm13",ALl1_ventral,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_lvPNm24,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_lvPNm24,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_lvPNm25,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
@@ -4126,8 +4400,12 @@ adult_drosophila_melanogaster,midbrain,M_lvPNm28,ALlv1,acetylcholine,"Tanaka et 
 adult_drosophila_melanogaster,midbrain,M_lvPNm28,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_lvPNm29,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_lvPNm29,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"M_lvPNm30,M_lvPNm32",ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,"M_lvPNm30,M_lvPNm32",ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_lvPNm31,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_lvPNm31,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"M_lvPNm33,M_lvPNm34",ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,"M_lvPNm33,M_lvPNm34",ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_lvPNm35,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,M_lvPNm35,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,M_lvPNm37,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
@@ -4157,6 +4435,7 @@ adult_drosophila_melanogaster,midbrain,M_vPNml51,ALv1,gaba,"Liang et al., 2013",
 adult_drosophila_melanogaster,midbrain,M_vPNml53,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,M_vPNml54,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,M_vPNml55,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
+adult_drosophila_melanogaster,midbrain,"M_vPNml56,M_vPNml58",ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,M_vPNml57,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,M_vPNml60,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,M_vPNml62,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
@@ -4169,6 +4448,7 @@ adult_drosophila_melanogaster,midbrain,M_vPNml69,ALv1,gaba,"Liang et al., 2013",
 adult_drosophila_melanogaster,midbrain,M_vPNml72,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,M_vPNml80,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,M_vPNml84,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
+adult_drosophila_melanogaster,midbrain,"M_vPNml85,M_vPNml88,M_vPNml89,DM3_vPN",ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,MeLp2,NA,glutamate,"Zhao et al., 2023",FISH,3
 adult_drosophila_melanogaster,midbrain,MeMe_e11,NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,optic_transfer,MeTu1,NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
@@ -4182,6 +4462,7 @@ adult_drosophila_melanogaster,optic_lobes,Mt4,NA,gaba,"Nern et al., 2024",EASI-F
 adult_drosophila_melanogaster,neck_connective,MtAHN,NA,histamine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,MtAHN,27X,histamine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,NPFL1-I,putative_primary,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
+adult_drosophila_melanogaster,neck_connective,NPFP1,putative_primary,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
 adult_drosophila_melanogaster,optic_transfer,Nod1,NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,optic_transfer,Nod2,putative_primary,acetylcholine,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,optic_transfer,OA-AL2b1,putative_primary,octopamine,"Busch et al., 2009",immuno,5
@@ -4282,6 +4563,10 @@ adult_drosophila_melanogaster,sez,ORN_VC2,NA,acetylcholine,"Carlsson et al., 201
 adult_drosophila_melanogaster,sez,ORN_VC2,NA,acetylcholine,Yasuyama et al. 1999,immuno,5
 adult_drosophila_melanogaster,midbrain,ORN_VC3,NA,acetylcholine,"Carlsson et al., 2010",immuno,5
 adult_drosophila_melanogaster,midbrain,ORN_VC3,NA,acetylcholine,Yasuyama et al. 1999,immuno,5
+adult_drosophila_melanogaster,midbrain,ORN_VC3l,NA,acetylcholine,"Carlsson et al., 2010",immuno,5
+adult_drosophila_melanogaster,midbrain,ORN_VC3l,NA,acetylcholine,Yasuyama et al. 1999,immuno,5
+adult_drosophila_melanogaster,midbrain,ORN_VC3m,NA,acetylcholine,"Carlsson et al., 2010",immuno,5
+adult_drosophila_melanogaster,midbrain,ORN_VC3m,NA,acetylcholine,Yasuyama et al. 1999,immuno,5
 adult_drosophila_melanogaster,midbrain,ORN_VC4,NA,acetylcholine,"Carlsson et al., 2010",immuno,5
 adult_drosophila_melanogaster,midbrain,ORN_VC4,NA,acetylcholine,Yasuyama et al. 1999,immuno,5
 adult_drosophila_melanogaster,midbrain,ORN_VC5,NA,acetylcholine,"Carlsson et al., 2010",immuno,5
@@ -4449,21 +4734,31 @@ adult_drosophila_melanogaster,midbrain,PFR,DM3_CX_d2,tyramine,"Chiang et al., 20
 adult_drosophila_melanogaster,midbrain,PFR,DM4_CX_d1,tyramine,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,PFR,DM4_CX_d2,tyramine,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,PI,DILP__prim,"acetylcholine-negative, glutamate-negative, gaba-negative, serotonin-negative, dopamine-negative, tyramine-negative, octopamine-negative","Croset et al., 2018",scRNA-seq,3
+adult_drosophila_melanogaster,midbrain,"PI1,PI2,PI3",DILP__prim,"acetylcholine-negative, glutamate-negative, gaba-negative, serotonin-negative, dopamine-negative, tyramine-negative, octopamine-negative","Croset et al., 2018",scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,"PLP003,LHAV4i2",VLPl4_dorsal,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP006,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PLP007,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,PLP030,putative_primary,dopamine,"Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,optic_transfer,PLP030,putative_primary,dopamine,Mao and Davis 2009,immuno,5
 adult_drosophila_melanogaster,midbrain,PLP064_a,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,PLP064_b,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,PLP065,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,PLP065a,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,PLP065b,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,PLP067,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,PLP067a,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,PLP067b,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,PLP068,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,PLP080,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,PLP080,SLPpl1,glutamate,"Sun et al., 2022",immuno,5
 adult_drosophila_melanogaster,midbrain,"PLP084,PLP085",VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,PLP086,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP086a,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP086b,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,PLP087,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP087a,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP087b,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
+adult_drosophila_melanogaster,midbrain,PLP089,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP089b,VLPp&l1_anterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP121,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PLP122,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4471,10 +4766,15 @@ adult_drosophila_melanogaster,midbrain,PLP156,VPNp&v1_posterior,acetylcholine,"D
 adult_drosophila_melanogaster,midbrain,PLP187,VPNp1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"PLP188,PLP189",VPNp1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PLP190,VPNp1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"PLP191,PLP192",VPNp1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,PLP207,VLPp&l1_lateral,acetylcholine,"Nern et al., 2024",EASI-FSH,2
+adult_drosophila_melanogaster,optic_transfer,PLP207,NA,acetylcholine,"Nern et al., 2024",EASI-FSH,2
 adult_drosophila_melanogaster,midbrain,PLP222,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PLP223,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PLP239,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,PLP240,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PLP241,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,PLP244,putative_primary,octopamine,"Busch et al., 2009",immuno,5
 adult_drosophila_melanogaster,midbrain,PLP249,putative_primary,gaba,"Isaacson et al., 2023",FISH,3
 adult_drosophila_melanogaster,midbrain,PPL101,putative_primary,dopamine,Mao & Davis 2009,immuno,5
 adult_drosophila_melanogaster,midbrain,PPL101,putative_primary,dopamine,"Niens et al., 2017",immuno,5
@@ -4510,17 +4810,22 @@ adult_drosophila_melanogaster,midbrain,PPM1202,DM2_or_DM3_posterior,dopamine,Mao
 adult_drosophila_melanogaster,midbrain,PPM1203,putative_primary,dopamine,Mao & Davis 2009,immuno,5
 adult_drosophila_melanogaster,midbrain,"PPM1204,PS139",DM2_or_DM3_posterior,dopamine,Mao & Davis 2009,"immuno, unsure",1
 adult_drosophila_melanogaster,midbrain,PPM1205,SMPpm1,dopamine,Mao & Davis 2009,immuno,5
+adult_drosophila_melanogaster,neck_connective,PS015,WEDd1,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,PS080,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"PS081,PS085",AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"PS082,PS084",AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,PS083,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS083a,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS083b,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS086,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS087,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,PS090,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS090a,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS090b,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS091,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS092,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS093,PSa1,gaba,"Ito et al., 2013",immuno,5
+adult_drosophila_melanogaster,midbrain,PS094,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS094a,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS094b,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS095,PSa1,gaba,"Ito et al., 2013",immuno,5
@@ -4528,29 +4833,52 @@ adult_drosophila_melanogaster,midbrain,PS096,PSa1,gaba,"Ito et al., 2013",immuno
 adult_drosophila_melanogaster,midbrain,PS097,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PS108,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS109,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,PS111,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS112,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,PS123,DM1_posterior,gaba,"Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,PS125,DM1_posterior,acetylcholine,"Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,PS130,DM1_posterior,gaba,"Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,PS179,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS183,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS187,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,PS188,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS188a,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS188b,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS188c,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,PS191,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS191a,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS191b,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS192,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,PS193,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS193a,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS193b,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS193c,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS194,PSp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS198,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS199,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,PS208,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS208a,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS208b,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS209,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS210,VLPp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS211,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS212,PSp2,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
+adult_drosophila_melanogaster,neck_connective,PS212,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,sez,PS220,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,sez,PS221,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS221,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS222,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,sez,PS224,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS224,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS225,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS226,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS227,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS228,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PS233,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS271,PSp3,"acetylcholine, glutamate","Cheong et al., 2023",EASI-FISH,4
+adult_drosophila_melanogaster,neck_connective,PS271,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,PS273,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PS275,PSp3,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PSa1_48,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,PSa1_49,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,sez,PSp2_24,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4565,6 +4893,7 @@ adult_drosophila_melanogaster,midbrain,PVLP008,VLPd&p1_dorsal,gaba-negative,"Ito
 adult_drosophila_melanogaster,midbrain,PVLP008,VLPd&p1_dorsal,glutamate,ASB,educated guess,0
 adult_drosophila_melanogaster,midbrain,PVLP009,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PVLP107,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,PVLP119,putative_primary,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,PVLP133,VPNp1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PVLP134,VPNp1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,PVLP144,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4581,13 +4910,17 @@ adult_drosophila_melanogaster,sez,SAD021_c,WEDa1,gaba,"Ito et al., 2013",immuno,
 adult_drosophila_melanogaster,sez,SAD023,WEDa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,sez,SAD030,WEDa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,SAD036,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,SAD039,putative_primary,"glutamate, tyramine","Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,SAD040,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SAD047,AOTUv3_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SAD085,DM5_central,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,neck_connective,SApp23,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
 adult_drosophila_melanogaster,vnc,SApp23,NA,acetylcholine,"Mamiya et al., 2019",transgenics,2
+adult_drosophila_melanogaster,neck_connective,SIFa,putative_primary,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
+adult_drosophila_melanogaster,neck_connective,SIFa,putative_primary,glutamate,"Cavanaugh et al., 2016",RNA-seq,2
 adult_drosophila_melanogaster,midbrain,SIP003_a,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP003_b,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SIP004,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"SIP014,SIP016",VLPd&p1_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP015,VLPd&p1_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"SIP032,SIP059",VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4595,11 +4928,15 @@ adult_drosophila_melanogaster,midbrain,SIP033,SLPad1_posterior,gaba-negative,"It
 adult_drosophila_melanogaster,midbrain,SIP034,SLPad1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP041,SLPad1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP046,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,SIP047,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP047a,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP047b,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,SIP058,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP061,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,"SIP062,SIP063",VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SIP087,putative_primary,serotonin,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,SLP006,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP007,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP007a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP007b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP008,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4608,14 +4945,17 @@ adult_drosophila_melanogaster,midbrain,SLP012,SLPal1,gaba-negative,"Ito et al., 
 adult_drosophila_melanogaster,midbrain,SLP016,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP017,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP019,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP024,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP024a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP024b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP024c,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP024d,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP025,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP025a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP025b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP026,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP027,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP028,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP028a,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP028b,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP028c,SLPal1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4633,9 +4973,12 @@ adult_drosophila_melanogaster,midbrain,SLP157,SLPad1_anterior,gaba-negative,"Ito
 adult_drosophila_melanogaster,midbrain,SLP158,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP159,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP160,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP162,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP162a,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP162b,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP162c,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"SLP168,SLP125",SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"SLP168,SLP125",VLPd&p1_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP169,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP221,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SLP222,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
@@ -4644,25 +4987,35 @@ adult_drosophila_melanogaster,midbrain,SLP224,SLPav1_medial,gaba-negative,"Ito e
 adult_drosophila_melanogaster,midbrain,SLP226,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SLP227,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SLP228,SLPav1_medial,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,SLP249,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,SLP249,SLPpl1,glutamate,"Sun et al., 2022",immuno,5
+adult_drosophila_melanogaster,optic_transfer,SLP250,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,optic_transfer,SLP250,SLPpl1,glutamate,"Sun et al., 2022",immuno,5
 adult_drosophila_melanogaster,midbrain,SLP257,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SLP258,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
+adult_drosophila_melanogaster,midbrain,SLP265,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SLP265a,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SLP265b,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SLP285,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP286,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP286a,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP286b,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP287,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP288,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP288a,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP288b,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP288c,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP289,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP290,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP291,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP295,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP295a,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP295b,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP298,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP300,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP300a,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP300b,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP302,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP302a,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP302b,SLPpm1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP307,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4672,12 +5025,17 @@ adult_drosophila_melanogaster,midbrain,SLP391,SMPpd1,gaba-negative,"Ito et al., 
 adult_drosophila_melanogaster,midbrain,SLP392,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP396,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP397,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP398,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP398a,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP398b,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP400,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP400a,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP400b,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"SLP402,SMP426",CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,SLP410,SMPpv1,acetylcholine,"Wang et al., 2020",FISH,3
 adult_drosophila_melanogaster,midbrain,SLP412,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP438,SLPpm4,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SLP467,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP467a,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SLP467b,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"SLPad1_anterior_12,22,30,5",SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4687,10 +5045,12 @@ adult_drosophila_melanogaster,midbrain,SLPpm1__0,SLPpm1,gaba-negative,"Ito et al
 adult_drosophila_melanogaster,midbrain,SLPpm3_P01,SLPpm3,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,midbrain,SMP006,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP008,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP013,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP014,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP015,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP016,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP018,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP019,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP019a,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP019b,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP020,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4709,13 +5069,16 @@ adult_drosophila_melanogaster,midbrain,SMP096,SMPad1,gaba-negative,"Ito et al., 
 adult_drosophila_melanogaster,midbrain,SMP102,SMPad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP103,SMPad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"SMP104,SMP105,SMP107",SMPad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP106,SMPad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP106a,SMPad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP106b,SMPad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP143,putative_primary,tyramine,"Chiang et al., 2011","MCFO, unsure",1
+adult_drosophila_melanogaster,midbrain,SMP153,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP153a,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP153b,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP160,VLPa1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP161,VLPa1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP162,VLPa1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP162a,VLPa1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP162b,VLPa1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP162c,VLPa1_medial,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4732,31 +5095,38 @@ adult_drosophila_melanogaster,midbrain,SMP187,DL2_dorsal,gaba-negative,"Ito et a
 adult_drosophila_melanogaster,midbrain,SMP188,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP189,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP191,DL2_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"SMP206,SLP327",VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP207,SLPad1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP208,SLPad1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP210,SLPad1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"SMP213,SMP214",SLPad1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP215,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SMP215a,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SMP215b,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SMP215c,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SMP229,SLPpl1,gaba-negative,"Ito et al., 2013","lineage, based",2
 adult_drosophila_melanogaster,midbrain,SMP245,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP246,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP248,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP248a,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP248b,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP248c,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP283,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP333,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP334,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP336,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP339,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP340,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP341,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP341,SMPpd1,tyramine,"Chiang et al., 2011","MCFO, unsure",1
 adult_drosophila_melanogaster,midbrain,SMP342,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP344,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP344a,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP344b,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP345,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP346,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP348,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP348,SMPpd1,tyramine,"Chiang et al., 2011","MCFO, unsure",1
 adult_drosophila_melanogaster,midbrain,SMP348a,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP348a,SMPpd1,tyramine,"Chiang et al., 2011","MCFO, unsure",1
 adult_drosophila_melanogaster,midbrain,SMP348b,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4766,6 +5136,7 @@ adult_drosophila_melanogaster,midbrain,SMP355,SMPpd1,gaba-negative,"Ito et al., 
 adult_drosophila_melanogaster,midbrain,SMP357,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP359,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP360,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP361,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP361a,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP361b,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP362,SMPpd1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4780,18 +5151,23 @@ adult_drosophila_melanogaster,midbrain,SMP425,CLp1,gaba-negative,"Ito et al., 20
 adult_drosophila_melanogaster,midbrain,SMP428,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP429,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP441,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP443,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP444,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP445,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP446,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP446a,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP446b,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP447,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP448,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP451,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP451a,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP451b,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP452,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP459,SMPpm1,acetylcholine,Bidaye et al. 2020,unknown,0
 adult_drosophila_melanogaster,midbrain,SMP460,SMPpm1,acetylcholine,Bidaye et al. 2020,unknown,0
 adult_drosophila_melanogaster,midbrain,SMP461,SMPpm1,acetylcholine,Bidaye et al. 2020,unknown,0
+adult_drosophila_melanogaster,midbrain,SMP495,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP495,CLp1,tyramine,"Chiang et al., 2011","MCFO, unsure",1
 adult_drosophila_melanogaster,midbrain,SMP495a,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP495a,CLp1,tyramine,"Chiang et al., 2011","MCFO, unsure",1
 adult_drosophila_melanogaster,midbrain,SMP495b,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4803,6 +5179,7 @@ adult_drosophila_melanogaster,midbrain,SMP503,putative_primary,serotonin,"Chiang
 adult_drosophila_melanogaster,midbrain,SMP504,DM4_dorsal,serotonin,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,SMP505,DM4_dorsal,serotonin,"Chiang et al., 2011",MCFO,3
 adult_drosophila_melanogaster,midbrain,SMP531,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP532,SMPpd2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP532a,SMPpd2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP532b,SMPpd2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP533,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4817,6 +5194,7 @@ adult_drosophila_melanogaster,midbrain,SMP540,SMPpd2,glutamate,"Ma et al., 2021"
 adult_drosophila_melanogaster,midbrain,SMP540,SMPpd2,glutamate,"Reinhard et al., 2023",scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,SMP549,SMPp&v1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP552,CLp1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,SMP587,SMPp&v1_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP588,SMPp&v1_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,SMP597,VLPd&p1_posterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,"SMP602,SMP094",SMPad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -4888,6 +5266,8 @@ adult_drosophila_melanogaster,optic_lobes,TmY5a,NA,glutamate,"Davis et al., 2020
 adult_drosophila_melanogaster,optic_lobes,TmYem1,NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,vnc,Tr extensor MN,19A,gaba,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,vnc,Tr flexor MN,24B.25B,glutamate,"Lacin et al., 2019",FISH,3
+adult_drosophila_melanogaster,midbrain,TuBu01,AOTUv3_dorsal,acetylcholine,"Duan et al., 2023",immuno,5
+adult_drosophila_melanogaster,midbrain,TuBu01,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,TuBu01a,AOTUv3_dorsal,acetylcholine,"Duan et al., 2023",immuno,5
 adult_drosophila_melanogaster,midbrain,TuBu01a,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,TuBu01b,AOTUv3_dorsal,acetylcholine,"Duan et al., 2023",immuno,5
@@ -4898,6 +5278,8 @@ adult_drosophila_melanogaster,midbrain,"TuBu03,TuBu04",AOTUv4_dorsal,acetylcholi
 adult_drosophila_melanogaster,midbrain,"TuBu03,TuBu04",AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,TuBu05,AOTUv4_dorsal,acetylcholine,"Duan et al., 2023",immuno,5
 adult_drosophila_melanogaster,midbrain,TuBu05,AOTUv4_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,TuBu06,AOTUv3_dorsal,acetylcholine,"Duan et al., 2023",immuno,5
+adult_drosophila_melanogaster,midbrain,TuBu06,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,TuBu06a,AOTUv3_dorsal,acetylcholine,"Duan et al., 2023",immuno,5
 adult_drosophila_melanogaster,midbrain,TuBu06a,AOTUv3_dorsal,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,TuBu06b,AOTUv3_dorsal,acetylcholine,"Duan et al., 2023",immuno,5
@@ -4927,12 +5309,20 @@ adult_drosophila_melanogaster,midbrain,VC1_lPN,ALl1_ventral,acetylcholine,"Tanak
 adult_drosophila_melanogaster,midbrain,VC2_lPN,ALl1_ventral,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VC3_adPN,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VC3_adPN,ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,VC3l_adPN,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,VC3l_adPN,ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,VC3m_lvPN,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,VC3m_lvPN,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,VC4_adPN,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VC4_adPN,ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,VC5_adPN,ALad1__prim,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VC5_lvPN,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VC5_lvPN,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"VC5_lvPN,M_lvPNm38",ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,"VC5_lvPN,M_lvPNm38",ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,optic_transfer,VCH,putative_primary,gaba,Wei et al. 2019,intersection,4
 adult_drosophila_melanogaster,midbrain,VES003,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,neck_connective,VES006,WEDd1,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,VES019,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,VES020,PSa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,VES021,PSa1,gaba,"Ito et al., 2013",immuno,5
@@ -4981,8 +5371,12 @@ adult_drosophila_melanogaster,midbrain,VM7v_adPN,ALad1,gaba-negative,"Ito et al.
 adult_drosophila_melanogaster,midbrain,VP1l+VP3_ilPN,putative_primary,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VP1l+_lvPN,ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VP1l+_lvPN,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"VP1m+VP2_lvPN1,VP1m+VP2_lvPN2",ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,"VP1m+VP2_lvPN1,VP1m+VP2_lvPN2",ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,VP1m+VP5_ilPN,putative_primary,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VP1m+_lvPN,ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,"VP2+Z_lvPN,Z_lvPNm1",ALlv1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
+adult_drosophila_melanogaster,midbrain,"VP2+Z_lvPN,Z_lvPNm1",ALlv1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,VP2+_adPN,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VP2+_adPN,ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,VP2_adPN,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
@@ -4992,6 +5386,7 @@ adult_drosophila_melanogaster,midbrain,VP4+_vPN,ALv1,gaba,"Liang et al., 2013","
 adult_drosophila_melanogaster,midbrain,VP4_vPN,ALv1,gaba,"Liang et al., 2013","immuno, MARCM",5
 adult_drosophila_melanogaster,midbrain,VP5+Z_adPN,ALad1,acetylcholine,"Tanaka et al., 2012","immuno, tract based",3
 adult_drosophila_melanogaster,midbrain,VP5+Z_adPN,ALad1,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,VS,putative_primary,acetylcholine,"Zhao et  al., 2023",FISH,3
 adult_drosophila_melanogaster,optic_transfer,VS1,putative_primary,acetylcholine,"Zhao et  al., 2023",FISH,3
 adult_drosophila_melanogaster,optic_transfer,VS2,putative_primary,acetylcholine,"Zhao et  al., 2023",FISH,3
 adult_drosophila_melanogaster,optic_transfer,VS3,putative_primary,acetylcholine,"Zhao et  al., 2023",FISH,3
@@ -5017,13 +5412,16 @@ adult_drosophila_melanogaster,midbrain,WED130,VLPp2,gaba-negative,"Ito et al., 2
 adult_drosophila_melanogaster,midbrain,WED151,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED152,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED153,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,WED155,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED155a,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED155b,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED161,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED162,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,WED163,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED163a,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED163b,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED163c,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,midbrain,WED164,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED164a,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WED164b,DM5_ventral,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,WEDPN1A,WEDa2,gaba,"Dolan et al., 2019",immuno,5
@@ -5037,6 +5435,8 @@ adult_drosophila_melanogaster,midbrain,WEDPN6B,VPNp&v1_posterior,gaba,"Dolan et 
 adult_drosophila_melanogaster,midbrain,WEDPN6C,VPNp&v1_posterior,gaba,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,sez,WEDa1_23,WEDa1,gaba,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,Z_vPNml1,ALv1,gaba,"Tanaka et al., 2012",immuno,5
+adult_drosophila_melanogaster,midbrain,aDT4,NA,serotonin,"Shih and Chiang et al., 2011",MCFO,3
+adult_drosophila_melanogaster,optic_transfer,aMe14b,putative_primary,tyramine,"Chiang et al., 2011","MCFO, unsure",1
 adult_drosophila_melanogaster,midbrain,"aSP-f1A,aSP-f1B,aSP-f2",SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,aSP-f3,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
 adult_drosophila_melanogaster,midbrain,aSP-f4,SLPad1_anterior,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
@@ -5131,6 +5531,17 @@ adult_drosophila_melanogaster,midbrain,hDeltaM,DM1_CX_v,"acetylcholine, gaba-neg
 adult_drosophila_melanogaster,midbrain,hDeltaM,DM2_CX_p,"acetylcholine, gaba-negative, glutamate-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,hDeltaM,DM3_CX_p,"acetylcholine, gaba-negative, glutamate-negative","Wolff et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,hDeltaM,DM4_CX_d3,"acetylcholine, gaba-negative, glutamate-negative","Wolff et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,sez,hb1041666949,MX0__prim,octopamine,"Busch et al., 2009","immuno, intersection",5
+adult_drosophila_melanogaster,neck_connective,hb1197455013,05B,gaba,"Lacin et al., 2019",FISH,3
+adult_drosophila_melanogaster,optic_transfer,hb1315529069,putative_primary,acetylcholine,"Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,neck_connective,hb1436667616,PSp2,gaba-negative,"Ito et al., 2013","immuno, lineage based",2
+adult_drosophila_melanogaster,optic_transfer,hb1535212969,putative_primary,octopamine,"Busch et al., 2009","immuno, intersection",5
+adult_drosophila_melanogaster,neck_connective,hb1696530677,MX12__prim,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,hb540674783,NA,gaba,"Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,neck_connective,hb5813056435,MX3,"acetylcholine, glutamate","Cheong et al., 2023",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,hb5813069570,putative_primary,octopamine,"Busch et al., 2009","immuno, intersection",5
+adult_drosophila_melanogaster,neck_connective,"hb611262552,hb704367157",05B,gaba,"Lacin et al., 2019",FISH,3
+adult_drosophila_melanogaster,midbrain,hb702618710,VESa1,acetylcholine,"Dolan et al., 2019",immuno,5
 adult_drosophila_melanogaster,vnc,hg1 MN,16B,glutamate,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,vnc,hg2 MN,16B,glutamate,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,vnc,hg3 MN,16B,glutamate,"Lacin et al., 2019",FISH,3
@@ -5143,9 +5554,11 @@ adult_drosophila_melanogaster,midbrain,il3LN6,primary,gaba,"Tanaka et al., 2012"
 adult_drosophila_melanogaster,midbrain,l-LNv,putative_primary,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,l-LNv,putative_primary,"acetylcholine-negative, gaba-negative, glutamate-negative","Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,midbrain,l-LNv,putative_primary,"glycine, acetylcholine-negative","Mao et al., 2024",transgenics,2
+adult_drosophila_melanogaster,midbrain,"lLN1_b,lLN1_c",ALl1_dorsal,acetylcholine,"Shang et al., 2007",immuno,5
 adult_drosophila_melanogaster,midbrain,lLN1_bc,ALl1_dorsal,acetylcholine,"Shang et al., 2007",immuno,5
 adult_drosophila_melanogaster,midbrain,lLN2P_b,ALl1_dorsal,acetylcholine-negative,Croset et al. 2018,scRNA-seq,3
 adult_drosophila_melanogaster,midbrain,lLN2P_b,ALl1_dorsal,gaba,"Sizemore et al., 2023",immuno,5
+adult_drosophila_melanogaster,midbrain,lLN2T_a,ALl1_dorsal,acetylcholine,"Shang et al., 2007",immuno,5
 adult_drosophila_melanogaster,midbrain,lLN2T_b,ALl1_dorsal,acetylcholine,"Shang et al., 2007",immuno,5
 adult_drosophila_melanogaster,midbrain,lLN2T_c,ALl1_dorsal,acetylcholine,"Shang et al., 2007",immuno,5
 adult_drosophila_melanogaster,midbrain,lLN2X03,ALl1_dorsal,acetylcholine,"Shang et al., 2007",immuno,5
@@ -5155,6 +5568,7 @@ adult_drosophila_melanogaster,vnc,ltm2-femur MN,15B,glutamate,"Lacin et al., 201
 adult_drosophila_melanogaster,midbrain,mALC6,putative_primary,gaba,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,vnc,mesVUM-MJ,00B,octopamine,"Ehrhardt et al., 2023",immuno,5
 adult_drosophila_melanogaster,vnc,mesVUM-MJ,00B,octopamine,"Monastirioti et al., 1995",immuno,5
+adult_drosophila_melanogaster,neck_connective,oviDNa,SMPpv1,acetylcholine,"Wang et al., 2020",FISH,3
 adult_drosophila_melanogaster,neck_connective,oviDNa_a,SMPpv1,acetylcholine,"Wang et al., 2020",FISH,3
 adult_drosophila_melanogaster,neck_connective,oviDNa_b,SMPpv1,acetylcholine,"Wang et al., 2020",FISH,3
 adult_drosophila_melanogaster,neck_connective,oviDNb,SMPpv1,acetylcholine,"Wang et al., 2020",FISH,3
@@ -5166,6 +5580,10 @@ adult_drosophila_melanogaster,midbrain,pC1d,DM4_dorsal,acetylcholine,"Palavicino
 adult_drosophila_melanogaster,midbrain,pC1e,DM4_dorsal,acetylcholine,"Palavicino-Maggio et al., 2019",immuno,5
 adult_drosophila_melanogaster,vnc,ps1 MN,06A,gaba,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,vnc,ps2 MN,08A,glutamate,"Lacin et al., 2019",FISH,3
+adult_drosophila_melanogaster,optic_transfer,s-LNv,NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
+adult_drosophila_melanogaster,optic_transfer,s-LNv,NA,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
+adult_drosophila_melanogaster,optic_transfer,s-LNv,NA,glycine,"Frenkel et al., 2017",RNAi,1
+adult_drosophila_melanogaster,optic_transfer,s-LNv,NA,"glycine, glutamate-negative","Mao et al., 2024",transgenics,2
 adult_drosophila_melanogaster,optic_transfer,s-LNv_a,NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,optic_transfer,s-LNv_a,NA,"glycine, glutamate-negative","Mao et al., 2024",transgenics,2
 adult_drosophila_melanogaster,optic_transfer,s-LNv_b,NA,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
@@ -5188,6 +5606,7 @@ adult_drosophila_melanogaster,vnc,vMS12,12A,acetylcholine,"Lacin et al., 2019",F
 adult_drosophila_melanogaster,neck_connective,vMS13,06B,gaba,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,vnc,vPR6,12A,acetylcholine,"Lacin et al., 2019",FISH,3
 adult_drosophila_melanogaster,vnc,vPR9,00A,gaba,"Lacin et al., 2019",FISH,3
+adult_drosophila_melanogaster,neck_connective,vpoDN,putative_primary,acetylcholine,"Wang et al., 2021",FISH,3
 adult_drosophila_melanogaster,optic_lobes,NA,NA,acetylcholine,"Davis et al., 2020",TAPIN,4
 adult_drosophila_melanogaster,optic_lobes,NA,NA,acetylcholine,"Nern et al., 2024",EASI-FISH,4
 adult_drosophila_melanogaster,vnc,NA,19A,gaba,"Lacin et al., 2019",FISH,3

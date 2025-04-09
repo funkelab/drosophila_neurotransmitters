@@ -40,6 +40,12 @@ ft <- bancr::franken_meta()
 # ft.all <- plyr::rbind.fill(ft, ft.optic)
 # ft <- ft.all %>% dplyr::filter(!duplicated(root_id))
 ft$species <- 'adult_drosophila_melanogaster'
+ft <- bind_rows(
+  ft,
+  ft %>%
+    filter(cell_type != hemibrain_type, !is.na(hemibrain_type)) %>%
+    mutate(cell_type = hemibrain_type, dataset = "hemibrain")
+)
 
 # Make cross typing sheet
 ft.cross <- ft %>%
@@ -316,6 +322,25 @@ readr::write_csv(x = gt.nt.new,
                  file = "gt_data.csv")
 readr::write_csv(x = l1.nts.df,
                  file = "gt_sources/bates_2024/202502-starting_larval_gt_data.csv")
+
+#######################################
+### Make explicit hemibrain mapping ###
+#######################################
+
+hb.find <- neuprintr::neuprint_search("Traced",field="status",dataset="hemibrain:v1.2.1")
+hb.ids <- unique(hb.find$bodyid)
+hb.meta.orig <- neuprintr::neuprint_get_meta(hb.ids)
+hb.nt <- hb.meta.orig %>%
+  dplyr::filter(!is.na(type)) %>%
+  dplyr::left_join(ft.nt,
+                   by = c("type"="cell_type"),
+                   relationship = "many-to-many")
+hb.nt <- hb.nt %>%
+  dplyr::filter(!is.na(known_nt)) %>%
+  dplyr::arrange(type,bodyid) %>%
+  dplyr::select(bodyid, pre, type, species, region, hemilineage, known_nt, known_nt_source, known_nt_evidence, known_nt_confidence)
+readr::write_csv(x = hb.nt,
+                 file = "gt_sources/bates_2024/202502-hemibrain_gt_data.csv")
 
 #############################
 ### Make plots for README ###
