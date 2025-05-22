@@ -1,4 +1,4 @@
-﻿species,region,hemilineage,cell_type,known_nt_evidence,known_nt,known_nt_source,known_nt_confidence
+﻿species,region,hemilineage,cell_type,neurotransmitter_verified_evidence,neurotransmitter_verified,neurotransmitter_verified_source,neurotransmitter_verified_confidence
 adult_drosophila_melanogaster,optic_lobes,,Cm11,EASI-FSH,acetylcholine,"Nern et al., 2024",3
 adult_drosophila_melanogaster,optic_lobes,,Cm1,EASI-FSH,acetylcholine,"Nern et al., 2024",3
 adult_drosophila_melanogaster,optic_lobes,,MeLo4,EASI-FSH,acetylcholine,"Nern et al., 2024",3

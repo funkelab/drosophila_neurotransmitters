@@ -4426,9 +4426,18 @@ SMP171,SMP171,CREl1__0,CREl1,midbrain,TRUE,TRUE,TRUE,FALSE
 SMP174,SMP174,NA,CREl1,midbrain,TRUE,TRUE,TRUE,FALSE
 SMP172,SMP172,CREl1__0,CREl1,midbrain,TRUE,TRUE,TRUE,FALSE
 SLP240_b,SLP240_b,NA,CREl1,midbrain,TRUE,TRUE,TRUE,FALSE
-PI,PI1,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
-PI,PI2,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
-PI,PI3,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DILP,PI1,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DILP,PI2,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DILP,PI3,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DH44,PI1,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DH44,PI2,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DH44,PI3,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_unknown,PI1,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_unknown,PI2,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_unknown,PI3,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DMS,PI1,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DMS,PI2,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DMS,PI3,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
 "PI1,PI2,PI3",PI1,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
 "PI1,PI2,PI3",PI2,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
 "PI1,PI2,PI3",PI3,DILP__prim__0,DILP__prim,midbrain,TRUE,TRUE,TRUE,FALSE
@@ -7345,8 +7354,8 @@ OA-VUMa2,OA-VUMa2,NA,MD0__prim,sez,TRUE,TRUE,TRUE,FALSE
 OA-VUMa3,NA,NA,MD0__prim,sez,TRUE,FALSE,TRUE,FALSE
 OA-VUMa4,NA,NA,MD0__prim,sez,TRUE,FALSE,TRUE,FALSE
 OA-VUMa6,OA-VUMa6,NA,MD0__prim,sez,TRUE,TRUE,TRUE,FALSE
-OA-VUMx2,NA,NA,MD0__prim,sez,TRUE,FALSE,TRUE,FALSE
-OA-VUMx3,NA,NA,MD0__prim,sez,TRUE,FALSE,TRUE,FALSE
+CB4203,NA,NA,MD0__prim,sez,TRUE,FALSE,TRUE,FALSE
+CB4204,NA,NA,MD0__prim,sez,TRUE,FALSE,TRUE,FALSE
 OA-VUMa5,OA-VUMa5,NA,MD0__prim,sez,TRUE,TRUE,TRUE,FALSE
 OA-VUMa1,OA-VUMa1,NA,MD0__prim,sez,TRUE,TRUE,TRUE,FALSE
 CB0977,NA,MD3__0,MD3,sez,TRUE,FALSE,TRUE,FALSE
@@ -7449,7 +7458,7 @@ OA-VUMa3,NA,NA,MX0__prim,sez,TRUE,FALSE,TRUE,FALSE
 OA-VUMa4,NA,NA,MX0__prim,sez,TRUE,FALSE,TRUE,FALSE
 OA-VUMa5,OA-VUMa5,NA,MX0__prim,sez,TRUE,TRUE,TRUE,FALSE
 OA-VUMa7,OA-VUMa7,NA,MX0__prim,sez,TRUE,TRUE,TRUE,FALSE
-OA-VUMx1,NA,NA,MX0__prim,sez,TRUE,FALSE,TRUE,FALSE
+CB4202,NA,NA,MX0__prim,sez,TRUE,FALSE,TRUE,FALSE
 DNg26,NA,NA,MX0__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
 hb1416796844,hb1416796844,NA,MX0__prim,sez,TRUE,TRUE,TRUE,FALSE
 hb1041666949,hb1041666949,NA,MX0__prim,sez,TRUE,TRUE,TRUE,FALSE
@@ -7512,7 +7521,6 @@ DNg68,NA,MX12__prim__3,MX12__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNge034,NA,MX12__prim__2,MX12__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNge069,NA,MX12__prim__0,MX12__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNge174,NA,MX12__prim__0,MX12__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
-CB0004,NA,MX12__prim__1,MX12__prim,sez,TRUE,FALSE,TRUE,FALSE
 DNg21,NA,NA,MX12__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNg44,NA,NA,MX12__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxl072,NA,NA,MX12__prim,neck_connective,TRUE,FALSE,TRUE,FALSE
@@ -11568,7 +11576,7 @@ CRE009,CRE009,NA,no_lineage,midbrain,TRUE,TRUE,TRUE,FALSE
 cLP02,LT71,NA,no_lineage,optic_transfer,TRUE,TRUE,TRUE,FALSE
 SLP448,SLP448,NA,no_lineage,optic_transfer,TRUE,TRUE,TRUE,FALSE
 LT71,LT71,NA,no_lineage,optic_transfer,TRUE,TRUE,TRUE,FALSE
-CAPA,NA,NA,primary,midbrain,TRUE,FALSE,TRUE,FALSE
+SEZ_NSC_CAPA,NA,NA,primary,midbrain,TRUE,FALSE,TRUE,FALSE
 LHCENT1,LHCENT1,NA,primary,midbrain,TRUE,TRUE,TRUE,FALSE
 LHCENT2,LHCENT2,NA,primary,midbrain,TRUE,TRUE,TRUE,FALSE
 LHCENT4,LHCENT4,NA,primary,midbrain,TRUE,TRUE,TRUE,FALSE
@@ -11725,7 +11733,7 @@ CB0687,hb482071823,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CB0689,hb1760327095,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CB0690,hb5813078104,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CB0718,hb1970745542,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-CB0726,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
+l_NSC_CRZ,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0757,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0812,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0865,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
@@ -11773,8 +11781,8 @@ CRE076,CRE076,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CRE107,CRE107,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CSD,CSD,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 DN1pA,DN1pA,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-DNES2,DNES2,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-DNES3,DNES3,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+l_NSC_DH31,DNES2,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+l_NSC_DH31,DNES3,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 DNb07,PS067,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 DNbe004,PS066,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 DNbe006,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
@@ -12402,9 +12410,9 @@ HSE,HSE,NA,putative_primary,optic_transfer,TRUE,TRUE,TRUE,FALSE
 IB061,IB061,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 IB097,IB097,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 LHAV3j1,LHAV3j1,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-PI,PI1,DILP__prim__0,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-PI,PI2,DILP__prim__0,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-PI,PI3,DILP__prim__0,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DMS,PI1,DILP__prim__0,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DMS,PI2,DILP__prim__0,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+m_NSC_DMS,PI3,DILP__prim__0,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 PLP001,PLP001,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 PS063,PS063,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 PS185,PS185,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
@@ -12418,7 +12426,7 @@ VS5,VS,NA,putative_primary,optic_transfer,TRUE,TRUE,TRUE,FALSE
 cL16,PLP030,NA,putative_primary,optic_transfer,TRUE,TRUE,TRUE,FALSE
 cM08b,NA,NA,putative_primary,optic_transfer,TRUE,FALSE,TRUE,FALSE
 l-LNv,l-LNv,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-neck_motor_neuron,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
+CvN2,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 AVLP018,AVLP018,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 AVLP023,AVLP023,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CB0009,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
@@ -12468,7 +12476,7 @@ CB0700,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0701,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0703,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0704,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
-CB0705,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
+VCvN,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0707,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0708,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0713,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
@@ -12491,7 +12499,6 @@ CB0756,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0759,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0761,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0762,NA,NA,putative_primary,sez,TRUE,FALSE,TRUE,FALSE
-CB0764,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0769,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0771,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0773,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
@@ -12567,7 +12574,6 @@ CB0900,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0901,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0902,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0904,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
-CB0905,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0906,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0908,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 CB0910,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
@@ -12662,8 +12668,8 @@ AVLP593,AVLP593,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CL032,CL032,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CL066,CL066,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CRE102,CRE102,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-"CRZ01,CRZ02",CRZ01,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
-"CRZ01,CRZ02",CRZ02,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+CRZ01,CRZ01,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+CRZ01,CRZ02,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 DNde001,SAD041,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 DNde006,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNp14,SMP585,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
@@ -12908,6 +12914,8 @@ CL344,CL344,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CL361,CL361,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CRE025,CRE025,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CRE100,CRE100,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+CRZ02,CRZ01,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+CRZ02,CRZ02,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 DN1pB,DN1pB,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 DNb02,DNb02,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 DNb03,DNb03,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
@@ -13029,7 +13037,7 @@ DNpe027,PS166,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 DNpe028,IB046,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 DNpe055,PS167,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 DNpe056,PVLP146,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
-Hugin-RG,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
+SEZ_NSC_Hugin,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 IB017,IB017,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 IB018,IB018,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 IB025,IB025,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
@@ -13041,7 +13049,7 @@ IB065,IB065,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 IB092,IB092,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 IB114,IB114,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 ISN,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
-ITP,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
+l_NSC_ITP,NA,NA,putative_primary,midbrain,TRUE,FALSE,TRUE,FALSE
 LAL002,LAL002,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 LAL011,LAL011,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 LAL017,LAL017,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
@@ -13303,7 +13311,6 @@ DNb08,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNp18,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxn155,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxn170,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
-DNg26,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxl088,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxn167,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNp54,NA,NA,putative_primary,neck_connective,TRUE,FALSE,TRUE,FALSE
@@ -13372,6 +13379,8 @@ hb1760327095,hb1760327095,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 hb5813078104,hb5813078104,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 hb1970745542,hb1970745542,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 CL029,CL029,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+DNES2,DNES2,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+DNES3,DNES3,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 PS067,PS067,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 PS066,PS066,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 SIFa,SIFa,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
@@ -13449,6 +13458,8 @@ CL262,CL262,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 PLP244,PLP244,NA,putative_primary,optic_transfer,TRUE,TRUE,TRUE,FALSE
 PLP210,PLP210,NA,putative_primary,optic_transfer,TRUE,TRUE,TRUE,FALSE
 PS277,PS277,NA,putative_primary,optic_transfer,TRUE,TRUE,TRUE,FALSE
+"CRZ01,CRZ02",CRZ01,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
+"CRZ01,CRZ02",CRZ02,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
 SAD041,SAD041,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 SMP585,SMP585,NA,putative_primary,neck_connective,TRUE,TRUE,TRUE,FALSE
 AVLP370,AVLP370,NA,putative_primary,midbrain,TRUE,TRUE,TRUE,FALSE
@@ -13531,7 +13542,7 @@ CL258,CL258,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 CL263,CL263,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 CL340,CL340,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 CL359,CL359,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
-DNES1,DNES1,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
+l_NSC_unknown,DNES1,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 DNd04,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNpe029,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNx01,NA,NA,NA,midbrain,TRUE,FALSE,TRUE,FALSE
@@ -13543,7 +13554,7 @@ HRN_VP1l,HRN_VP1l,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 HRN_VP4,HRN_VP4,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 HRN_VP5,HRN_VP5,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 IB016,IB016,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
-ITP,NA,NA,NA,midbrain,TRUE,FALSE,TRUE,FALSE
+l_NSC_ITP,NA,NA,NA,midbrain,TRUE,FALSE,TRUE,FALSE
 JO-D,NA,NA,NA,midbrain,TRUE,FALSE,TRUE,FALSE
 "LAL104,LAL105",LAL104,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 "LAL104,LAL105",LAL105,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
@@ -14297,7 +14308,8 @@ LAL129,LAL129,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 LB1a,NA,NA,NA,sez,TRUE,FALSE,TRUE,FALSE
 LB1b,NA,NA,NA,sez,TRUE,FALSE,TRUE,FALSE
 LB2,NA,NA,NA,sez,TRUE,FALSE,TRUE,FALSE
-LB3,NA,NA,NA,sez,TRUE,FALSE,TRUE,FALSE
+LB3a,NA,NA,NA,sez,TRUE,FALSE,TRUE,FALSE
+LB3b,NA,NA,NA,sez,TRUE,FALSE,TRUE,FALSE
 LC10b,NA,NA,NA,optic_transfer,TRUE,FALSE,TRUE,FALSE
 LC31c,LC31,NA,NA,optic_transfer,TRUE,TRUE,TRUE,FALSE
 LCe04,LC9,NA,NA,optic_transfer,TRUE,TRUE,TRUE,FALSE
@@ -14847,7 +14859,6 @@ DNxl022,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 SNpp05,NA,NA,NA,vnc,TRUE,FALSE,TRUE,FALSE
 DNxn140,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxl123,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
-DNg26,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNlt009,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNp23,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNfl035,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
@@ -14886,7 +14897,6 @@ DNut058,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxn168,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNg75,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNg109,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
-DNg65,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNxn102,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNg76,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
 DNp67,NA,NA,NA,neck_connective,TRUE,FALSE,TRUE,FALSE
@@ -15071,6 +15081,7 @@ hb699652692,hb699652692,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 hb1652832941,hb1652832941,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 hb916158794,hb916158794,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 hb1158610253,hb1158610253,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
+DNES1,DNES1,NA,NA,midbrain,TRUE,TRUE,TRUE,FALSE
 LC20,LC20,NA,NA,optic_transfer,TRUE,TRUE,TRUE,FALSE
 "LC28a,LC28b",LC28a,NA,NA,optic_transfer,TRUE,TRUE,TRUE,FALSE
 "LC28a,LC28b",LC28b,NA,NA,optic_transfer,TRUE,TRUE,TRUE,FALSE
