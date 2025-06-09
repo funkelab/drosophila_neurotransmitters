@@ -94,7 +94,6 @@ adult_drosophila_melanogaster,neck_connective,05B,AN05B071,"Lacin et al., 2019",
 adult_drosophila_melanogaster,neck_connective,05B,AN05B076,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,05B,AN05B078,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,05B,AN05B081,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN05B083,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,05B,AN05B101,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,06A,AN06A010,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,06A,AN06A015,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
@@ -232,9 +231,7 @@ adult_drosophila_melanogaster,neck_connective,08B,AN08B110,"Lacin et al., 2019",
 adult_drosophila_melanogaster,neck_connective,08B,AN08B111,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,08B,AN08B112,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,08B,AN08B113,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,09A,AN09A005,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,09A,AN09A007,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,09B,AN09B002,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,09B,AN09B017,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,09B,AN09B021,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,09B,AN09B028,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
@@ -365,97 +362,8 @@ adult_drosophila_melanogaster,neck_connective,23B,AN23B003,"Lacin et al., 2019",
 adult_drosophila_melanogaster,neck_connective,23B,AN23B004,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,23B,AN23B010,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,23B,AN23B026,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,27X,AN27X004,Cheong et al. 2024 ),immuno,5,0,0,0,0,0,0,0,0,1,0
-adult_drosophila_melanogaster,neck_connective,27X,AN27X008,Cheong et al. 2024 ),immuno,5,0,0,0,0,0,0,0,0,1,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_3_None,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,06A,AN_4_63,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_4_None,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_4_None,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_8_None,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_12,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_22,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_GNG_10,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_GNG_12,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_GNG_13,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_AVLP_GNG_2,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_GNG_23,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_GNG_7,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_GNG_8,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_GNG_9,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_AVLP_PVLP_5,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,06A,AN_FLA_PRW_2,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_101,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_109,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_111,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_137,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_140,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_152,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_162,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_167,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,06A,AN_GNG_177,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_191,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_194,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_196,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_197,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,06A,AN_GNG_204,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_23,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_26,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_40,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_47,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_48,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_49,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_5,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,0,AN_GNG_53,Sapkal et al. 2024,FISH,3,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,19A,AN_GNG_54,Sapkal et al. 2024,FISH,3,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_GNG_56,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_62,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_65,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_66,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_68,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_69,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_73,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_75,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,19A,AN_GNG_76,Sapkal et al. 2024,FISH,3,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_GNG_82,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_92,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_93,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_FLA_3,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_GNG_IPS_12,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_GNG_IPS_8,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_PRW_4,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_SAD_20,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_SAD_28,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_SAD_29,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_SAD_33,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_SAD_5,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_GNG_SAD_6,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_VES_4,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_GNG_VES_7,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_IPS_GNG_2,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,TBD,AN_LH_AVLP_1,"Dolan et al., 2019",immuno,5,1,-1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,06A,AN_multi_1,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_multi_12,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,01B,AN_multi_123,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_18,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_21,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,06A,AN_multi_39,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_66,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_72,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,06A,AN_multi_74,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_76,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,27X,AN_multi_77,"Jones et al., 2022",immuno,5,1,0,0,0,0,-1,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,TBD,AN_multi_79,Jones et al. 2023,"immuno, intersection",5,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,02A,AN_multi_8,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,TBD,AN_multi_80,Jones et al. 2023,"immuno, intersection",5,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,27X,AN_multi_81,Jones et al. 2023,"immuno, intersection",5,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_82,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,TBD,AN_multi_84,Jones et al. 2023,"immuno, intersection",5,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_85,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_86,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_87,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_88,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_92,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,AN_multi_97,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,neck_connective,27X,AN27X004,Cheong et al. 2024,immuno,5,0,0,0,0,0,0,0,0,1,0
+adult_drosophila_melanogaster,neck_connective,27X,AN27X008,Cheong et al. 2024,immuno,5,0,0,0,0,0,0,0,0,1,0
 adult_drosophila_melanogaster,midbrain,AOTUv3_dorsal,AOTU005,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,AOTUv3_dorsal,AOTU006,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,AOTUv3_dorsal,AOTU007,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
@@ -558,6 +466,7 @@ adult_drosophila_melanogaster,midbrain,PSa1,AVLP462b,"Ito et al., 2013",immuno,5
 adult_drosophila_melanogaster,midbrain,putative_primary,AVLP476,"Chiang et al., 2011",MCFO,3,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,AVLP538,"Chiang et al., 2011",MCFO,3,0,0,0,0,0,1,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,AVLP544,"Chiang et al., 2011",MCFO,3,0,0,0,0,0,1,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,AVLP544,"Chiang et al., 2011 )",MCFO,3,0,0,0,0,0,1,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VPNp&v1_posterior,AVLP560,"Dolan et al., 2019",immuno,5,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DL2_ventral,AVLP567,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DL2_ventral,AVLP568,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
@@ -566,8 +475,11 @@ adult_drosophila_melanogaster,midbrain,DL2_ventral,AVLP570,"Ito et al., 2013","i
 adult_drosophila_melanogaster,midbrain,VLPp2,AVLP579,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,15B,Acc. ti flexor MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,AstA1,Ni et al. 2019,RNAi,1,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,C2,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,C3,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,C2,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,C3,"Davis et al., 2020",TAPIN,4,1,1,1,0,1,0,0,0,1,1
+adult_drosophila_melanogaster,optic_lobes,0,C3,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,C3,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,C3,Sarthy 1991,immuno,5,0,0,0,0,0,0,0,0,1,0
 adult_drosophila_melanogaster,midbrain,DL1_dorsal,CB.FB1E1,"Wolff et al., 2024",EASI-FISH,4,1,1,-1,0,-1,-1,-1,-1,0,0
 adult_drosophila_melanogaster,midbrain,DM6__prim,CB.FB1H0,"Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,1,-1,-1,-1,0,0
 adult_drosophila_melanogaster,midbrain,LALv1_dorsal,CB.FB1I0,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,-1,-1,-1,0,0
@@ -1257,17 +1169,10 @@ adult_drosophila_melanogaster,midbrain,VLPd&p1_posterior,CB3790,"Ito et al., 201
 adult_drosophila_melanogaster,midbrain,SLPad1_anterior,CB3791,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SLPpl1,CB3808,"Ito et al., 2013","lineage, based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SLPpl1,CB3811,"Ito et al., 2013","lineage, based",2,0,0,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,CB3817,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,CB3818,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,CB3819,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,CB3826,"Mauss et al.,",immuno,5,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,CB3827,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,CB3842,"Nern et al., 2024",EASI-FISH,4,0,0,0,0,-1,1,-1,-1,0,0
 adult_drosophila_melanogaster,optic_lobes,0,CB3846,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,CB3850,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,CB3851,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,CB3854,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,CB3856,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,CB3864,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,AOTUv3_ventral,CB3865,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,PSp3,CB3866,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
@@ -1394,6 +1299,7 @@ adult_drosophila_melanogaster,midbrain,putative_primary,DN1pA,"Croset et al., 20
 adult_drosophila_melanogaster,midbrain,putative_primary,DN1pA,Guo et al. 2016,immuno,5,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,DN1pB,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,DN1pB,Guo et al. 2016,immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,midbrain,SMPpd2,DN1pE,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,DNES2,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,DNES3,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,WEDd1,DNa01,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
@@ -1425,8 +1331,8 @@ adult_drosophila_melanogaster,neck_connective,MX12__prim,DNg13,"Cheong et al., 2
 adult_drosophila_melanogaster,neck_connective,putative_primary,DNg14,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,MX0__prim,DNg26,Gautham et al. 2024,transgenics,2,0,0,0,0,0,1,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,putative_primary,DNg27,"Cheong et al., 2023",EASI-FISH,4,1,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,putative_primary,DNg28,Alekseyenko et al. 2010,immuno,5,0,0,0,0,0,1,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,putative_primary,DNg28,Yao and Scott 2022,immuno,5,0,0,0,0,0,1,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,DNg28,Alekseyenko et al. 2010,immuno,5,0,0,0,0,0,1,0,0,0,0
+adult_drosophila_melanogaster,midbrain,putative_primary,DNg28,Yao and Scott 2022,immuno,5,0,0,0,0,0,1,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,MX7__prim,DNg29,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,putative_primary,DNg30,Croset et al. 2018,scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,putative_primary,DNg30,"Scheunemann et al., 2018",immuno,5,0,0,0,0,0,1,0,0,0,0
@@ -1492,16 +1398,32 @@ adult_drosophila_melanogaster,midbrain,ALad1,D_adPN,"Ito et al., 2013","immuno, 
 adult_drosophila_melanogaster,midbrain,PBp1,Delta7,Turner-Evans et al. 2020,scRNA-seq,3,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,PBp1,Delta7,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,-1,1,-1,-1,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm1,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Dm10,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Dm11,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Dm12,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm10,"Davis et al., 2020",TAPIN,4,1,1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm11,"Davis et al., 2020",TAPIN,4,1,1,-1,0,1,0,0,0,1,1
+adult_drosophila_melanogaster,optic_lobes,0,Dm12,"Davis et al., 2020",TAPIN,4,-1,1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm12,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm15,"Davis et al., 2020",TAPIN,4,1,1,1,0,0,0,0,0,0,1
 adult_drosophila_melanogaster,optic_lobes,0,Dm15,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm15,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm16,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm16,"Davis et al., 2020",TAPIN,4,-1,1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm17,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm19,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm2,"Davis et al., 2020",TAPIN,4,1,1,1,0,1,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Dm2,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm3,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm3p,"Davis et al., 2020",TAPIN,4,1,1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm3p,Konstantinides et al. 2022,sc-RNAseq,2,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm3p,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm3q,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm3v,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm4,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm6,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Dm8,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Dm9,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm8a,"Davis et al., 2020",TAPIN,4,1,1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Dm8a,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Dm8b,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,DmDRA2,"Davis et al., 2020",TAPIN,4,1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00B,EA00B006,"Ehrhardt et al., 2023",immuno,5,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,00B,EA00B006,"Monastirioti et al., 1995",immuno,5,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,00B,EA00B022,"Ehrhardt et al., 2023",immuno,5,0,0,0,0,0,0,1,0,0,0
@@ -1543,7 +1465,6 @@ adult_drosophila_melanogaster,vnc,00B,EN00B025,"Monastirioti et al., 1995",immun
 adult_drosophila_melanogaster,vnc,00B,EN00B025,"Pop et al., 2020",transgenic,4,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,00B,EN00B026,"Ehrhardt et al., 2023",immuno,5,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,00B,EN00B026,"Monastirioti et al., 1995",immuno,5,0,0,0,0,0,0,1,0,0,0
-adult_drosophila_melanogaster,vnc,00B,EN00B026,"Pop et al., 2020",transgenic,4,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,00B,EN00B027,"Pop et al., 2020",transgenic,4,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,midbrain,DM1_CX_d2,EPG,Turner-Evans et al. 2020,scRNA-seq,3,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DM1_CX_d2,EPG,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
@@ -1720,7 +1641,6 @@ adult_drosophila_melanogaster,midbrain,SMPp&v1_ventral,IB109,"Ito et al., 2013",
 adult_drosophila_melanogaster,midbrain,SMPp&v1_ventral,IB110,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,CLp1,IB117,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,IB118,"Chiang et al., 2011",MCFO,3,0,0,0,0,0,1,0,0,0,0
-adult_drosophila_melanogaster,vnc,00A,IN00A001,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A002,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A003,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A004,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
@@ -1734,7 +1654,6 @@ adult_drosophila_melanogaster,vnc,00A,IN00A012,"Lacin et al., 2019",FISH,3,0,0,1
 adult_drosophila_melanogaster,vnc,00A,IN00A013,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A014,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A016,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,00A,IN00A017,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A018,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A019,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,00A,IN00A020,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
@@ -2326,7 +2245,6 @@ adult_drosophila_melanogaster,vnc,06A,IN06A057,"Lacin et al., 2019",FISH,3,0,0,1
 adult_drosophila_melanogaster,vnc,06A,IN06A058,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,06A,IN06A059,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,06A,IN06A061,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,06A,IN06A063,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,06A,IN06A064,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,06A,IN06A066,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,06A,IN06A067,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
@@ -2690,8 +2608,6 @@ adult_drosophila_melanogaster,vnc,09A,IN09A078,"Lacin et al., 2019",FISH,3,0,0,1
 adult_drosophila_melanogaster,vnc,09A,IN09A079,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,09A,IN09A080,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,09A,IN09A081,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,09A,IN09A081,"Ehrhardt et al., 2023",immuno,5,0,0,0,0,0,0,1,0,0,0
-adult_drosophila_melanogaster,vnc,09A,IN09A081,"Monastirioti et al., 1995",immuno,5,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,09A,IN09A082,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,09A,IN09A083,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,09A,IN09A084,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
@@ -2816,8 +2732,6 @@ adult_drosophila_melanogaster,vnc,11B,IN11B015,"Lacin et al., 2019",FISH,3,0,0,1
 adult_drosophila_melanogaster,vnc,11B,IN11B016,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,11B,IN11B017,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,11B,IN11B018,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,11B,IN11B018,"Ehrhardt et al., 2023",immuno,5,0,0,0,0,0,0,1,0,0,0
-adult_drosophila_melanogaster,vnc,11B,IN11B018,"Monastirioti et al., 1995",immuno,5,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,11B,IN11B019,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,11B,IN11B020,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,11B,IN11B021,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
@@ -2924,8 +2838,6 @@ adult_drosophila_melanogaster,vnc,12B,IN12B052,"Lacin et al., 2019",FISH,3,0,0,1
 adult_drosophila_melanogaster,vnc,12B,IN12B053,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,12B,IN12B054,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,12B,IN12B056,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,12B,IN12B056,"Ehrhardt et al., 2023",immuno,5,0,0,0,0,0,0,1,0,0,0
-adult_drosophila_melanogaster,vnc,12B,IN12B056,"Monastirioti et al., 1995",immuno,5,0,0,0,0,0,0,1,0,0,0
 adult_drosophila_melanogaster,vnc,12B,IN12B057,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,12B,IN12B058,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,12B,IN12B059,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
@@ -3122,7 +3034,6 @@ adult_drosophila_melanogaster,vnc,13B,IN13B101,"Lacin et al., 2019",FISH,3,0,0,1
 adult_drosophila_melanogaster,vnc,13B,IN13B102,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,16B,IN16B014,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,16B,IN16B016,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,16B,IN16B018,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,16B,IN16B020,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,16B,IN16B022,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,16B,IN16B024,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
@@ -3745,7 +3656,7 @@ adult_drosophila_melanogaster,midbrain,MBp1,KCg-s3,Aso et al. 2019,scRNA-seq,3,1
 adult_drosophila_melanogaster,midbrain,MBp1,KCg-s3,Barnstedt et al. 2016,immuno,5,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,L1,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,L2,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,L3,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,1,0
+adult_drosophila_melanogaster,optic_lobes,0,L3,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,L4,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,L5,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,AOTUv4_dorsal,"LAL003,LAL044","Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
@@ -4085,6 +3996,7 @@ adult_drosophila_melanogaster,midbrain,LHp1,LHp1__0,"Ito et al., 2013","immuno, 
 adult_drosophila_melanogaster,optic_transfer,0,LLPC1,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,SLPpl1,LMTe01,"Ito et al., 2013","lineage, based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,SLPpl1,LMTe01,"Sun et al., 2022",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,LMa5,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,LNO1,"Wolff et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,LALv1_dorsal,LNO2,Lu et al. 2021,intersection,4,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,LALv1_dorsal,LNOa,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
@@ -4098,7 +4010,10 @@ adult_drosophila_melanogaster,optic_transfer,0,LPC1,"Davis et al., 2020",TAPIN,4
 adult_drosophila_melanogaster,optic_transfer,VPNd1,LPLC1,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,VPNd1,LPLC2,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,VLPp&l1_lateral,LPTe02,"Nern et al., 2024",EASI-FSH,2,1,-1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,LPi2b,"Zhao et al., 2023",FISH,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,LPi02,"Nern et al., 2024 )",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,LPi10,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,LPi11,"Mauss et al.,",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,LPi12,"Zhao et al., 2023",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,LPsP,"Alekseyenko et al., 2013",immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,LPsP,"Wolff et al., 2024",EASI-FISH,4,-1,1,-1,0,1,-1,-1,-1,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,LPsP,Reimers et al.,intersection,4,0,1,0,0,0,0,0,0,0,0
@@ -4119,11 +4034,14 @@ adult_drosophila_melanogaster,optic_transfer,VLPd&p1_posterior,LTe67,"Ito et al.
 adult_drosophila_melanogaster,optic_transfer,VLPd&p1_posterior,LTe68,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,SLPpl1,LTe71,"Ito et al., 2013","lineage, based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,SLPpl1,LTe71,"Sun et al., 2022",immuno,5,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Lawf1,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Lawf2,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Lawf1,"Davis et al., 2020",TAPIN,4,1,-1,1,0,0,0,0,0,1,1
+adult_drosophila_melanogaster,optic_lobes,0,Lawf2,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,1,1
+adult_drosophila_melanogaster,optic_lobes,0,Li04,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Li10,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Li13,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Li18,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Li19,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Li2,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Li22,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VPNp&v1_posterior,MB-C1,"Dolan et al., 2019",immuno,5,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,MBON01,Aso et al. 2019,scRNA-seq,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,putative_primary,MBON01,"Aso et al., 2014",immuno,5,-1,1,-1,0,0,0,0,0,0,0
@@ -4159,7 +4077,6 @@ adult_drosophila_melanogaster,midbrain,DL2_ventral,MBON29,"Ito et al., 2013","im
 adult_drosophila_melanogaster,midbrain,putative_primary,MBON33,"Aso et al., 2014",immuno,5,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,0,"MC61,MC64","Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,primary,MDN,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,06A,MNad19,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,08A,MNad28,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,24B.25B,MNhl29,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,15B,MNhl63,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
@@ -4276,12 +4193,17 @@ adult_drosophila_melanogaster,midbrain,0,MeLp2,"Zhao et al., 2023",FISH,3,0,1,0,
 adult_drosophila_melanogaster,midbrain,0,MeMe_e11,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,0,MeTu1,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Mi1,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Mi10,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Mi10,"Davis et al., 2020",TAPIN,4,-1,1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Mi13,"Davis et al., 2020",TAPIN,4,1,1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Mi13,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Mi15,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,1,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Mi2,"Davis et al., 2020",TAPIN,4,1,1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Mi2,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Mi4,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Mi9,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Mi9,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Mi9,"Davis et al., 2020",TAPIN,4,-1,1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,27X,MsAHN,"Cheong et al., 2023",EASI-FISH,4,0,0,0,0,0,0,0,0,1,0
-adult_drosophila_melanogaster,optic_lobes,0,Mt4,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,0,MtAHN,"Cheong et al., 2023",EASI-FISH,4,0,0,0,0,0,0,0,0,1,0
 adult_drosophila_melanogaster,midbrain,putative_primary,NPFL1-I,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,putative_primary,NPFP1,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
@@ -4443,6 +4365,7 @@ adult_drosophila_melanogaster,midbrain,CREa2_medial,PAM12,Mao & Davis 2009,immun
 adult_drosophila_melanogaster,midbrain,CREa1_dorsal,PAM13,Mao & Davis 2009,immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,CREa2_medial,PAM14,Mao & Davis 2009,immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,CREa2_medial,PAM15,Mao & Davis 2009,immuno,5,0,0,0,0,1,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,PDt,"Nern et al., 2024",EASI-FISH,4,0,0,0,0,-1,1,-1,-1,0,0
 adult_drosophila_melanogaster,midbrain,DM1_CX_d2,PEG,Turner-Evans et al. 2020,scRNA-seq,3,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DM1_CX_d2,PEG,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,-1,-1,-1,-1,0,0
 adult_drosophila_melanogaster,midbrain,DM1_CX_p,PEN_a(PEN1),Turner-Evans et al. 2020,scRNA-seq,3,1,-1,-1,0,0,0,0,0,0,0
@@ -4615,9 +4538,17 @@ adult_drosophila_melanogaster,neck_connective,putative_primary,PVLP119,"Cheong e
 adult_drosophila_melanogaster,midbrain,VPNp1_medial,PVLP133,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VPNp1_medial,PVLP134,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DM5_central,PVLP144,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm01,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm02,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm03,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm05,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Pm06,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm08,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm09,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Pm1,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Pm2,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Pm4,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Pm10,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm11,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm12,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,R1-6,"Davis et al., 2020",TAPIN,4,0,0,0,0,0,0,0,0,1,0
 adult_drosophila_melanogaster,optic_lobes,0,R7,"Davis et al., 2020",TAPIN,4,0,0,0,0,0,0,0,0,1,0
 adult_drosophila_melanogaster,optic_lobes,0,R8,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,1,0
@@ -4896,8 +4827,6 @@ adult_drosophila_melanogaster,midbrain,DM4_dorsal,SMP504,"Chiang et al., 2011",M
 adult_drosophila_melanogaster,midbrain,DM4_dorsal,SMP505,"Chiang et al., 2011",MCFO,3,0,0,0,0,0,1,0,0,0,0
 adult_drosophila_melanogaster,midbrain,CLp1,SMP531,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SMPpd2,SMP532,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,midbrain,SMPpd2,SMP532a,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,midbrain,SMPpd2,SMP532b,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,CLp1,SMP533,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SMPpd2,SMP534,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,SMPpd2,SMP535,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
@@ -4938,12 +4867,26 @@ adult_drosophila_melanogaster,vnc,0,SNpp58,"Mamiya et al., 2019",transgenics,2,1
 adult_drosophila_melanogaster,vnc,0,SNpp59,"Mamiya et al., 2019",transgenics,2,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,0,SNpp60,"Mamiya et al., 2019",transgenics,2,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,0,SNppxx,"Mamiya et al., 2019",transgenics,2,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,neck_connective,0,SNxx31,"Luo et al.,",immuno,5,0,0,0,0,0,1,0,0,0,0
+adult_drosophila_melanogaster,vnc,0,SNxx31,"Luo et al.,",immuno,5,0,0,0,0,0,1,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Sm01,"Davis et al., 2020",TAPIN,4,1,1,-1,0,1,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Sm02,"Davis et al., 2020",TAPIN,4,1,1,-1,0,1,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Sm03,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,1,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Sm07,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,1,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Sm18,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Sm24,"Davis et al., 2020",TAPIN,4,-1,1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Sm30,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Sm32,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Sm36,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T1,"Davis et al., 2020",TAPIN,4,-1,-1,-1,0,-1,-1,-1,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T2,"Konstantinides et  al., 2018 )",FACS RNA-seq,1,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T3,"Konstantinides et  al., 2018 )",FACS RNA-seq,1,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,T3,"Nern et al., 2024",EASI-FISH,4,-1,1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T4a,Takemura et al. 2011,RT-PCR,3,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,T4a,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,T4b,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T4b,Takemura et al. 2011,RT-PCR,3,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,T4c,Mauss et al. 2014,immuno,5,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,T4c,Shinomiya et al. 2014,RT-PCR,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T4c,Takemura et al. 2011,RT-PCR,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T4d,Takemura et al. 2011,RT-PCR,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,T5a,Mauss et al. 2014,immuno,5,1,0,0,0,0,0,0,0,0,0
@@ -4961,28 +4904,56 @@ adult_drosophila_melanogaster,vnc,15B,Ta depressor MN,"Lacin et al., 2019",FISH,
 adult_drosophila_melanogaster,vnc,15B,Ta levator MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,08A,Tergopleural/Pleural promotor MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,15B,Ti flexor MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tlp14,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tlp4,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Tlp6,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Tm1,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm1,"Davis et al., 2020",TAPIN,4,1,1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm1,"Takemura et al., 2017",immuno,5,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tm12,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tm16,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tm2,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tm20,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm21,"Davis et al., 2020",TAPIN,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm25,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm25,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm27,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm27,"Nern et al., 2024",EASI-FISH,4,1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm27,Takemura et al. 2011,RT-PCR,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tm3,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Tm30,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm3,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm31,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm31,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm33,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm36,"Davis et al., 2020",TAPIN,4,1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm37,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tm4,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,Tm9,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm5a,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm5b,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm5c,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm5d,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm5e,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm5f,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm7,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm9,"Davis et al., 2020",TAPIN,4,1,-1,1,0,0,0,0,0,0,1
+adult_drosophila_melanogaster,optic_lobes,0,Tm9,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY11,"Konstantinides et  al., 2018 )",FACS RNA-seq,1,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY11,Takemura et al. 2011,RT-PCR,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY11,Varija Raghu et al. 2011,MARCM,1,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY11,"Davis et al., 2020",TAPIN,4,-1,1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY15,Takemura et al. 2017,immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY15,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY16,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY18,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY20,Gao et al. 2008,intersection,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY20,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY3,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY31,Konstantinides et al. 2022,sc-RNAseq,2,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY31,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY4,"Konstantinides et  al., 2018 )",FACS RNA-seq,1,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY4,Konstantinides et al. 2022,sc-RNAseq,2,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,TmY5a,"Davis et al., 2020",TAPIN,4,-1,1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,optic_lobes,0,TmYem1,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,19A,Tr extensor MN,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY5a,"Davis et al., 2020",TAPIN,4,1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY5a,Konstantinides et al. 2022,sc-RNAseq,2,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY9q,"Konstantinides et  al., 2018 )",FACS RNA-seq,1,1,0,0,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,TmY9q__perp,"Davis et al., 2020",TAPIN,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,24B.25B,Tr flexor MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,AOTUv3_dorsal,TuBu01,"Duan et al., 2023",immuno,5,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,AOTUv3_dorsal,TuBu01,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
@@ -5151,6 +5122,8 @@ adult_drosophila_melanogaster,midbrain,VPNp&v1_posterior,WEDPN6A,"Dolan et al., 
 adult_drosophila_melanogaster,midbrain,VPNp&v1_posterior,WEDPN6B,"Dolan et al., 2019",immuno,5,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VPNp&v1_posterior,WEDPN6C,"Dolan et al., 2019",immuno,5,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,sez,WEDa1,WEDa1_23,"Ito et al., 2013",immuno,5,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Y11,"Nern et al., 2024",EASI-FISH,4,-1,1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Y3,"Davis et al., 2020",TAPIN,4,1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,ALv1,Z_vPNml1,"Tanaka et al., 2012",immuno,5,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,0,aDT4,"Shih and Chiang et al., 2011",MCFO,3,0,0,0,0,0,1,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,putative_primary,aMe14b,"Chiang et al., 2011","MCFO, unsure",1,0,0,0,0,0,0,0,1,0,0
@@ -5178,7 +5151,6 @@ adult_drosophila_melanogaster,optic_transfer,putative_primary,cM10,"Nern et al.,
 adult_drosophila_melanogaster,optic_transfer,DM1_posterior,cM14,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,DM1_posterior,cM15,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,DM1_posterior,cM17,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,midbrain,DM3_CX_d2,columnar,"Wolff et al., 2024",EASI-FISH,4,-1,-1,-1,0,-1,-1,-1,1,0,0
 adult_drosophila_melanogaster,vnc,19B,dMS10,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,17A,dMS2,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,19B,dMS5,"Lacin et al., 2019",FISH,3,1,0,0,0,0,0,0,0,0,0
@@ -5197,7 +5169,6 @@ adult_drosophila_melanogaster,midbrain,DM1_CX_p,hDeltaK,"Wolff et al., 2024",EAS
 adult_drosophila_melanogaster,midbrain,DM1_CX_d2,hDeltaL,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DM1_CX_p,hDeltaM,"Wolff et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,sez,MX0__prim,hb1041666949,"Busch et al., 2009","immuno, intersection",5,0,0,0,0,0,0,1,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,hb1197455013,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,putative_primary,hb1315529069,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,PSp2,hb1436667616,"Ito et al., 2013","immuno, lineage based",2,0,0,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,putative_primary,hb1535212969,"Busch et al., 2009","immuno, intersection",5,0,0,0,0,0,0,1,0,0,0
@@ -5205,7 +5176,6 @@ adult_drosophila_melanogaster,neck_connective,MX12__prim,hb1696530677,"Cheong et
 adult_drosophila_melanogaster,optic_transfer,0,hb540674783,"Nern et al., 2024",EASI-FISH,4,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,MX3,hb5813056435,"Cheong et al., 2023",EASI-FISH,4,1,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,putative_primary,hb5813069570,"Busch et al., 2009","immuno, intersection",5,0,0,0,0,0,0,1,0,0,0
-adult_drosophila_melanogaster,neck_connective,05B,"hb611262552,hb704367157","Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,VESa1,hb702618710,"Dolan et al., 2019",immuno,5,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,16B,hg1 MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,16B,hg2 MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
@@ -5245,7 +5215,6 @@ adult_drosophila_melanogaster,midbrain,DM4_dorsal,pC1b,"Palavicino-Maggio et al.
 adult_drosophila_melanogaster,midbrain,DM4_dorsal,pC1c,"Palavicino-Maggio et al., 2019",immuno,5,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DM4_dorsal,pC1d,"Palavicino-Maggio et al., 2019",immuno,5,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,midbrain,DM4_dorsal,pC1e,"Palavicino-Maggio et al., 2019",immuno,5,1,0,0,0,0,0,0,0,0,0
-adult_drosophila_melanogaster,vnc,06A,ps1 MN,"Lacin et al., 2019",FISH,3,0,0,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,vnc,08A,ps2 MN,"Lacin et al., 2019",FISH,3,0,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,0,s-LNv,"Nern et al., 2024",EASI-FISH,4,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_transfer,0,s-LNv,"Croset et al., 2018",scRNA-seq,3,-1,0,0,0,0,0,0,0,0,0
@@ -5273,7 +5242,9 @@ adult_drosophila_melanogaster,optic_lobes,0,MeLo4,"Nern et al., 2024",EASI-FSH,3
 adult_drosophila_melanogaster,optic_lobes,0,MeLo7,"Nern et al., 2024",EASI-FSH,3,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,ML2,"Nern et al., 2024",EASI-FSH,3,1,-1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Tm36,"Nern et al., 2024",EASI-FSH,3,1,-1,-1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Pm2,"Nern et al., 2024",EASI-FSH,3,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,Cm31a,"Nern et al., 2024",EASI-FSH,3,-1,-1,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,optic_lobes,0,Tm30,"Nern et al., 2024",EASI-FSH,3,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,TmY19b,"Nern et al., 2024",EASI-FSH,3,-1,-1,1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,MeLo9,"Nern et al., 2024",EASI-FSH,3,-1,1,-1,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,optic_lobes,0,MeVC20,"Nern et al., 2024",EASI-FSH,3,-1,1,-1,0,0,0,0,0,0,0
