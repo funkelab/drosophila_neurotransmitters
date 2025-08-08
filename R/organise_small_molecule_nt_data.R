@@ -128,7 +128,7 @@ ft.nt.all <- ft %>%
   dplyr::filter(!is.na(neurotransmitter_verified), !neurotransmitter_verified%in%c(""," ","NA","unknown")) %>%
   dplyr::distinct(neuron_id, top_nt, cell_type, hemilineage, neurotransmitter_verified, neurotransmitter_verified_source)
 readr::write_csv(x = ft.nt.all,
-                 file = "gt_sources/bates_2024/202506-franken_gt_data.csv")
+                 file = "gt_sources/bates_2024/202508-franken_gt_data.csv")
 
 # Add other missing data from maleCNS, not matched up yet
 malecns.extra <- readr::read_csv("gt_sources/extra.csv")
@@ -331,11 +331,11 @@ gt.nt.new$neurotransmitter_verified_evidence[is.na(gt.nt.new$neurotransmitter_ve
 
 # Save data
 readr::write_csv(x = gt.nt.df,
-                 file = "gt_sources/bates_2024/202506-gt_data.csv")
+                 file = "gt_sources/bates_2024/202508-gt_data.csv")
 readr::write_csv(x = gt.nt.new,
                  file = "gt_data.csv")
 readr::write_csv(x = l1.nts.df,
-                 file = "gt_sources/bates_2024/202506-starting_larval_gt_data.csv")
+                 file = "gt_sources/bates_2024/202508-starting_larval_gt_data.csv")
 
 #######################################
 ### Make explicit hemibrain mapping ###
@@ -354,7 +354,7 @@ hb.nt <- hb.nt %>%
   dplyr::arrange(type,bodyid) %>%
   dplyr::select(bodyid, pre, type, species, region, hemilineage, neurotransmitter_verified, neurotransmitter_verified_source, neurotransmitter_verified_evidence, neurotransmitter_verified_confidence)
 readr::write_csv(x = hb.nt,
-                 file = "gt_sources/bates_2024/202506-hemibrain_gt_data.csv")
+                 file = "gt_sources/bates_2024/202508-hemibrain_gt_data.csv")
 
 #############################
 ### Make plots for README ###
@@ -423,7 +423,7 @@ library(bancr)
 
 # get GT
 poss.nts <- c("acetylcholine","gaba","glutamate","dopamine","histamine","octopamine","serotonin")
-gt.data <- read_csv("gt_sources/bates_2024/202506-gt_data.csv")
+gt.data <- read_csv("gt_sources/bates_2024/202508-gt_data.csv")
 
 # Get BANC neurons
 banc.meta <- banctable_query("SELECT root_id, supervoxel_id, position, super_class, cell_class, cell_sub_class, cell_type, fafb_cell_type, manc_cell_type, hemibrain_cell_type from banc_meta")
@@ -464,7 +464,7 @@ banc.gt <- gt.data %>%
   dplyr::distinct()
 
 # Save
-write_csv(x = banc.gt, file = "gt_sources/banc/202506-banc_gt_data.csv")
+write_csv(x = banc.gt, file = "gt_sources/banc/202508-banc_gt_data.csv")
 
 # Double check optic lobe types
 
