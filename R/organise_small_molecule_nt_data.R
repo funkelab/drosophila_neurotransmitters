@@ -404,7 +404,7 @@ g <- ggplot(plot_data, aes(x = super_class, y = percentage, fill = known_fast_nt
             color = "black", size = 3, fontface = "bold") +
   scale_y_continuous(labels = scales::percent, expand = expansion(mult = c(0, .1))) +
   scale_fill_manual(values = color_vector, drop = FALSE) +
-  labs(title = "FAFB-FlyWire 783 brain neuron distribution by super class\n and known fast-acting neurotransmitter",
+  labs(title = "FAFB-FlyWire 783 / MANC v1.2.1 neuron distribution by super class\n and known fast-acting neurotransmitter",
        x = "super class",
        y = "percentage",
        fill = "fast-acting neurotransmitter") +
@@ -414,7 +414,7 @@ g <- ggplot(plot_data, aes(x = super_class, y = percentage, fill = known_fast_nt
   coord_flip()  # Flip coordinates for horizontal bars
 
 # Save
-ggsave(g, filename = "inst/images/fafb_783_neurotransmitter_verifieds.png")
+ggsave(g, filename = "inst/images/fafb_783_known_nts.png")
 
 #############################
 ### Save GT data for BANC ###
