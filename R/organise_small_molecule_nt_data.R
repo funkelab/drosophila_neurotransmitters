@@ -47,6 +47,16 @@ ft <- bind_rows(
     mutate(cell_type = hemibrain_type, dataset = "hemibrain")
 )
 
+# Check all cell types are consistent
+problem_types <- ft %>%
+  dplyr::filter(!is.na(neurotransmitter_verified)) %>%
+  dplyr::group_by(cell_type) %>%
+  dplyr::filter(n_distinct(neurotransmitter_verified) > 1 |
+           n_distinct(neurotransmitter_verified_source) > 1) %>%
+  dplyr::distinct(cell_type) %>%
+  dplyr::pull(cell_type)
+message("Types with inconsistent labels: ", length(problem_types))
+
 # Make cross typing sheet
 ft.cross <- ft %>%
   tidyr::separate_longer_delim(hemibrain_type, delim = ", ") %>%
@@ -455,6 +465,8 @@ banc.gt <- gt.data %>%
 
 # Save
 write_csv(x = banc.gt, file = "gt_sources/banc/202506-banc_gt_data.csv")
+
+# Double check optic lobe types
 
 
 
