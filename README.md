@@ -83,11 +83,11 @@ The data columns are:
 
 *cell_type* - a cell type name relevant to one of the connectomic datasets. In general, we prefer a FAFB-FlyWire (brain) or MANC (ventral nerve cord) name.
 
-*known_nt_source* - the name of the study from which the observation this row records has originated. Note, rows are unique combinations of `cell_type` and `known_nt_source`, so each can repeat over multiple rows if many studies look at the same cell type, or information on many cell types has been reported by the same study.
+*neurotransmitter_verified_source* - the name of the study from which the observation this row records has originated. Note, rows are unique combinations of `cell_type` and `neurotransmitter_verified_source`, so each can repeat over multiple rows if many studies look at the same cell type, or information on many cell types has been reported by the same study.
    
-*known_nt_evidence* - the method used by the given study to determine transmission.
+*neurotransmitter_verified_evidence* - the method used by the given study to determine transmission.
 
-*known_nt_confidence* - an expression of how confident you are that the study has correctly identified the right transmitter for the given cell type, and how well that cell type has been matched to connectome data. Scores ~indicate:
+*neurotransmitter_verified_confidence* - an expression of how confident you are that the study has correctly identified the right transmitter for the given cell type, and how well that cell type has been matched to connectome data. Scores ~indicate:
   - 5: evidence for protein expression in the given cell type, cell type specific labelling.
   - 4: evidence for protein expression with coarser anatomical detail / reliable transcript expression using in-situ hybridisation, and ideally for which some negative data is available (different transmitter options tried per cell type) 
   - 3: identification of RNA transcripts related to transmitter expression,
