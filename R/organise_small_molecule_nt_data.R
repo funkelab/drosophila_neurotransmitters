@@ -414,7 +414,7 @@ g <- ggplot(plot_data, aes(x = super_class, y = percentage, fill = known_fast_nt
   coord_flip()  # Flip coordinates for horizontal bars
 
 # Save
-ggsave(g, filename = "inst/images/fafb_783_known_nts.png")
+ggsave(g, filename = "inst/images/fafb_783_known_nts.png", width = 8, height = 8)
 
 #############################
 ### Save GT data for BANC ###
