@@ -1325,6 +1325,7 @@ adult_drosophila_melanogaster,neck_connective,DNc01,putative_primary,glutamate,"
 adult_drosophila_melanogaster,neck_connective,DNc02,putative_primary,acetylcholine-negative,"Croset et al., 2018",scRNA-seq,3
 adult_drosophila_melanogaster,neck_connective,DNc02,putative_primary,glutamate,"Cavanaugh et al., 2016",RNA-seq,2
 adult_drosophila_melanogaster,neck_connective,DNd02,putative_primary,"glutamate, tyramine","Cheong et al., 2023",EASI-FISH,4
+adult_drosophila_melanogaster,neck_connective,DNd02,NA,"glutamate, tyramine","Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNd03,putative_primary,glutamate,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNg02_a,LB12,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNg02_b,LB12,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
@@ -1348,6 +1349,7 @@ adult_drosophila_melanogaster,neck_connective,DNg34,putative_primary,"glutamate,
 adult_drosophila_melanogaster,neck_connective,DNg37,putative_primary,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNg40,MX3,"acetylcholine, glutamate","Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNg60,MD3,gaba,Sapkal et al. 2024,FISH,3
+adult_drosophila_melanogaster,neck_connective,DNge047,putative_primary,dopamine,"Tschida et al., 2015",immuno,5
 adult_drosophila_melanogaster,neck_connective,DNp02,SMPpv2_ventral,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNp03,putative_primary,acetylcholine,"Cheong et al., 2023",EASI-FISH,4
 adult_drosophila_melanogaster,neck_connective,DNp04,SMPpv2_ventral,acetylcholine,"Cheong et al., 2023",EASI-FISH,4

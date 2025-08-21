@@ -1335,6 +1335,7 @@ adult_drosophila_melanogaster,neck_connective,putative_primary,DNg34,"Cheong et 
 adult_drosophila_melanogaster,neck_connective,putative_primary,DNg37,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,MX3,DNg40,"Cheong et al., 2023",EASI-FISH,4,1,1,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,MD3,DNg60,Sapkal et al. 2024,FISH,3,0,0,1,0,0,0,0,0,0,0
+adult_drosophila_melanogaster,neck_connective,putative_primary,DNge047,"Tschida et al., 2015",immuno,5,0,0,0,0,1,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,SMPpv2_ventral,DNp02,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,putative_primary,DNp03,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
 adult_drosophila_melanogaster,neck_connective,SMPpv2_ventral,DNp04,"Cheong et al., 2023",EASI-FISH,4,1,0,0,0,0,0,0,0,0,0
