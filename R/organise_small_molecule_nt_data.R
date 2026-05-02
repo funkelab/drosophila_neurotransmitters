@@ -75,6 +75,26 @@ ft.cross <- ft %>%
   dplyr::arrange(hemilineage)
 readr::write_csv(x = ft.cross, file = "inst/extdata/cell_type_cross_matching.csv")
 
+# Sanity-check: as of the franken_meta NT/NP split (May 2026),
+# `neurotransmitter_verified` should now contain ONLY classical
+# small-molecule transmitters. Any peptide-like token left in the
+# column points at a regression in the franken pipeline. Warn but
+# don't abort.
+unexpected_in_nt <- ft %>%
+  dplyr::filter(!is.na(neurotransmitter_verified),
+                !neurotransmitter_verified %in% c(""," ","NA","unknown")) %>%
+  dplyr::pull(neurotransmitter_verified) %>%
+  paste(collapse = ";") %>%
+  strsplit(",|, |;|; |NA") %>% .[[1]] %>%
+  trimws() %>% unique() %>%
+  setdiff(c("", " ", "NA", "nitric_oxide", "nitric_oxide-negative",
+             all.fast.nts))
+if (length(unexpected_in_nt)) {
+  message("WARNING: non-NT tokens found in neurotransmitter_verified ",
+          "(should be empty after the May-2026 franken split): ",
+          paste(unexpected_in_nt, collapse = ", "))
+}
+
 # Take only the entries with a neurotransmitter_verified column
 ft.nt <- ft %>%
   dplyr::mutate(cell_type = dplyr::case_when(
@@ -428,38 +448,31 @@ gt.data <- read_csv("gt_sources/bates_2024/202508-gt_data.csv")
 # Get BANC neurons
 banc.meta <- banctable_query("SELECT root_id, supervoxel_id, position, super_class, cell_class, cell_sub_class, cell_type, fafb_cell_type, manc_cell_type, hemibrain_cell_type from banc_meta")
 
-# Join
+# Join via a long-format banc table. The previous chained right_join
+# implementation exploded ((cell_type × cell_type × cell_type ×
+# cell_type)-many-to-many) and could overflow vctrs match limits.
+banc.long <- dplyr::bind_rows(
+  banc.meta %>% dplyr::transmute(root_id, supervoxel_id, position,
+                                   cell_type,
+                                   match_via = "cell_type"),
+  banc.meta %>% dplyr::transmute(root_id, supervoxel_id, position,
+                                   cell_type = fafb_cell_type,
+                                   match_via = "fafb_cell_type"),
+  banc.meta %>% dplyr::transmute(root_id, supervoxel_id, position,
+                                   cell_type = hemibrain_cell_type,
+                                   match_via = "hemibrain_cell_type"),
+  banc.meta %>% dplyr::transmute(root_id, supervoxel_id, position,
+                                   cell_type = manc_cell_type,
+                                   match_via = "manc_cell_type")
+) %>%
+  dplyr::filter(!is.na(cell_type), nzchar(cell_type),
+                 cell_type %in% !!gt.data$cell_type) %>%
+  dplyr::distinct(root_id, supervoxel_id, position, cell_type,
+                   .keep_all = TRUE)
+
 banc.gt <- gt.data %>%
-  dplyr::right_join(banc.meta %>%
-                      dplyr::filter(cell_type %in% !!gt.data$cell_type,
-                                    !is.na(cell_type)) %>%
-                      dplyr::select(root_id, supervoxel_id, position, cell_type),
-                    relationship = "many-to-many",
-                    by = "cell_type") %>%
-  dplyr::right_join(banc.meta %>%
-                      dplyr::filter(fafb_cell_type %in% !!gt.data$cell_type,
-                                    !is.na(fafb_cell_type)) %>%
-                      dplyr::select(root_id, supervoxel_id, position, cell_type = fafb_cell_type),
-                    relationship = "many-to-many",
-                    by = "cell_type") %>%
-  dplyr::right_join(banc.meta %>%
-                      dplyr::filter(hemibrain_cell_type %in% !!gt.data$cell_type,
-                                    !is.na(hemibrain_cell_type)) %>%
-                      dplyr::select(root_id, supervoxel_id, position, cell_type = hemibrain_cell_type),
-                    relationship = "many-to-many",
-                    by = "cell_type") %>%
-  dplyr::right_join(banc.meta %>%
-                      dplyr::filter(manc_cell_type %in% !!gt.data$cell_type,
-                                    !is.na(manc_cell_type)) %>%
-                      dplyr::select(root_id, supervoxel_id, position, cell_type = manc_cell_type),
-                    relationship = "many-to-many",
-                    by = "cell_type") %>%
-  dplyr::mutate(root_id = coalesce(root_id.x,root_id.x.x,root_id.y,root_id.y.y),
-                supervoxel_id = coalesce(supervoxel_id.x,supervoxel_id.x.x,supervoxel_id.y,supervoxel_id.y.y),
-                position = coalesce(position.x,position.x.x,position.y,position.y.y)) %>%
-  dplyr::select(-root_id.x,-root_id.y,-root_id.x.x,-root_id.y.y,
-                -supervoxel_id.x,-supervoxel_id.x.x,-supervoxel_id.y,-supervoxel_id.y.y,
-                -position.x,-position.x.x,-position.y,-position.y.y) %>%
+  dplyr::inner_join(banc.long, by = "cell_type",
+                     relationship = "many-to-many") %>%
   dplyr::filter(!is.na(root_id), !is.na(cell_type)) %>%
   dplyr::distinct()
 
